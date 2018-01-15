@@ -5,7 +5,7 @@ import requests
 #Importo il Json Modificato e creo la seconda lista
 urls = list()
 
-with open('C:/Users/Administrator/Desktop/PythonProject/tutorial/tutorial/ris.json',"r", encoding="utf-8") as inputfile:
+with open('C:/Users/Administrator/Desktop/ris1d3.json',"r", encoding="utf-8") as inputfile:
     for line in inputfile:
         lines = re.sub(r'.*": "','',line)
         linesfin = re.sub(r'".*','',lines)
@@ -20,7 +20,7 @@ print(dff.to_csv('urls.csv', encoding='utf-8', sep=',', index=False, header=Fals
 
 
 m=list()
-with open('C:/Users/Administrator/Desktop/crawling/crawling/entry.csv', "r", encoding="utf-8") as inputfile:
+with open('C:/Users/Administrator/Desktop/PythonProject/tutorial/DatiTesiFinal/entry1d3.csv', "r", encoding="utf-8") as inputfile:
     for liss in inputfile:
          m.append(liss.strip())
 #################################################CRAWLER CON SCRAPY######################################################
@@ -28,9 +28,6 @@ with open('C:/Users/Administrator/Desktop/crawling/crawling/entry.csv', "r", enc
 
 lnotr=list()
 lnotr=list(set(m)-set(urls)) #Il set cambia poco la numerica
-
-
-
 
 
 len(lnotr)
@@ -41,7 +38,7 @@ len(urls)
 
 ####ELABORAZIONE SECONDI GIRI (RIMANE IDENTICO PER TUTTI)
 df = pd.DataFrame(lnotr)
-print(df.to_csv('entry.csv',encoding='utf-8',sep=',',index=False, header=False))
+print(df.to_csv('entry1d3GIRO2.csv',encoding='utf-8',sep=',',index=False, header=False))
 
 ################################################################
 
