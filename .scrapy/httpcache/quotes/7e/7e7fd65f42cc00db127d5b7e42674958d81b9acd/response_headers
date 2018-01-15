@@ -1,0 +1,12 @@
+Date: Fri, 15 Dec 2017 20:09:21 GMT
+Server: Apache
+Content-Security-Policy: frame-ancestors 'self'
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Thu, 05 Oct 2017 19:28:53 GMT
+Accept-Ranges: bytes
+Content-Type: text/plain
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: ut=daa0d371.5606693854ed6; path=/; domain=.jpmorgan.com; Secure; HttpOnly
+Set-Cookie: jpmm_bluecoat=jpmm_bluecoat_dc01; path=/;

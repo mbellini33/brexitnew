@@ -1,0 +1,8 @@
+Server: Apache
+Cache-Control: max-age=3600
+X-Server-Name: lx-cmlive17
+Content-Type: text/plain; charset=UTF-8
+Via: 1.1 lx-cache5:3128 (squid)
+Age: 29568
+Date: Fri, 15 Dec 2017 20:21:12 GMT
+Expires: Fri, 15 Dec 2017 13:08:24 GMT

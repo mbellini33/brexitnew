@@ -1,0 +1,16 @@
+Content-Type: text/html
+Location: https://www.britainfirst.org/robots.txt
+Server: Apache/2.4.7 (Ubuntu)
+Status: 302 Found
+X-Middleware-Start: t=1513368268613211
+X-Nb-Code: 1011
+X-Powered-By: Phusion Passenger Enterprise 5.0.28
+X-Rack-Cache: miss
+X-Request-Id: e53ffb9b-a48a-47e3-9a59-6e105f034a04
+X-Runtime: 0.062508
+X-Served-By: app4
+Expires: Fri, 15 Dec 2017 20:04:28 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 15 Dec 2017 20:04:28 GMT
+Use-Proxy: True

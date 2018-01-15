@@ -1,0 +1,8 @@
+# go away
+User-agent: *
+Disallow: /
+
+#Allow indexing of /assn_news
+
+User-agent: Googlebot
+Allow: /assn_news

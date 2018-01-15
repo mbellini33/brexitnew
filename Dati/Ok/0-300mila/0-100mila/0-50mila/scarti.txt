@@ -1,0 +1,4 @@
+http%3a%2f%2fwww.morningstar.co.uk%2fvirtual%2fSolrNews%2fAllianceNews.aspx%3fSite%3duk%26DocId%3dAN_1484202706832626600
+http%3a%2f%2fwww.morningstar.co.uk%2fvirtual%2fSolrNews%2fAllianceNews.aspx%3fSite%3duk%26DocId%3dAN_1484290301224158100
+http%3a%2f%2fwww.morningstar.co.uk%2fvirtual%2fSolrNews%2fAllianceNews.aspx%3fSite%3duk%26DocId%3dAN_1484320910754974900
+http%3a%2f%2fwww.morningstar.co.uk%2fvirtual%2fSolrNews%2fAllianceNews.aspx%3fSite%3duk%26DocId%3dAN_1484549222885351100

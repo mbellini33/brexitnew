@@ -1,0 +1,2755 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!-- prefix="og: http://ogp.me/ns#" -->
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="nKPmA1r7rKRsIcGkyZUDR49fMxbPjkcY_5bpeYiqZys" />
+<meta name="msvalidate.01" content="F04C579B4E9F58C56D987AE6928D5BCF" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://recruitingtimes.org/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Recruiting Times - Recruitment &amp; HR News Magazine</title>
+<meta name="description" content="Recruitment News Magazine for a Recruiter | Recruitment Times Magazine| Recruitmenttimes | HR News Magazine | Recruitment Sector Reports. Recruitment and HR Technology News. Recruiter and Recruitment stats and trends, recruitment magazine."/>
+<meta name="robots" content="noodp"/>
+<meta name="keywords" content="Recruiter Magazine - RecruitmentTimes - Recruitment Times - Recruitment News, Recruitment Magazine, Recruiter News, Recruiting News"/>
+<link rel="canonical" href="http://recruitingtimes.org/" />
+<link rel="next" href="http://recruitingtimes.org/page/2/" />
+<link rel="publisher" href="https://plus.google.com/u/0/b/108406285590607695371/+Hr-qualifications/posts"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Recruiting Times" />
+<meta property="og:description" content="Recruiter and Recruitment Industry News. HR news and updates. Recruitment sector reports. Recruitment technology news. Recruiter and recruitment stats and trends." />
+<meta property="og:url" content="http://recruitingtimes.org/" />
+<meta property="og:site_name" content="RECRUITING TIMES" />
+<meta property="fb:admins" content="100002139643340" />
+<meta property="og:image" content="http://recruitingtimes.org/wp-content/uploads/2014/10/RTlogo.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Recruitment News Magazine for a Recruiter | Recruitment Times Magazine| Recruitmenttimes | HR News Magazine | Recruitment Sector Reports. Recruitment and HR Technology News. Recruiter and Recruitment stats and trends, recruitment magazine." />
+<meta name="twitter:title" content="Recruiting Times - Recruitment &amp; HR News Magazine" />
+<meta name="twitter:site" content="@recruiting" />
+<meta name="twitter:image" content="http://recruitingtimes.org/wp-content/uploads/2014/10/RTlogo.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/recruitingtimes.org\/","name":"RECRUITING TIMES","alternateName":"Recruitment Times","potentialAction":{"@type":"SearchAction","target":"http:\/\/recruitingtimes.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/recruitingtimes.org\/","sameAs":["https:\/\/www.facebook.com\/therecruitingtimes","https:\/\/www.linkedin.com\/company\/the-recruiting-times?trk=biz-companies-cym","https:\/\/plus.google.com\/u\/0\/b\/108406285590607695371\/+Hr-qualifications\/posts","https:\/\/www.youtube.com\/user\/TheIORTV","https:\/\/twitter.com\/recruiting"],"@id":"#organization","name":"The Recruiting Times","logo":"http:\/\/recruitingtimes.org\/wp-content\/uploads\/2014\/08\/recruiting-times-logo-big.png"}</script>
+<meta name="msvalidate.01" content="ac41bc8d634a47b28deb7692da72bf59" />
+<meta name="google-site-verification" content="nKPmA1r7rKRsIcGkyZUDR49fMxbPjkcY_5bpeYiqZys" />
+<meta name="yandex-verification" content="5d9775d852022d53" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="RECRUITING TIMES &raquo; Feed" href="http://recruitingtimes.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RECRUITING TIMES &raquo; Comments Feed" href="http://recruitingtimes.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/recruitingtimes.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='popupally-pro-style-css'  href='http://recruitingtimes.org/wp-content/popupally-pro-scripts/1-popupally-pro-style.css?ver=2.0.8.93' type='text/css' media='all' />
+<link rel='stylesheet' id='essb-cct-style-css'  href='http://recruitingtimes.org/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='http://recruitingtimes.org/wp-content/plugins/easy-social-share-buttons3/assets/css/default-retina/easy-social-share-buttons.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css'  href='http://recruitingtimes.org/wp-content/themes/jarida/style.css?ver=4.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3Aregular%2C700&#038;ver=4.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://recruitingtimes.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-basic-css'  href='http://recruitingtimes.org/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rich-reviews-css'  href='http://recruitingtimes.org/wp-content/plugins/rich-reviews/css/rich-reviews.css?ver=4.7.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://recruitingtimes.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var popupally_pro_check_source_object = {"utm_mapping":{"popupally-cookie-2":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/plugins/popupally-pro/resource/frontend/check-source.min.js?ver=2.0.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var popupally_pro_action_object = {"ajax_url":"http:\/\/recruitingtimes.org\/wp-admin\/admin-ajax.php","submit_nonce":"363a2401eb","val_nonce":"fbb8c438f9","popup_param":{"2":{"id":2,"timed-popup-delay":60,"cookie-duration":0,"priority":1,"fade-in":"0","popup-selector":"#popup-box-pro-gfcr-2","embedded-popup-selector":"#popup-embedded-box-pro-gfcr-2","popup-class":"popupally-pro-opened-pro-gfcr-2","cookie-name":"popupally-cookie-2","close-trigger":".popup-click-close-trigger-2","close-iframe-selector":"","test":2}},"split_test":{"active":[],"variates":[]},"disable_track":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/plugins/popupally-pro/resource/frontend/popup.min.js?ver=2.0.8'></script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/plugins/rich-reviews/js/rich-reviews.min.js?ver=4.7.8'></script>
+<link rel='https://api.w.org/' href='http://recruitingtimes.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://recruitingtimes.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://recruitingtimes.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.8" />
+
+<!-- This site is using AdRotate v4.5 Professional to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-1 { margin:5px 0px 0px 0px;width:100%; max-width:370px; height:100%; max-height:280px; float:right; clear:right; }
+	.g-2 { margin:5px 0px 0px 0px;width:100%; max-width:370px; height:100%; max-height:280px; float:right; clear:right; }
+	.g-3 { width:100%; max-width:730px; height:100%; max-height:280px; margin: 0 auto; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+			<script type="text/javascript">
+			    var moreText = "Read More";
+			    var lessText = "Show Less";
+			    var excerptLength = 150;
+			</script>
+		<style type="text/css">.essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { color: #777777;content: "shares";display: block;font-size: 11px;font-weight: normal;text-align: center;text-transform: uppercase;margin-top: -5px; } .essb_links_list li.essb_totalcount_item .essb_t_l_big, .essb_links_list li.essb_totalcount_item .essb_t_r_big { text-align: center; } .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_totalcount_item_before, .essb_totalcount_item_after { display: block !important; } .essb_totalcount_item_before .essb_totalcount, .essb_totalcount_item_after .essb_totalcount { border: 0px !important; } .essb_counter_insidebeforename { margin-right: 5px; font-weight: bold; } .essb_width_columns_1 li { width: 100%; } .essb_width_columns_1 li a { width: 92%; } .essb_width_columns_2 li { width: 49%; } .essb_width_columns_2 li a { width: 86%; } .essb_width_columns_3 li { width: 32%; } .essb_width_columns_3 li a { width: 80%; } .essb_width_columns_4 li { width: 24%; } .essb_width_columns_4 li a { width: 70%; } .essb_width_columns_5 li { width: 19.5%; } .essb_width_columns_5 li a { width: 60%; } .essb_links li.essb_totalcount_item_before, .essb_width_columns_1 li.essb_totalcount_item_after { width: 100%; text-align: left; } .essb_network_align_center a { text-align: center; } .essb_network_align_right .essb_network_name { float: right;}</style>
+<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/recruitingtimes.org\/wp-admin\/admin-ajax.php","essb3_nonce":"c5918b7244","essb3_plugin_url":"http:\/\/recruitingtimes.org\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":false,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"http:\/\/recruitingtimes.org\/","ajax_type":"light","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":true,"twitter_counter":"api"};</script><link rel="shortcut icon" href="http://recruitingtimes.org/wp-content/uploads/2015/10/RT-flav-new-150x.png" title="Favicon" /><!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://recruitingtimes.org/wp-content/themes/jarida/js/html5.js"></script>
+<script src="http://recruitingtimes.org/wp-content/themes/jarida/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://recruitingtimes.org/wp-content/themes/jarida/css/ie8.css" />
+<![endif]-->
+<script type='text/javascript'>
+	/* <![CDATA[ */
+	var tievar = {'go_to' : 'Go to...'};
+	var tie = {"ajaxurl":"http://recruitingtimes.org/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+	/* ]]> */
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<style type="text/css" media="screen"> 
+
+body{
+background-color:#fff !important; 
+}
+
+body{
+	font-family: 'GuardianText';
+}
+
+.logo h1 a, .logo h2 a{
+	font-family: 'GuardianText';
+}
+
+.logo span{
+	font-family: 'GuardianText';
+}
+
+.top-nav, .top-nav ul li a, .breaking-news span {
+	font-family: 'GuardianText';
+}
+
+#main-nav, #main-nav ul li a{
+	font-family: 'GuardianText';
+	font-weight: normal !important;
+}
+
+.page-title{
+	font-family: 'GuardianText';
+	font-weight: normal !important;
+}
+
+.post-title{
+	font-family: 'GuardianText';
+	font-weight: normal !important;
+}
+
+h2.post-box-title, h2.post-box-title a{
+	font-family: 'GuardianText';
+}
+
+h3.post-box-title, h3.post-box-title a{
+	font-family: 'GuardianText';
+}
+
+.ei-title h2 , .slider-caption h2 a, .content .slider-caption h2 a, .slider-caption h2, .content .slider-caption h2, .content .ei-title h2{
+	font-family: 'GuardianText';
+	font-weight: normal !important;
+}
+
+p.post-meta, p.post-meta a{
+	font-family: 'GuardianText';
+}
+
+body.single .entry, body.page .entry{
+	font-family: 'GuardianText';
+	font-weight: normal !important;
+}
+
+.widget-top h4, .widget-top h4 a{
+	font-family: 'GuardianText';
+}
+
+.footer-widget-top h4, .footer-widget-top h4 a{
+	font-family: 'GuardianText';
+}
+
+h2.cat-box-title, h2.cat-box-title a, .block-head h3, #respond h3, #comments-title, h2.review-box-header  {
+	font-family: 'GuardianText';
+}
+	#main-nav ul li.current-menu-item a,
+	#main-nav ul li.current-menu-item a:hover,
+	#main-nav ul li.current-menu-parent a,
+	#main-nav ul li.current-menu-parent a:hover,
+	#main-nav ul li.current-page-ancestor a,
+	#main-nav ul li.current-page-ancestor a:hover,
+	.pagination span.current,
+	.ei-slider-thumbs li.ei-slider-element,
+	.breaking-news span,
+	.ei-title h2,h2.cat-box-title,
+	a.more-link,.scroll-nav a,
+	.flex-direction-nav a,
+	.tagcloud a:hover,
+	#tabbed-widget ul.tabs li.active a,
+	.slider-caption h2, .full-width .content .slider-caption h2,
+	.review-percentage .review-item span span,.review-final-score,
+	.woocommerce span.onsale, .woocommerce-page span.onsale ,
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+	.button,a.button,#main-content input[type="submit"],#main-content input[type="submit"]:focus, span.onsale {
+		background-color:#135285 !important;
+	}
+	::-webkit-scrollbar-thumb{background-color:#135285 !important;}
+	#main-nav,.top-nav {border-bottom-color: #135285;}
+	.cat-box , .footer-bottom .container{border-top-color: #135285;}
+.top-nav, .top-nav ul ul {background-color:#000000;}
+.top-nav ul li a , .top-nav ul ul a {
+	color: #ffffff !important;	text-shadow: 0 1px 1px #ffffff !important;}
+.top-nav ul li a:hover, .top-nav ul li:hover > a, .top-nav ul :hover > a , .top-nav ul li.current-menu-item a  {
+	color: #ffffff !important;	text-shadow: 0 1px 1px #ffffff !important;}
+header#theme-header{background:#fff      !important;}
+#main-nav, #main-nav ul ul, #main-nav ul li.mega-menu .mega-menu-block {background-color:#f2f2f2 !important;;}
+#main-nav ul li a , #main-nav ul ul a , #main-nav ul.sub-menu a {
+	color: #000000 !important;	text-shadow: 0 1px 1px #ffffff !important;}
+#main-nav ul li a:hover, #main-nav ul li:hover > a, #main-nav ul :hover > a , #main-nav  ul ul li:hover > a, #main-nav  ul ul :hover > a  {
+	color: #7283c5 !important;	text-shadow: 0 1px 1px #ffffff !important;}
+#main-nav ul li.current-menu-item a  {
+	color: #ffffff !important;	}
+#main-nav ul li {
+	border-color: #f2f2f2;
+}
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-top-color: #f2f2f2;
+}
+#main-nav ul li a {
+	border-left-color: #f2f2f2;
+}
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-bottom-color: #f2f2f2;
+}
+.wrapper{background:#fff     ;}
+
+.author-bio p{
+margin: 1em 0;
+}
+
+.author-bio ul{
+
+}
+
+.post-box-title a, .post-title a{
+  color:#005689;
+}
+.excerptfield, .single .post-inner p.post-meta{
+border-bottom: 1px solid #bdbcbc !important;
+}
+
+.sidebar-narrow-right .sidebar .widget:first-child .widget-top{
+display:none;
+}
+.sidebar-narrow-right .sidebar .widget:first-child .widget-container{
+padding:0px !important;
+}
+
+.sidebar-right .sidebar .widget:first-child .widget-top{
+display:none;
+}
+.sidebar-right .sidebar .widget:first-child .widget-container{
+padding:0px !important;
+}
+
+#main-content .sidebar .widget:first-child .widget-top{
+display:none;
+}
+#main-content .sidebar .widget:first-child .widget-container{
+padding:0px !important;
+}
+.single-post-caption{
+font-size: 13px !important;
+color: #666666 !important;
+background:none !important;
+text-align:left !important;
+}
+
+.umbrellaContainer{
+	border-radius:5px;
+	border:solid 1px #D8D3FE;
+	margin-bottom:15px;
+	padding:20px;
+
+background: #ffffff; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmMmYyZjIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #ffffff 0%, #f2f2f2 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ffffff 0%,#f2f2f2 100%); /* IE10+ */
+background: linear-gradient(to bottom, #ffffff 0%,#f2f2f2 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-8 */
+copy
+}
+.umbrellaContainer .umbrellaInnerContainer{
+	padding:10px;
+	border-radius:5px;
+	border:solid 2px #DADADA;
+	background:#FFF;
+}
+.umbrellaContainer {
+	text-align:center;
+}
+.umbrellaContainer .sepratorImage {
+	background-image:url(http://recruitingtimes.org/wp-content/uploads/2014/09/line-seperator.jpg);
+	background-position: center center;
+	margin:0px 0px 20px 0px;
+	width:100%;
+	height:7px;
+       background-repeat: no-repeat;
+}
+.umbrellaContainer .umbrellaText{
+	color:#7B7B7B;
+margin:10px 0px 0px 0px;
+font-size:17px;
+}
+.ucontainer .umbrellaSocialIcons{
+margin:10px 0px 0px 0px;
+}
+.umbrellaLinks{
+color:#a5a5a5;
+font-size:16px;
+}
+.umbrellaContainer a{
+color:#736bbd;
+font-size:16px
+}
+
+.chimpy_popup_content footer {
+text-shadow: none !important;
+}
+
+.sky-form header {
+display: table-cell;
+}
+
+.full-size-custom-header{
+background-color: #145285;
+border-bottom: solid 5px #ddd;
+}
+.full-size-custom-header .container{
+margin-bottom:0;
+}
+.full-size-custom-header .container #theme-header{
+  margin-bottom: 0  !important;
+  background: none !important;
+}
+.share-post{
+height:auto !important;
+}
+.share-post li{
+width:auto;
+margin-right:10px;
+}
+.share-post li:last-child{
+margin-right:0;
+}
+.post-box-title a, .post-title a {
+  line-height: 1.3;
+}
+#main-nav ul li a{
+font-size:16px;
+}
+.footer-widget-container h3{
+font-size:1.1em;
+}
+.post-title{
+ line-height:1.3;
+  margin-bottom: 10px;
+}
+.excerptfield,a{
+line-height:1.3;
+}
+.featured-image_for span{
+display:block;
+color:#767676;
+}
+
+.post-title{
+font-size:2.25em !important;
+}
+.excerptfield{
+color:#767676;
+}
+.single .entry p, .post-inner p {
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+.single .entry li {
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+.home-page-news-title{
+font-size:1.9em;
+}
+.single .post-tag{
+margin-top:0px;
+}
+
+#main-nav ul li.current-menu-item a,#main-nav ul li.current-menu-parent a{
+color:#FFF !important;
+}
+.essb_links_list li {
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+
+</style> 
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://recruitingtimes.org/wp-content/uploads/2015/10/RT-logo-144x.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://recruitingtimes.org/wp-content/uploads/2015/10/RT-logo-120x.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://recruitingtimes.org/wp-content/uploads/2015/10/RT-logo-72x1.png" />
+<link rel="apple-touch-icon-precomposed" href="http://recruitingtimes.org/wp-content/uploads/2015/10/RT-logo-57x2.png" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"NPKvl1agWBr1l9", domain:"recruitingtimes.org",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })(); </script> <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=NPKvl1agWBr1l9" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+</head>
+<body id="top" class="home blog">
+	<div class="background-cover"></div>
+	<div class="wrapper full-site">
+				<div class="top-nav fade-in animated1 head_brnews">
+			<div class="container">
+				<div class="search-block">
+					<form method="get" id="searchform" action="http://recruitingtimes.org/">
+						<button class="search-button" type="submit" value="Search"></button>	
+						<input type="text" id="s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}"  />
+					</form>
+				</div><!-- .search-block /-->
+				
+		<div class="social-icons icon_flat">
+
+		<a class="tooldown" title="Rss" href="http://recruitingtimes.org/feed/" target="_blank"><i class="tieicon-rss"></i></a><a class="tooldown" title="Google+" href="https://plus.google.com/+RecruitingtimesOrg-HR-Recruitment-News/posts" target="_blank"><i class="tieicon-gplus"></i></a><a class="tooldown" title="Facebook" href="https://www.facebook.com/therecruitingtimes" target="_blank"><i class="tieicon-facebook"></i></a><a class="tooldown" title="Twitter" href="https://twitter.com/recruiting" target="_blank"><i class="tieicon-twitter"></i></a><a class="tooldown" title="Pinterest" href="http://uk.pinterest.com/theior/" target="_blank"><i class="tieicon-pinterest-circled"></i></a><a class="tooldown" title="LinkedIn" href="https://www.linkedin.com/company/the-recruiting-times" target="_blank"><i class="tieicon-linkedin"></i></a><a class="tooldown" title="Youtube" href="https://www.youtube.com/user/TheIORTV" target="_blank"><i class="tieicon-youtube"></i></a>
+	</div>
+
+
+
+				
+					
+	<div class="breaking-news">
+		<span>New</span>
+				
+								<ul>
+								<li><a href="https://ior.org/page/Professional-Apprenticeship-Prospectus-Recruitment-and-Management" title="Recruitment Apprenticeship Guidance">Recruitment Apprenticeship Guidance</a></li>				
+							<li><a href="http://studycourse.org/course-directory/course/the-complete-recruiter-in-28-days-online/14/34" title="BOOK NOW - The Complete Recruiter Course in just 28 days ">BOOK NOW - The Complete Recruiter Course in just 28 days </a></li>				
+							<li><a href="http://studycourse.org/course-directory/course/the-complete-resourcer-in-14-days-online/14/35" title="SHARE THIS: The Complete Resourcer Course in just 14 days ">SHARE THIS: The Complete Resourcer Course in just 14 days </a></li>				
+							<li><a href="http://www.theior.org.uk/ior-membership" title="The IOR is the GOLD STANDARD in Recruitment Body Membership - JOIN NOW">The IOR is the GOLD STANDARD in Recruitment Body Membership - JOIN NOW</a></li>				
+							<li><a href="http://studycourse.org/HR-Courses" title="NEW HR COURSE - The Practical Qualification in HR - BOOK NOW">NEW HR COURSE - The Practical Qualification in HR - BOOK NOW</a></li>				
+							<li><a href="http://studycourse.org/In-House-Recrutiment-Courses" title="In-House Recruitment Qualification - BOOK NOW">In-House Recruitment Qualification - BOOK NOW</a></li>				
+							<li><a href="http://splitfee.org/" title="Recruiters are sharing jobs and fees at SplitFee.org - Join for FREE NOW">Recruiters are sharing jobs and fees at SplitFee.org - Join for FREE NOW</a></li>				
+							<li><a href="http://www.theior.org.uk/Ethics_Champions_Roll_of_Honour" title="Do you recognise these Recruitment Ethics Champions?">Do you recognise these Recruitment Ethics Champions?</a></li>				
+							<li><a href="http://studycourse.org/course-directory/course/professional-certificate-in-agency-recruiting/3/12" title="BOOK NOW - Professional Agency Recruitment Qualification">BOOK NOW - Professional Agency Recruitment Qualification</a></li>				
+						</ul>
+									<script type="text/javascript">
+			jQuery(document).ready(function(){
+								createTicker(); 
+							});
+		</script>
+	</div> <!-- .breaking-news -->				
+			</div>
+		</div><!-- .top-menu /-->
+				
+		<div class="full-size-custom-header">
+		<div class="container" style="margin-bottom:0;">	
+		<header id="theme-header">
+		<div class="header-content fade-in animated1">
+			<div class="logo">
+			<h2>								<a title="RECRUITING TIMES" href="http://recruitingtimes.org/">
+					<img src="http://recruitingtimes.org/wp-content/uploads/2015/10/newRT-logo-no-the.png" alt="RECRUITING TIMES" /><strong>RECRUITING TIMES Recruitment and HR News and Jobs</strong>
+				</a>
+			</h2>			
+			<a id="mobile-nav-menu-toggle-btn"></a>
+			</div><!-- .logo /-->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	var retina = window.devicePixelRatio > 1 ? true : false;
+	if(retina) {
+       	jQuery('#theme-header .logo img').attr('src', 'http://recruitingtimes.org/wp-content/uploads/2015/10/new-RT-logo-no-the-large.png');
+       	jQuery('#theme-header .logo img').attr('width', '304');
+       	jQuery('#theme-header .logo img').attr('height', '92');
+	}
+});
+
+</script>
+			<div class="ads-top">					
+			<a href="https://www.zoho.com/recruit/?utm_source=IOR&amp;utm_medium=leaderboard-ban&amp;utm_campaign=IOR" title="Recruitment Software for Staffing Agencies and Independent Recruiters " target="_blank"rel="nofollow">
+				<img src="http://recruitingtimes.org/wp-content/uploads/2015/05/Zoho-All-in-One.gif" alt="Recruitment Software for Staffing Agencies and Independent Recruiters " />
+			</a>
+				</div>			<div class="clear"></div>
+			</header>
+		</div>	
+		</div>
+		<div class="container">	
+		<header id="theme-header">	
+		
+									<nav id="main-nav" class="fade-in animated2">
+				<div class="container">				
+				<div class="main-menu"><ul id="menu-main" class="menu"><li id="menu-item-767" class="menu-item  menu-item-type-custom  menu-item-object-custom  current-menu-item  menu-item-home  menu-item-has-children"><a href="http://recruitingtimes.org/">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-1778" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/advertise-in-the-recruiting-times/">Advertise in The Recruiting Times</a></li>
+	<li id="menu-item-1777" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/ior-partner-membership/">IOR Partner Membership</a></li>
+	<li id="menu-item-1289" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/contact-us/">Send us your news</a></li>
+	<li id="menu-item-903" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/sitemap/">Sitemap</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-1117" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/news/">News</a></li>
+<li id="menu-item-5073" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://jobs.ior.org/">Jobs</a></li>
+<li id="menu-item-963" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/">Legal</a></li>
+<li id="menu-item-5863" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/business-movers-shakers/">Hot</a></li>
+<li id="menu-item-1132" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/">Announcements</a></li>
+<li id="menu-item-1135" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/recruitment-and-hr-features/">Features</a></li>
+<li id="menu-item-1130" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/opinions/">Opinions</a></li>
+<li id="menu-item-1133" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/">L&#038;D</a></li>
+<li id="menu-item-962" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/">Tech</a></li>
+<li id="menu-item-1445" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/recruitment-sector-reports/">Reports</a></li>
+<li id="menu-item-1028" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children"><a target="_blank" href="http://studycourse.org/">Courses</a>
+<ul class="sub-menu">
+	<li id="menu-item-5764" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://studycourse.org/">Accredited Recruitment Courses</a></li>
+	<li id="menu-item-5765" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://studycourse.org/">Leadership &#038; Management Courses</a></li>
+	<li id="menu-item-1031" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a target="_blank" href="http://studycourse.org/HR-Courses">HR Courses</a></li>
+	<li id="menu-item-1037" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a target="_blank" href="http://studycourse.org/In-House-Recrutiment-Courses">In-House Recruitment</a></li>
+	<li id="menu-item-1038" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a title="Agency Recruitment Courses" target="_blank" href="http://studycourse.org/Agency-Recrutiment-Courses">Agency Recruitment</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+<li id="menu-item-1294" class="menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-has-children"><a href="http://recruitingtimes.org/recruitment-hr-supplier-directory/">Suppliers</a>
+<ul class="sub-menu">
+	<li id="menu-item-1302" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/finance-umbrellas/">Finance &#038; Umbrellas</a></li>
+	<li id="menu-item-1306" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/insurance-brokers/">Insurance Brokers</a></li>
+	<li id="menu-item-1310" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/job-boards/">Job Boards</a></li>
+	<li id="menu-item-1314" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/legal-services/">Legal Services</a></li>
+	<li id="menu-item-1141" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/recruitment-hr-software/">Recruitment &#038; HR Software</a></li>
+	<li id="menu-item-1320" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/recruitment-outsourcing-services/">Recruitment Outsourcing Services</a></li>
+	<li id="menu-item-1324" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/telecoms/">Telecoms</a></li>
+	<li id="menu-item-1328" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/recruitment-hr-training-providers/">Training Providers</a></li>
+	<li id="menu-item-1283" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="http://recruitingtimes.org/get-listed-in-our-supplier-pages/">Get Listed In Our Supplier Pages</a></li>
+</ul> <!--End Sub Menu -->
+</li>
+</ul></div>				</div>
+			</nav><!-- .main-nav /-->
+			
+		</header><!-- #header /-->
+	</div>
+	</div>
+	<div class="container">	
+	
+	
+	<div id="main-content" class="container fade-in animated3">
+	
+	<script type="text/javascript">
+	jQuery(function() {
+		jQuery(window).load(function() {
+			jQuery("img").each(function(index, element) {
+				var attr = jQuery(this).attr("alt");
+				if(attr == "undefined" || attr == undefined || jQuery.trim(attr) == ""){
+					jQuery(this).attr("alt","Recruiting Times, Recruiter News, HR News, Recruitment Supplier Directory, Recruitment Courses, HR Courses.");
+				}
+			});
+		});
+		
+		jQuery(window).ready(function() {
+			jQuery("#mobile-nav-menu-toggle-btn").click(function(){
+				if(jQuery(this).hasClass("opened")){
+					jQuery("#main-nav").removeClass("show-main-menu");
+					jQuery(this).removeClass("opened");
+				}else{
+					jQuery("#main-nav").addClass("show-main-menu");
+					jQuery(this).addClass("opened");
+				}
+				
+				
+			});
+		});
+		
+	});
+</script>
+<div class="content-wrap">
+<div class="content">
+<h1 class="home-page-news-title">Recruitment and HR News and Jobs</h1>
+			<section class="cat-box wide-box tie-cat-2">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/news/">News</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/" title="Permalink to Unemployment remains at four-decade low" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+												
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/" title="Permalink to Unemployment remains at four-decade low" rel="bookmark">Unemployment remains at four-decade low</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/#respond">Leave a comment</a></span>
+<span class="post-views">241 Views</span> </p>
+							<div class="entry">
+								<p>Youth unemployment has fallen by over 40% since 2010</p>
+								<a class="more-link" href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li >
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22109/2018-recruitment-trends-improving-candidate-experience-via-technology/" title="Permalink to 2018 Recruitment Trends – Improving Candidate Experience via Technology" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/business-man-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="HR" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/business-man-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/business-man-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/news/22109/2018-recruitment-trends-improving-candidate-experience-via-technology/" title="Permalink to 2018 Recruitment Trends – Improving Candidate Experience via Technology" rel="bookmark">2018 Recruitment Trends – Improving Candidate Experience via Technology</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">4 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22109/2018-recruitment-trends-improving-candidate-experience-via-technology/#comments">1 Comment</a></span>
+<span class="post-views">954 Views</span> </p>
+					</li>
+																		<li class="last-column">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22105/hr-recruiting-vacancies-slow-little-threat-automation/" title="Permalink to HR and recruiting vacancies slow up but with little threat from automation" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/handshake-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="handshake" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/handshake-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/handshake-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/news/22105/hr-recruiting-vacancies-slow-little-threat-automation/" title="Permalink to HR and recruiting vacancies slow up but with little threat from automation" rel="bookmark">HR and recruiting vacancies slow up but with little threat from automation</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">4 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22105/hr-recruiting-vacancies-slow-little-threat-automation/#comments">1 Comment</a></span>
+<span class="post-views">582 Views</span> </p>
+					</li>
+																		<li >
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22098/recruiters-reveal-like-ai-automation-hiring-process/" title="Permalink to Recruiters reveal what they would like from AI and Automation in the hiring process" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/automation-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="AI" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/automation-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/automation-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/news/22098/recruiters-reveal-like-ai-automation-hiring-process/" title="Permalink to Recruiters reveal what they would like from AI and Automation in the hiring process" rel="bookmark">Recruiters reveal what they would like from AI and Automation in the hiring process</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">4 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22098/recruiters-reveal-like-ai-automation-hiring-process/#respond">Leave a comment</a></span>
+<span class="post-views">691 Views</span> </p>
+					</li>
+																		<li class="last-column">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22095/bank-england-warns-uk-workers-jobs-boom-tailing-off-key-sectors/" title="Permalink to Bank of England warns UK workers that the jobs boom is tailing off in key sectors" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/interview-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="UK_jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/interview-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/interview-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/news/22095/bank-england-warns-uk-workers-jobs-boom-tailing-off-key-sectors/" title="Permalink to Bank of England warns UK workers that the jobs boom is tailing off in key sectors" rel="bookmark">Bank of England warns UK workers that the jobs boom is tailing off in key sectors</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">4 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22095/bank-england-warns-uk-workers-jobs-boom-tailing-off-key-sectors/#respond">Leave a comment</a></span>
+<span class="post-views">489 Views</span> </p>
+					</li>
+																		<li >
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22092/employers-owe-16000-staff-staggering-1-7-million-avoiding-minimum-wage/" title="Permalink to Employers owe 16,000 staff a staggering £1.7 million after avoiding minimum wage" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/amazon-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Amazon" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/amazon-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/amazon-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/news/22092/employers-owe-16000-staff-staggering-1-7-million-avoiding-minimum-wage/" title="Permalink to Employers owe 16,000 staff a staggering £1.7 million after avoiding minimum wage" rel="bookmark">Employers owe 16,000 staff a staggering £1.7 million after avoiding minimum wage</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">4 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22092/employers-owe-16000-staff-staggering-1-7-million-avoiding-minimum-wage/#respond">Leave a comment</a></span>
+<span class="post-views">384 Views</span> </p>
+					</li>
+																		<li class="last-column">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/news/22088/native-english-speakers-amongst-worlds-worst-communicators/" title="Permalink to Native English speakers are amongst the world&#8217;s worst communicators" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/Foreign-Tongues-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Foreign-Tongues" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/Foreign-Tongues-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/Foreign-Tongues-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/news/22088/native-english-speakers-amongst-worlds-worst-communicators/" title="Permalink to Native English speakers are amongst the world&#8217;s worst communicators" rel="bookmark">Native English speakers are amongst the world&#8217;s worst communicators</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">4 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/news/22088/native-english-speakers-amongst-worlds-worst-communicators/#respond">Leave a comment</a></span>
+<span class="post-views">354 Views</span> </p>
+					</li>
+													</ul>
+				<div class="clear"></div>
+
+								</div><!-- .cat-box-content /-->
+		</section><!-- Wide Box -->
+
+		
+	
+
+
+
+			<div class="home-ads">
+
+			<p><a href="/?cat=2" class="more-link" style="padding:6px 7px;">More News »</a><br/><br/></p>			
+
+			</div>
+
+			<div class="clear"></div>
+
+							<section class="cat-box column2 tie-cat-7 ">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/">Legal News</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/" title="Permalink to Best practice: Suspending an employee" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-300x160.png" class="attachment-tie-large size-tie-large wp-post-image" alt="newly-qualified-lawyer" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-300x160.png 300w, http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-620x330.png 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/" title="Permalink to Best practice: Suspending an employee" rel="bookmark">Best practice: Suspending an employee</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/padma/" title="">Padma Tadi </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/#respond">Leave a comment</a></span>
+<span class="post-views">229 Views</span> </p>
+							<div class="entry">
+								<p>Suspending an employee suspected of misconduct is not a neutral act</p>
+								<a class="more-link" href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22083/support-grows-anti-slavery-protocol-construction-industry/" title="Permalink to Support grows for anti-slavery protocol in construction industry" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/01/working-1024382_1280-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2016/01/working-1024382_1280-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/01/working-1024382_1280-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22083/support-grows-anti-slavery-protocol-construction-industry/" title="Permalink to Support grows for anti-slavery protocol in construction industry" rel="bookmark">Support grows for anti-slavery protocol in construction industry</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">7 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22083/support-grows-anti-slavery-protocol-construction-industry/#comments">1 Comment</a></span>
+<span class="post-views">598 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/" title="Permalink to The GDPR Race Is On" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/" title="Permalink to The GDPR Race Is On" rel="bookmark">The GDPR Race Is On</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">8 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a>, <a href="http://recruitingtimes.org/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/#comments">1 Comment</a></span>
+<span class="post-views">968 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22011/glaa-assists-securing-three-slavery-arrests-norfolk/" title="Permalink to GLAA assists in securing three ‘slavery arrests’ in Norfolk" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/Trafficking-gang-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Trafficking-gang" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/Trafficking-gang-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/Trafficking-gang-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22011/glaa-assists-securing-three-slavery-arrests-norfolk/" title="Permalink to GLAA assists in securing three ‘slavery arrests’ in Norfolk" rel="bookmark">GLAA assists in securing three ‘slavery arrests’ in Norfolk</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22011/glaa-assists-securing-three-slavery-arrests-norfolk/#respond">Leave a comment</a></span>
+<span class="post-views">620 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21974/holiday-party-dos-donts-take-mistletoe/" title="Permalink to Holiday party do&#8217;s and don&#8217;ts: Take down the mistletoe" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/christmas-party-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Christmas_party" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/christmas-party-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/christmas-party-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21974/holiday-party-dos-donts-take-mistletoe/" title="Permalink to Holiday party do&#8217;s and don&#8217;ts: Take down the mistletoe" rel="bookmark">Holiday party do&#8217;s and don&#8217;ts: Take down the mistletoe</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">16 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21974/holiday-party-dos-donts-take-mistletoe/#comments">1 Comment</a></span>
+<span class="post-views">1,676 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21923/employers-urged-watch-modern-slavery-film/" title="Permalink to Employers urged to watch Modern Slavery film" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/03/The-Modern-Slavery-Act-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2016/03/The-Modern-Slavery-Act-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/03/The-Modern-Slavery-Act-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21923/employers-urged-watch-modern-slavery-film/" title="Permalink to Employers urged to watch Modern Slavery film" rel="bookmark">Employers urged to watch Modern Slavery film</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">22 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21923/employers-urged-watch-modern-slavery-film/#comments">2 Comments</a></span>
+<span class="post-views">1,176 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21810/succeed-video-interview-perfect-legal-job/" title="Permalink to How to succeed at a video interview for that perfect legal job" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/legal-professionals-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="legal-professionals" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/legal-professionals-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/legal-professionals-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21810/succeed-video-interview-perfect-legal-job/" title="Permalink to How to succeed at a video interview for that perfect legal job" rel="bookmark">How to succeed at a video interview for that perfect legal job</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">29 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" rel="category tag">Legal News</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21810/succeed-video-interview-perfect-legal-job/#comments">2 Comments</a></span>
+<span class="post-views">1,052 Views</span> </p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-581 last-column">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/">What's Hot</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/" title="Permalink to Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/12/decline-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="decline" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/decline-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2017/12/decline-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/" title="Permalink to Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB" rel="bookmark">Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 hours ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/#respond">Leave a comment</a></span>
+<span class="post-views">144 Views</span> </p>
+							<div class="entry">
+								<p>The BEIS revealed a list of 260 business paying 16,000 staff below the minimum wage</p>
+								<a class="more-link" href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/22125/plumbers-builders-electricians-britains-biggest-secret-santa-spenders/" title="Permalink to Plumbers, builders and electricians are Britain&#8217;s biggest Secret Santa spenders" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/OFFICE_PARTY-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="OFFICE_PARTY" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/OFFICE_PARTY-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/OFFICE_PARTY-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/22125/plumbers-builders-electricians-britains-biggest-secret-santa-spenders/" title="Permalink to Plumbers, builders and electricians are Britain&#8217;s biggest Secret Santa spenders" rel="bookmark">Plumbers, builders and electricians are Britain&#8217;s biggest Secret Santa spenders</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">3 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/22125/plumbers-builders-electricians-britains-biggest-secret-santa-spenders/#respond">Leave a comment</a></span>
+<span class="post-views">442 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/22020/uks-top-cities-work/" title="Permalink to The UK’s top cities to work in" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/11/Webp.net-resizeimage-2-2-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/11/Webp.net-resizeimage-2-2-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/11/Webp.net-resizeimage-2-2-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/22020/uks-top-cities-work/" title="Permalink to The UK’s top cities to work in" rel="bookmark">The UK’s top cities to work in</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/22020/uks-top-cities-work/#respond">Leave a comment</a></span>
+<span class="post-views">553 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/21983/half-52-uk-employers-believe-university-prepares-graduates-world-work/" title="Permalink to Over half (52%) of UK employers DO believe university prepares graduates for the world of work" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/03/university-2119707_1920-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="degree" srcset="http://recruitingtimes.org/wp-content/uploads/2017/03/university-2119707_1920-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/03/university-2119707_1920-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/21983/half-52-uk-employers-believe-university-prepares-graduates-world-work/" title="Permalink to Over half (52%) of UK employers DO believe university prepares graduates for the world of work" rel="bookmark">Over half (52%) of UK employers DO believe university prepares graduates for the world of work</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">16 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/21983/half-52-uk-employers-believe-university-prepares-graduates-world-work/#respond">Leave a comment</a></span>
+<span class="post-views">987 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/21935/businesses-struggling-identify-attract-retain-top-performing-employees/" title="Permalink to Why are businesses struggling to identify, attract, and retain top-performing employees?" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/08/bored-worker-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Third of British workers feel job is meaningless" srcset="http://recruitingtimes.org/wp-content/uploads/2015/08/bored-worker-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/08/bored-worker-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/21935/businesses-struggling-identify-attract-retain-top-performing-employees/" title="Permalink to Why are businesses struggling to identify, attract, and retain top-performing employees?" rel="bookmark">Why are businesses struggling to identify, attract, and retain top-performing employees?</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">22 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/21935/businesses-struggling-identify-attract-retain-top-performing-employees/#respond">Leave a comment</a></span>
+<span class="post-views">1,018 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/21875/gmb-warns-public-safety-scandal-hermes-couriers-forced-work-21-days-straight-scrooge-employer/" title="Permalink to GMB warns of public safety scandal as Hermes couriers forced to work up to 21 days straight by &#8216;scrooge&#8217; employer" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/06/unpaid-overtime-NL-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2016/06/unpaid-overtime-NL-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/06/unpaid-overtime-NL-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/21875/gmb-warns-public-safety-scandal-hermes-couriers-forced-work-21-days-straight-scrooge-employer/" title="Permalink to GMB warns of public safety scandal as Hermes couriers forced to work up to 21 days straight by &#8216;scrooge&#8217; employer" rel="bookmark">GMB warns of public safety scandal as Hermes couriers forced to work up to 21 days straight by &#8216;scrooge&#8217; employer</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">24 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/21875/gmb-warns-public-safety-scandal-hermes-couriers-forced-work-21-days-straight-scrooge-employer/#comments">1 Comment</a></span>
+<span class="post-views">814 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/business-movers-shakers/21823/recruitment-planning-nhs-workforce-judged-unfit-purpose/" title="Permalink to Recruitment planning for NHS workforce is judged ‘unfit for purpose’" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/08/NHS-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="NHS_framework" srcset="http://recruitingtimes.org/wp-content/uploads/2016/08/NHS-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/08/NHS-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/business-movers-shakers/21823/recruitment-planning-nhs-workforce-judged-unfit-purpose/" title="Permalink to Recruitment planning for NHS workforce is judged ‘unfit for purpose’" rel="bookmark">Recruitment planning for NHS workforce is judged ‘unfit for purpose’</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">29 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/business-movers-shakers/" rel="category tag">What's Hot</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/business-movers-shakers/21823/recruitment-planning-nhs-workforce-judged-unfit-purpose/#respond">Leave a comment</a></span>
+<span class="post-views">935 Views</span> </p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+		<section class="cat-box scroll-box tie-cat-9">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/opinions/">Opinions</a></h2>
+
+			<div class="cat-box-content">
+								<div class="group_items-box" id="slideshow9">
+									<div class="scroll-item">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/" title="Permalink to How to handle conflict at work" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-300x160.png" class="attachment-tie-large size-tie-large wp-post-image" alt="Manage-Office-Conflict" srcset="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-300x160.png 300w, http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-620x330.png 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/" title="Permalink to How to handle conflict at work" rel="bookmark">How to handle conflict at work</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">1 day ago</span>						</p>
+					</div>
+									<div class="scroll-item">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/opinions/22129/football-analogy-things-life-first-love-comes-business-couldnt-accurate/" title="Permalink to Football is my analogy for most things in my life (being my first love) but when it comes to business it couldn’t be more accurate" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/12/image002-300x160.png" class="attachment-tie-large size-tie-large wp-post-image" alt="" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/opinions/22129/football-analogy-things-life-first-love-comes-business-couldnt-accurate/" title="Permalink to Football is my analogy for most things in my life (being my first love) but when it comes to business it couldn’t be more accurate" rel="bookmark">Football is my analogy for most things in my life (being my first love ...</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">3 days ago</span>						</p>
+					</div>
+									<div class="scroll-item">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/opinions/21976/londoners-think-future-workplace/" title="Permalink to What do Londoners think about the Future of the Workplace?" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2015/12/London-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Circular economy jobs to increase by 40,000" srcset="http://recruitingtimes.org/wp-content/uploads/2015/12/London-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2015/12/London-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/opinions/21976/londoners-think-future-workplace/" title="Permalink to What do Londoners think about the Future of the Workplace?" rel="bookmark">What do Londoners think about the Future of the Workplace?</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">16 days ago</span>						</p>
+					</div>
+									<div class="scroll-item">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/opinions/21929/poor-management-killing-employee-happiness/" title="Permalink to Poor management is killing employee happiness" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2016/11/Poor-managers-300x160.png" class="attachment-tie-large size-tie-large wp-post-image" alt="Poor-managers" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/Poor-managers-300x160.png 300w, http://recruitingtimes.org/wp-content/uploads/2016/11/Poor-managers-620x330.png 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/opinions/21929/poor-management-killing-employee-happiness/" title="Permalink to Poor management is killing employee happiness" rel="bookmark">Poor management is killing employee happiness</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">22 days ago</span>						</p>
+					</div>
+									<div class="scroll-item">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/opinions/21867/clocks-changed-heres-employers-need-thinking/" title="Permalink to The clocks have changed: here&#8217;s what employers need to be thinking about" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/04/overtime-habit-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="overtime-habit" srcset="http://recruitingtimes.org/wp-content/uploads/2017/04/overtime-habit-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2017/04/overtime-habit-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/opinions/21867/clocks-changed-heres-employers-need-thinking/" title="Permalink to The clocks have changed: here&#8217;s what employers need to be thinking about" rel="bookmark">The clocks have changed: here&#8217;s what employers need to be thinki ...</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">24 days ago</span>						</p>
+					</div>
+									<div class="scroll-item">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/opinions/21818/top-tips-safeguarding-employees-work/" title="Permalink to Top tips for safeguarding your employees at work" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/09/bias-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="recruitment_bias" srcset="http://recruitingtimes.org/wp-content/uploads/2017/09/bias-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2017/09/bias-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+						
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/opinions/21818/top-tips-safeguarding-employees-work/" title="Permalink to Top tips for safeguarding your employees at work" rel="bookmark">Top tips for safeguarding your employees at work</a></h3>
+						<p class="post-meta">
+							<span class="tie-date">29 days ago</span>						</p>
+					</div>
+								<div class="clear"></div>
+				</div>
+				<div class="scroll-nav"><a id="next9" href="#"><i class="tieicon-right-open"></i></a><a class="prev-scroll" id="prev9" href="#"><i class="tieicon-left-open"></i></a></div>
+
+
+								</div><!-- .cat-box-content /-->
+		</section>
+		<div class="clear"></div>
+
+
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		var vids = jQuery("#slideshow9 .scroll-item");
+		for(var i = 0; i < vids.length; i+=3) {
+		  vids.slice(i, i+3).wrapAll('<div class="group_items"></div>');
+		}
+		jQuery(function() {
+			jQuery('#slideshow9').cycle({
+				fx:     'scrollHorz',
+				timeout: 0,
+				//pager:  '#nav9',
+				slideExpr: '.group_items',
+				prev:   '#prev9', 
+				next:   '#next9',
+				speed: 300,
+				pause: true
+			});
+		});
+  });
+</script>
+	
+					<section class="cat-box column2 tie-cat-6 ">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/">Features</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/22138/number-teenagers-part-time-work-fallen/" title="Permalink to The number of teenagers in part-time work has fallen, again" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/03/five-hour-rule-make-300x160.png" class="attachment-tie-large size-tie-large wp-post-image" alt="five-hour-rule" srcset="http://recruitingtimes.org/wp-content/uploads/2017/03/five-hour-rule-make-300x160.png 300w, http://recruitingtimes.org/wp-content/uploads/2017/03/five-hour-rule-make-620x330.png 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22138/number-teenagers-part-time-work-fallen/" title="Permalink to The number of teenagers in part-time work has fallen, again" rel="bookmark">The number of teenagers in part-time work has fallen, again</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22138/number-teenagers-part-time-work-fallen/#respond">Leave a comment</a></span>
+<span class="post-views">282 Views</span> </p>
+							<div class="entry">
+								<p>Many children that are at an age of thirteen and willing to work will benefit a business in many ways</p>
+								<a class="more-link" href="http://recruitingtimes.org/recruitment-and-hr-features/22138/number-teenagers-part-time-work-fallen/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/22134/making-right-decision-hiring-someone-new/" title="Permalink to Making the right decision when hiring someone new" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/NOT-to-say-during-your-job-interview-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="NOT-to-say-during-your-job-interview" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/NOT-to-say-during-your-job-interview-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/NOT-to-say-during-your-job-interview-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22134/making-right-decision-hiring-someone-new/" title="Permalink to Making the right decision when hiring someone new" rel="bookmark">Making the right decision when hiring someone new</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22134/making-right-decision-hiring-someone-new/#respond">Leave a comment</a></span>
+<span class="post-views">361 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/22114/quarter-employees-will-lie-snow-conditions-week-avoid-work/" title="Permalink to A quarter of employees WILL LIE about snow conditions this week to avoid work" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/Webp.net-resizeimage-3-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/Webp.net-resizeimage-3-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/Webp.net-resizeimage-3-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22114/quarter-employees-will-lie-snow-conditions-week-avoid-work/" title="Permalink to A quarter of employees WILL LIE about snow conditions this week to avoid work" rel="bookmark">A quarter of employees WILL LIE about snow conditions this week to avoid work</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">3 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22114/quarter-employees-will-lie-snow-conditions-week-avoid-work/#respond">Leave a comment</a></span>
+<span class="post-views">773 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/22072/reduced-hours-mean-reduced-workloads/" title="Permalink to Reduced hours should mean reduced workloads" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/09/Your-work-satisfaction-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Your-work-satisfaction" srcset="http://recruitingtimes.org/wp-content/uploads/2017/09/Your-work-satisfaction-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/09/Your-work-satisfaction-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22072/reduced-hours-mean-reduced-workloads/" title="Permalink to Reduced hours should mean reduced workloads" rel="bookmark">Reduced hours should mean reduced workloads</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">7 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22072/reduced-hours-mean-reduced-workloads/#respond">Leave a comment</a></span>
+<span class="post-views">541 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/21989/largest-rise-in-national-minimum-wage-rates-for-young-people-in-a-decade/" title="Permalink to Largest rise in National Minimum Wage rates for young people in a decade" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/waste-of-time-and-money-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="waste-of-time-and-money" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/waste-of-time-and-money-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/waste-of-time-and-money-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/21989/largest-rise-in-national-minimum-wage-rates-for-young-people-in-a-decade/" title="Permalink to Largest rise in National Minimum Wage rates for young people in a decade" rel="bookmark">Largest rise in National Minimum Wage rates for young people in a decade</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/21989/largest-rise-in-national-minimum-wage-rates-for-young-people-in-a-decade/#comments">1 Comment</a></span>
+<span class="post-views">1,331 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/22015/benefits-may-key-enticing-top-talent/" title="Permalink to Benefits may be the key to enticing top talent" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/03/best-and-brightest-talent-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="best-and-brightest-talent" srcset="http://recruitingtimes.org/wp-content/uploads/2017/03/best-and-brightest-talent-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/03/best-and-brightest-talent-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22015/benefits-may-key-enticing-top-talent/" title="Permalink to Benefits may be the key to enticing top talent" rel="bookmark">Benefits may be the key to enticing top talent</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/22015/benefits-may-key-enticing-top-talent/#comments">1 Comment</a></span>
+<span class="post-views">728 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-features/21966/six-workplace-wellbeing-initiatives-trends-businesses-look-2018/" title="Permalink to Six workplace wellbeing initiatives and trends businesses should look out for in 2018" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/11/Webp.net-resizeimage-1-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Carer" srcset="http://recruitingtimes.org/wp-content/uploads/2017/11/Webp.net-resizeimage-1-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/11/Webp.net-resizeimage-1-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-features/21966/six-workplace-wellbeing-initiatives-trends-businesses-look-2018/" title="Permalink to Six workplace wellbeing initiatives and trends businesses should look out for in 2018" rel="bookmark">Six workplace wellbeing initiatives and trends businesses should look out for in 2018</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">16 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" rel="category tag">Features</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-features/21966/six-workplace-wellbeing-initiatives-trends-businesses-look-2018/#respond">Leave a comment</a></span>
+<span class="post-views">1,218 Views</span> </p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-582 last-column">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/">Learning &amp; Development</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22148/keeping-team-motivated-dark-winter-months/" title="Permalink to Keeping your team motivated through the dark winter months" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/09/TECH-RECRUITER-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Tech Recruiter" srcset="http://recruitingtimes.org/wp-content/uploads/2017/09/TECH-RECRUITER-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2017/09/TECH-RECRUITER-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22148/keeping-team-motivated-dark-winter-months/" title="Permalink to Keeping your team motivated through the dark winter months" rel="bookmark">Keeping your team motivated through the dark winter months</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22148/keeping-team-motivated-dark-winter-months/#respond">Leave a comment</a></span>
+<span class="post-views">243 Views</span> </p>
+							<div class="entry">
+								<p>The winter blues will have hit most of us at some point in our lives</p>
+								<a class="more-link" href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22148/keeping-team-motivated-dark-winter-months/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22146/top-5-hot-wellbeing-trends-employers-need-know-2018/" title="Permalink to The top 5 hot wellbeing trends that employers need to know in 2018" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/10/life-after-work-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="life-after-work" srcset="http://recruitingtimes.org/wp-content/uploads/2016/10/life-after-work-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/10/life-after-work-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22146/top-5-hot-wellbeing-trends-employers-need-know-2018/" title="Permalink to The top 5 hot wellbeing trends that employers need to know in 2018" rel="bookmark">The top 5 hot wellbeing trends that employers need to know in 2018</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22146/top-5-hot-wellbeing-trends-employers-need-know-2018/#respond">Leave a comment</a></span>
+<span class="post-views">253 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22118/five-ways-better-manager/" title="Permalink to Five ways to be a better manager" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/09/Job-Interview-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Recruiters look for mini-me&#039;s" srcset="http://recruitingtimes.org/wp-content/uploads/2015/09/Job-Interview-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/09/Job-Interview-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22118/five-ways-better-manager/" title="Permalink to Five ways to be a better manager" rel="bookmark">Five ways to be a better manager</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">3 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22118/five-ways-better-manager/#respond">Leave a comment</a></span>
+<span class="post-views">372 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22079/7-things-never-wear-job-interview/" title="Permalink to 7 things you should never wear for a job interview" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/01/look-unprofessional-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="look-unprofessional" srcset="http://recruitingtimes.org/wp-content/uploads/2017/01/look-unprofessional-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/01/look-unprofessional-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22079/7-things-never-wear-job-interview/" title="Permalink to 7 things you should never wear for a job interview" rel="bookmark">7 things you should never wear for a job interview</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">7 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22079/7-things-never-wear-job-interview/#respond">Leave a comment</a></span>
+<span class="post-views">799 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22002/recruiters-hire-candidates-fired-previous-roles/" title="Permalink to Should recruiters hire candidates who have been fired from previous roles?" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/03/hiring-managers-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="hiring-managers" srcset="http://recruitingtimes.org/wp-content/uploads/2017/03/hiring-managers-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/03/hiring-managers-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22002/recruiters-hire-candidates-fired-previous-roles/" title="Permalink to Should recruiters hire candidates who have been fired from previous roles?" rel="bookmark">Should recruiters hire candidates who have been fired from previous roles?</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22002/recruiters-hire-candidates-fired-previous-roles/#comments">1 Comment</a></span>
+<span class="post-views">993 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/21972/personality-assessment-big-data-evolved-nr-1-hr-tool/" title="Permalink to Personality assessment and big data have evolved to a Nr. 1 HR tool" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/04/HR-trends-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="HR trends" srcset="http://recruitingtimes.org/wp-content/uploads/2017/04/HR-trends-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/04/HR-trends-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/21972/personality-assessment-big-data-evolved-nr-1-hr-tool/" title="Permalink to Personality assessment and big data have evolved to a Nr. 1 HR tool" rel="bookmark">Personality assessment and big data have evolved to a Nr. 1 HR tool</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">16 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/21972/personality-assessment-big-data-evolved-nr-1-hr-tool/#respond">Leave a comment</a></span>
+<span class="post-views">1,618 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/21926/lpc-welcomes-acceptance-recommended-minimum-wage-rates/" title="Permalink to LPC welcomes acceptance of its recommended minimum wage rates" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/08/national-living-wage-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="national-living-wage" srcset="http://recruitingtimes.org/wp-content/uploads/2016/08/national-living-wage-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/08/national-living-wage-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/21926/lpc-welcomes-acceptance-recommended-minimum-wage-rates/" title="Permalink to LPC welcomes acceptance of its recommended minimum wage rates" rel="bookmark">LPC welcomes acceptance of its recommended minimum wage rates</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">22 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" rel="category tag">Learning &amp; Development</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/21926/lpc-welcomes-acceptance-recommended-minimum-wage-rates/#respond">Leave a comment</a></span>
+<span class="post-views">853 Views</span> </p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-11 ">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/">Industry Announcements</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22142/1-7m-back-pay-identified-record-16000-workers-260-employers-named-shamed-underpaying-minimum-wage-rates/" title="Permalink to £1.7m back pay identified for a record 16,000 workers as 260 employers are named and shamed for underpaying minimum wage rates" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/01/zero_hours-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="zero_hours" srcset="http://recruitingtimes.org/wp-content/uploads/2017/01/zero_hours-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2017/01/zero_hours-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22142/1-7m-back-pay-identified-record-16000-workers-260-employers-named-shamed-underpaying-minimum-wage-rates/" title="Permalink to £1.7m back pay identified for a record 16,000 workers as 260 employers are named and shamed for underpaying minimum wage rates" rel="bookmark">£1.7m back pay identified for a record 16,000 workers as 260 employers are named and shamed for underpaying minimum wage rates</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22142/1-7m-back-pay-identified-record-16000-workers-260-employers-named-shamed-underpaying-minimum-wage-rates/#respond">Leave a comment</a></span>
+<span class="post-views">278 Views</span> </p>
+							<div class="entry">
+								<p>Retail, hospitality and hairdressing businesses were among the most prolific offenders named in this round</p>
+								<a class="more-link" href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22142/1-7m-back-pay-identified-record-16000-workers-260-employers-named-shamed-underpaying-minimum-wage-rates/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22121/news-cyber-crime-becoming-frequent-gdpr-fast-approaching-started-thinking-protect-private-sensitive-data-recruitment-agency-processes-day-day/" title="Permalink to With news of cyber-crime becoming more frequent and GDPR fast approaching, have you started thinking about how to protect the private and sensitive data your recruitment agency processes day-to-day?" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/gary_chambers_cropped-width-50-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/gary_chambers_cropped-width-50-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/gary_chambers_cropped-width-50-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22121/news-cyber-crime-becoming-frequent-gdpr-fast-approaching-started-thinking-protect-private-sensitive-data-recruitment-agency-processes-day-day/" title="Permalink to With news of cyber-crime becoming more frequent and GDPR fast approaching, have you started thinking about how to protect the private and sensitive data your recruitment agency processes day-to-day?" rel="bookmark">With news of cyber-crime becoming more frequent and GDPR fast approaching, have you started thinking about how to protect the private and sensitive data your recruitment agency processes day-to-day?</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">3 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22121/news-cyber-crime-becoming-frequent-gdpr-fast-approaching-started-thinking-protect-private-sensitive-data-recruitment-agency-processes-day-day/#respond">Leave a comment</a></span>
+<span class="post-views">561 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22076/gmb-fury-reports-uks-largest-care-home-company-selling-entire-estate-350-million-risking-100s-jobs/" title="Permalink to GMB fury over reports UK&#8217;s largest care home company selling entire estate for £350 million risking 100s of jobs" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/04/home-care-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="The firm Direct Health are set to create 500 new jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2015/04/home-care-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/04/home-care-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22076/gmb-fury-reports-uks-largest-care-home-company-selling-entire-estate-350-million-risking-100s-jobs/" title="Permalink to GMB fury over reports UK&#8217;s largest care home company selling entire estate for £350 million risking 100s of jobs" rel="bookmark">GMB fury over reports UK&#8217;s largest care home company selling entire estate for £350 million risking 100s of jobs</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">7 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/22076/gmb-fury-reports-uks-largest-care-home-company-selling-entire-estate-350-million-risking-100s-jobs/#respond">Leave a comment</a></span>
+<span class="post-views">609 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21994/construction-industry-warns-brexit-cliff-edge-eu-workers-2/" title="Permalink to Construction industry warns against Brexit ‘cliff edge’ for EU workers" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/08/construction-site-build-construction-work-159306-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/08/construction-site-build-construction-work-159306-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/08/construction-site-build-construction-work-159306-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21994/construction-industry-warns-brexit-cliff-edge-eu-workers-2/" title="Permalink to Construction industry warns against Brexit ‘cliff edge’ for EU workers" rel="bookmark">Construction industry warns against Brexit ‘cliff edge’ for EU workers</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">10 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21994/construction-industry-warns-brexit-cliff-edge-eu-workers-2/#respond">Leave a comment</a></span>
+<span class="post-views">956 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21970/hsbc-strengthens-recruitment-sector-support/" title="Permalink to HSBC strengthens recruitment sector support" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/08/HSBC-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="HSBC bringing 1,000 to Birmingham" srcset="http://recruitingtimes.org/wp-content/uploads/2015/08/HSBC-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/08/HSBC-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21970/hsbc-strengthens-recruitment-sector-support/" title="Permalink to HSBC strengthens recruitment sector support" rel="bookmark">HSBC strengthens recruitment sector support</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">16 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21970/hsbc-strengthens-recruitment-sector-support/#comments">1 Comment</a></span>
+<span class="post-views">1,175 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21920/o2-adopts-mobile-first-approach-graduate-applications/" title="Permalink to O2 adopts mobile first approach for graduate applications" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/11/o2-logo-2-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/11/o2-logo-2-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/11/o2-logo-2-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21920/o2-adopts-mobile-first-approach-graduate-applications/" title="Permalink to O2 adopts mobile first approach for graduate applications" rel="bookmark">O2 adopts mobile first approach for graduate applications</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">22 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21920/o2-adopts-mobile-first-approach-graduate-applications/#comments">1 Comment</a></span>
+<span class="post-views">960 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21878/glaa-gets-active-capital/" title="Permalink to GLAA gets active in capital" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/01/Gangmasters-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Gangmasters" srcset="http://recruitingtimes.org/wp-content/uploads/2017/01/Gangmasters-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/01/Gangmasters-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21878/glaa-gets-active-capital/" title="Permalink to GLAA gets active in capital" rel="bookmark">GLAA gets active in capital</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">24 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" rel="category tag">Industry Announcements</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21878/glaa-gets-active-capital/#respond">Leave a comment</a></span>
+<span class="post-views">777 Views</span> </p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+					<section class="cat-box column2 tie-cat-4 last-column">
+			<h2 class="cat-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/">Tech</a></h2>
+			<div class="cat-box-content">
+			
+								<ul>
+													<li class="first-news">
+						<div class="inner-content">
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/" title="Permalink to Browne Jacobson promotes diversity in tech sector with government backed panel appointment" rel="bookmark">
+									<img width="300" height="160" src="http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-300x160.jpg" class="attachment-tie-large size-tie-large wp-post-image" alt="Finance jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-300x160.jpg 300w, http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-620x330.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" />																	</a>
+							</div><!-- post-thumbnail /-->
+											
+							<h2 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/" title="Permalink to Browne Jacobson promotes diversity in tech sector with government backed panel appointment" rel="bookmark">Browne Jacobson promotes diversity in tech sector with government backed panel appointment</a></h2>
+							<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">1 day ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/#respond">Leave a comment</a></span>
+<span class="post-views">192 Views</span> </p>
+							<div class="entry">
+								<p>These included representatives from SKY, Nationwide Building Society, EUROSTAR, Harvey Nash, BT, Shell and MONSTER amongst others</p>
+								<a class="more-link" href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/">Read More &raquo;</a>
+							</div>
+						</div>
+					</li><!-- .first-news -->
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21979/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment/" title="Permalink to Browne Jacobson promotes diversity in tech sector with government backed panel appointment" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/11/jon-snade-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="jon-snade" srcset="http://recruitingtimes.org/wp-content/uploads/2017/11/jon-snade-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/11/jon-snade-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21979/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment/" title="Permalink to Browne Jacobson promotes diversity in tech sector with government backed panel appointment" rel="bookmark">Browne Jacobson promotes diversity in tech sector with government backed panel appointment</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">16 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21979/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment/#comments">1 Comment</a></span>
+<span class="post-views">883 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21931/uk-office-energy-sins-revealed/" title="Permalink to UK office energy sins revealed" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/working-from-home-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="working-from-home" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/working-from-home-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/working-from-home-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21931/uk-office-energy-sins-revealed/" title="Permalink to UK office energy sins revealed" rel="bookmark">UK office energy sins revealed</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">22 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21931/uk-office-energy-sins-revealed/#comments">1 Comment</a></span>
+<span class="post-views">1,039 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21886/london-reign-uk-tech-capital-threatened-workers-itchy-feet/" title="Permalink to London reign as UK tech capital threatened by workers itchy feet" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/london-city-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="london-city" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/london-city-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/london-city-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21886/london-reign-uk-tech-capital-threatened-workers-itchy-feet/" title="Permalink to London reign as UK tech capital threatened by workers itchy feet" rel="bookmark">London reign as UK tech capital threatened by workers itchy feet</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">24 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21886/london-reign-uk-tech-capital-threatened-workers-itchy-feet/#comments">2 Comments</a></span>
+<span class="post-views">1,478 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21820/top-5-jobs-graduates-recruitment/" title="Permalink to Top 5 Jobs for Graduates in IT Recruitment" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/tech-sector-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="tech-sector" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/tech-sector-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/tech-sector-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21820/top-5-jobs-graduates-recruitment/" title="Permalink to Top 5 Jobs for Graduates in IT Recruitment" rel="bookmark">Top 5 Jobs for Graduates in IT Recruitment</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">29 days ago</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21820/top-5-jobs-graduates-recruitment/#comments">1 Comment</a></span>
+<span class="post-views">1,132 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21790/become-coder-fast-track-plan/" title="Permalink to How to become a coder: fast-track plan" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2014/10/coding-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2014/10/coding-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2014/10/coding-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21790/become-coder-fast-track-plan/" title="Permalink to How to become a coder: fast-track plan" rel="bookmark">How to become a coder: fast-track plan</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">November 14, 2017</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21790/become-coder-fast-track-plan/#respond">Leave a comment</a></span>
+<span class="post-views">1,266 Views</span> </p>
+					</li>
+																		<li>
+									
+							<div class="post-thumbnail">
+								<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21724/myths-need-debunking-programming-jobs/" title="Permalink to Myths that need debunking about programming jobs" rel="bookmark">
+									<img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/10/PROGRAMMER-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="IT jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2017/10/PROGRAMMER-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/10/PROGRAMMER-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" />																	</a>
+							</div><!-- post-thumbnail /-->
+									
+						<h3 class="post-box-title"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21724/myths-need-debunking-programming-jobs/" title="Permalink to Myths that need debunking about programming jobs" rel="bookmark">Myths that need debunking about programming jobs</a></h3>
+						<p class="post-meta">
+		
+	<span class="post-meta-author"><a href="http://recruitingtimes.org/author/helen/" title="">Newsdesk </a></span>
+	
+		
+	<span class="tie-date">November 9, 2017</span>	
+	<span class="post-cats"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" rel="category tag">Tech</a></span>
+	
+	<span class="post-comments"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/21724/myths-need-debunking-programming-jobs/#respond">Leave a comment</a></span>
+<span class="post-views">1,240 Views</span> </p>
+					</li>
+													</ul>
+
+							</div><!-- .cat-box-content /-->
+		</section> <!-- Two Columns -->
+		
+		
+		
+	
+</div><!-- .content /-->
+
+<aside class="sidebar-narrow">
+		<div id="ads160_600-widget-2" class="ads160-600">
+								<div class="ad-cell">
+				<a href="http://studycourse.org/"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2017/06/studycourse-advert-160x600-june-2017.png " alt="Recruitment &#038; HR Courses" />
+				</a>			</div>
+				</div>
+	<div id="text-12" class="widget widget_text"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget"><!-- IOR Jobs Widget Copyright (c) 2017 All Rights Reserved. use permitted only on terms which can be viewed at http://jobs.ior.org/ -->
+
+<noscript><div><a href="http://jobs.ior.org/">Jobs from IOR Jobs</a></div></noscript>
+
+<script type="text/javascript">
+<!-- Feel free to change this -->
+wdg_width = "160px";
+wdg_border_color = "#E1E2DA";
+wdg_bg_color = "#FFFFFF";
+wdg_font = "font-family:arial;font-size:11px";
+wdg_link_font_color = "#145285";
+wdg_title = "IOR Jobs";
+wdg_title_font = "font-size:1.2em";
+wdg_title_font_color = "#FFFFFF";
+wdg_title_bg_color = "#145285";
+wdg_jobtitle_font = "font-weight:bold;font-size:1.2em;text-decoration:none";
+wdg_jobtitle_font_color = "#145285";
+wdg_jobinfo_font_color = "#000000";
+wdg_job_separator_color = "#D8DACD";
+wdg_searchbox_bg_color = "#145285";
+wdg_searchbox_field_label_font_color = "#FFFFFF";
+wdg_searchbox_button_bg_color = "#145285";
+wdg_searchbox_button_font_color = "#FFFFFF";
+</script>
+
+<script type="text/javascript" src="http://jobs.ior.org/widget/widget.ashx?maxjobs=7&amp;showkeywordsearchbox=1&amp;SectorIDs=15"></script></div>
+		</div></div><!-- .widget /--><div id="categories-6" class="widget widget_categories"><div class="widget-top"><h4>Categories</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<ul>
+	<li class="cat-item cat-item-6"><a href="http://recruitingtimes.org/recruitment-and-hr-features/" >Features</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/" >Industry Announcements</a>
+</li>
+	<li class="cat-item cat-item-582"><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/" >Learning &amp; Development</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/" >Legal News</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://recruitingtimes.org/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://recruitingtimes.org/opinions/" >Opinions</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://recruitingtimes.org/sector-reports/" >Sector Reports</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/" >Tech</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://recruitingtimes.org/business-movers-shakers/" >What&#039;s Hot</a>
+</li>
+		</ul>
+</div></div><!-- .widget /--></aside>
+ <!--</div> .content-wrap -->
+<aside class="sidebar">
+<div id="text-11" class="widget widget_text"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.1.0 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-9040 mc4wp-form-basic" method="post" data-id="9040" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><div class="mailchimp-news-letter">
+<p><h2>Join Over 40,000 Recruiters! <br>
+<span style="color:#ffcc00;">Get the latest articles weekly</span></h2></p>
+<p><input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+
+<p>
+	<input type="submit" value="Send Me Articles" style="background:#3a80ff !important" />
+</p>
+</div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1513368706" /><input type="hidden" name="_mc4wp_form_id" value="9040" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>
+		</div></div><!-- .widget /-->			<div class="widget social-icons-widget">
+			
+		<div class="social-icons icon_32">
+
+		<a class="ttip" title="Rss" href="http://recruitingtimes.org/feed/" ><i class="tieicon-rss"></i></a><a class="ttip" title="Google+" href="https://plus.google.com/+RecruitingtimesOrg-HR-Recruitment-News/posts" ><i class="tieicon-gplus"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/therecruitingtimes" ><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/recruiting" ><i class="tieicon-twitter"></i></a><a class="ttip" title="Pinterest" href="http://uk.pinterest.com/theior/" ><i class="tieicon-pinterest-circled"></i></a><a class="ttip" title="LinkedIn" href="https://www.linkedin.com/company/the-recruiting-times" ><i class="tieicon-linkedin"></i></a><a class="ttip" title="Youtube" href="https://www.youtube.com/user/TheIORTV" ><i class="tieicon-youtube"></i></a>
+	</div>
+
+
+
+			</div>
+					<div id="text-html-widget-5" class="text-html-box  " style="text-align:center;">
+			<script type="text/javascript">lang: en_US</script><script src="//platform.linkedin.com/in.js" type="text/javascript"  async defer></script>
+<script type="IN/FollowCompany" data-id="1610690" data-counter="right"></script>
+ <g:plusone></g:plusone>
+
+    <script>
+      window.___gcfg = {
+        lang: 'en-US'
+      };
+    </script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>			</div>
+		<div id="ads300_250-widget-11" class="widget ads300_250-widget"><div class="widget-top"><h4>Recruitment Apprenticeships</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://studycourse.org/recruitment-apprenticeships"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2017/06/employ-an-apprentice-advert-2017.png " alt="Recruitment Apprenticeships" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="ads300_250-widget-9" class="widget ads300_250-widget"><div class="widget-top"><h4>More Recruiters Join the BIoR</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://www.theior.org.uk/ior-membership"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2017/06/gold-standard-advert.png " alt="More Recruiters Join the BIoR" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="tie_jobs_rss_feed-2" class="widget tie_jobs_rss_feed"><div class="widget-top"><h4>New Recruitment &#038; HR Job Board</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div id="jobswidget">
+			<div style="color:#FFF;background:#362F56;font-size:2em; padding:10px;text-align:center">IOR Jobs</div>
+			<div style="color:#FFF;background:#366b96;font-size:1em"><a target="_blank" style="border-bottom:solid 1px #4f7ea3;padding:10px;display:block;text-decoration:none;" href="http://jobs.ior.org/jobs/recruitment-consultant-3-months-newport-gwent/48929039-2/" target="_blanks">
+						<span style="color:#FFF;font-size:1.3em;display:block;font-weight:bold;">Recruitment Consultant</span><span style="color:#A0C7E8;font-size:1.2em;display:block">3 Months</span><span style="color:#A0C7E8;font-size:1.2em;display:block">Newport, Gwent</span><span style="color:#A0C7E8;font-size:1.2em;display:block">£19.00 to £21.50 Per Hour</span></a><a target="_blank" style="border-bottom:solid 1px #4f7ea3;padding:10px;display:block;text-decoration:none;" href="http://jobs.ior.org/jobs/emea-talent-acquisition-lead-consultant-uxbridge-south-east/48929050-2/" target="_blanks">
+						<span style="color:#FFF;font-size:1.3em;display:block;font-weight:bold;">EMEA Talent Acquisition Lead Consultant</span><span style="color:#A0C7E8;font-size:1.2em;display:block">Uxbridge, South East</span><span style="color:#A0C7E8;font-size:1.2em;display:block">£400 to £500 Per Day</span></a><a target="_blank" style="border-bottom:solid 1px #4f7ea3;padding:10px;display:block;text-decoration:none;" href="http://jobs.ior.org/jobs/graduate-trainee-recruitment-consultant-london/48925617-2/" target="_blanks">
+						<span style="color:#FFF;font-size:1.3em;display:block;font-weight:bold;">Graduate Trainee Recruitment Consultant</span><span style="color:#A0C7E8;font-size:1.2em;display:block">London</span><span style="color:#A0C7E8;font-size:1.2em;display:block">£23,000 to £40,000</span></a></div>
+			<a target="_blank" style="background:#EFCC26;color:#333;font-size:1.2em;padding:10px;display:block;text-decoration:none;font-weight:bold;" href="http://jobs.ior.org">&gt; View More Jobs</a>
+		</div></div></div><!-- .widget /-->	<div class="widget" id="tabbed-widget">
+		<div class="widget-container">
+			<div class="widget-top">
+				<ul class="tabs posts-taps">
+					<li class="tabs"><a href="#tab1">Popular</a></li>
+					<li class="tabs"><a href="#tab2">Recent</a></li>
+					<li class="tabs" style="margin-left:0; "><a href="#tab3">Comments</a></li>
+				</ul>
+			</div>
+			<div id="tab1" class="tabs-wrap">
+				<ul>
+					
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-features/21989/largest-rise-in-national-minimum-wage-rates-for-young-people-in-a-decade/" title="Permalink to Largest rise in National Minimum Wage rates for young people in a decade" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/waste-of-time-and-money-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="waste-of-time-and-money" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/waste-of-time-and-money-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/waste-of-time-and-money-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-features/21989/largest-rise-in-national-minimum-wage-rates-for-young-people-in-a-decade/">Largest rise in National Minimum Wage rates for young people in a decade</a></h3>
+
+	 <span class="date"><span class="tie-date">10 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22002/recruiters-hire-candidates-fired-previous-roles/" title="Permalink to Should recruiters hire candidates who have been fired from previous roles?" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/03/hiring-managers-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="hiring-managers" srcset="http://recruitingtimes.org/wp-content/uploads/2017/03/hiring-managers-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/03/hiring-managers-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/22002/recruiters-hire-candidates-fired-previous-roles/">Should recruiters hire candidates who have been fired from previous roles?</a></h3>
+
+	 <span class="date"><span class="tie-date">10 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22045/meet-new-cobots-machine-going-automate-job/" title="Permalink to Meet the new cobots: is a machine going to automate your job?" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/cobot-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Cobot" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/cobot-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/cobot-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22045/meet-new-cobots-machine-going-automate-job/">Meet the new cobots: is a machine going to automate your job?</a></h3>
+
+	 <span class="date"><span class="tie-date">11 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/" title="Permalink to The GDPR Race Is On" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/">The GDPR Race Is On</a></h3>
+
+	 <span class="date"><span class="tie-date">8 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21994/construction-industry-warns-brexit-cliff-edge-eu-workers-2/" title="Permalink to Construction industry warns against Brexit ‘cliff edge’ for EU workers" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/08/construction-site-build-construction-work-159306-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/08/construction-site-build-construction-work-159306-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/08/construction-site-build-construction-work-159306-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-industry-announcements/21994/construction-industry-warns-brexit-cliff-edge-eu-workers-2/">Construction industry warns against Brexit ‘cliff edge’ for EU workers</a></h3>
+
+	 <span class="date"><span class="tie-date">10 days ago</span></span>
+
+</li>
+
+	
+				</ul>
+			</div>
+			<div id="tab2" class="tabs-wrap">
+				<ul>
+					
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/" title="Permalink to Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/decline-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="decline" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/decline-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/decline-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/">Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB</a></h3>
+
+	 <span class="date"><span class="tie-date">10 hours ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/" title="Permalink to Browne Jacobson promotes diversity in tech sector with government backed panel appointment" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Finance jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/">Browne Jacobson promotes diversity in tech sector with government backed panel appointment</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/" title="Permalink to How to handle conflict at work" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Manage-Office-Conflict" srcset="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/">How to handle conflict at work</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/" title="Permalink to Unemployment remains at four-decade low" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/">Unemployment remains at four-decade low</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/" title="Permalink to Best practice: Suspending an employee" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="newly-qualified-lawyer" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/">Best practice: Suspending an employee</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+	
+				</ul>
+			</div>
+			<div id="tab3" class="tabs-wrap">
+				<ul>
+					
+	<li>
+
+		<div class="post-thumbnail">
+
+			<img src="http://1.gravatar.com/avatar/aa63e48ffcf423abe903710c42b306b5?s=60&#038;d=monsterid&#038;r=g" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default" />
+		</div>
+
+		<a href="http://recruitingtimes.org/recruitment-and-hr-features/12940/education-recruitment-changing-schools-ever-turning-agencies-help-fill-vacancies/#comment-103421">
+
+		nile Company: [* Shield plugin marked this comment as "0". Reason: Human S... </a>
+
+	</li>
+
+
+	<li>
+
+		<div class="post-thumbnail">
+
+			<img src="http://0.gravatar.com/avatar/3b3ae8f17d11e89300193b868a320e41?s=60&#038;d=monsterid&#038;r=g" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default" />
+		</div>
+
+		<a href="http://recruitingtimes.org/news/19048/gamifying-job-search-using-games-connect-graduates-right-employers/#comment-103401">
+
+		games 66: [* Shield plugin marked this comment as "0". Reason: Human S... </a>
+
+	</li>
+
+
+	<li>
+
+		<div class="post-thumbnail">
+
+			<img src="http://1.gravatar.com/avatar/4c79bb75a08e1d05b59c8431008bad21?s=60&#038;d=monsterid&#038;r=g" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default" />
+		</div>
+
+		<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21783/will-need-give-workforce-extra-days-leave-2018/#comment-103400">
+
+		Andy Symonds: [* Shield plugin marked this comment as "0". Reason: Human S... </a>
+
+	</li>
+
+
+	<li>
+
+		<div class="post-thumbnail">
+
+			<img src="http://1.gravatar.com/avatar/d6469160a603aa85253bf5f8ff789edf?s=60&#038;d=monsterid&#038;r=g" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default" />
+		</div>
+
+		<a href="http://recruitingtimes.org/opinions/12236/7-common-mistakes-stand-meetings/#comment-103382">
+
+		british essay writers: Shield plugin mark the comment as 0. because of human spam f... </a>
+
+	</li>
+
+
+	<li>
+
+		<div class="post-thumbnail">
+
+			<img src="http://1.gravatar.com/avatar/a4f42e0f124917640604aa5e22733c78?s=60&#038;d=monsterid&#038;r=g" width="60" height="60" alt="" class="avatar avatar-60wp-user-avatar wp-user-avatar-60 alignnone photo avatar-default" />
+		</div>
+
+		<a href="http://recruitingtimes.org/news/22105/hr-recruiting-vacancies-slow-little-threat-automation/#comment-103373">
+
+		abcya: Oh, great, your article gives me useful information and a fr... </a>
+
+	</li>
+
+				</ul>
+			</div>
+		</div>
+	</div><!-- .widget /-->
+<div id="ads300_250-widget-2" class="widget ads300_250-widget"><div class="widget-top"><h4>Recruiters &#8211; Join SplitFee.org</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://splitfee.org"  target="_blank"  >					<img src=" http://studycourse.org/assets/Splitfee-advert.png " alt="Recruiters &#8211; Join SplitFee.org" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="ads300_250-widget-6" class="widget ads300_250-widget"><div class="widget-top"><h4>Best Recruitment Training</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://studycourse.org/course-directory/course/the-complete-recruiter-in-28-days-online/14/34"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2015/06/The-Complete-Recruiter-RT-side.png " alt="Best Recruitment Training" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="ads300_250-widget-12" class="widget ads300_250-widget"><div class="widget-top"><h4>Is cash flow holding you back?</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://bit.ly/2jxMHZ7"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2017/01/is-cashflow-holding-back-new.png " alt="Is cash flow holding you back?" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="ads300_250-widget-13" class="widget ads300_250-widget"><div class="widget-top"><h4>5 simple ways to increase profitability</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://bit.ly/2jwG6OX"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2017/01/5-simple-ways-new.png " alt="5 simple ways to increase profitability" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="video-widget-5" class="widget video-widget"><div class="widget-top"><h4>Best Recruiter Training- Book at www.studycourse.org		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		
+		<div style="text-align:center">
+<iframe width="300" height="210" src="https://www.youtube.com/embed/D1dSd1oxnJ4?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+				
+		
+		
+	</div></div><!-- .widget /--><div id="ads300_250-widget-5" class="widget ads300_250-widget"><div class="widget-top"><h4>Free bulk-post to social media</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="ads300-250">
+								<div class="ad-cell">
+				<a href="http://flamepost.com"  target="_blank"  >					<img src=" http://recruitingtimes.org/wp-content/uploads/2015/09/flamepost-RT-home-animation.gif " alt="Free bulk-post to social media" />
+				</a>			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="video-widget-2" class="widget video-widget"><div class="widget-top"><h4>schedule posts to social media		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		
+		<iframe width="300" height="210" src="https://www.youtube.com/embed/uYzPZgBy4xw" allowfullscreen></iframe>
+				
+		
+		
+	</div></div><!-- .widget /--><div class='custom_widget hide_desktop'><div id="text-html-widget-8" class="widget text-html"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div ><!-- IOR Jobs Widget Copyright (c) 2017 All Rights Reserved. use permitted only on terms which can be viewed at http://jobs.ior.org/ -->
+
+<noscript><div><a href="http://jobs.ior.org/">Jobs from IOR Jobs</a></div></noscript>
+
+<script type="text/javascript">
+<!-- Feel free to change this -->
+wdg_width = "100%";
+wdg_border_color = "#E1E2DA";
+wdg_bg_color = "#FFFFFF";
+wdg_font = "font-family:arial;font-size:11px";
+wdg_link_font_color = "#145285";
+wdg_title = "IOR Jobs";
+wdg_title_font = "font-size:1.2em";
+wdg_title_font_color = "#FFFFFF";
+wdg_title_bg_color = "#145285";
+wdg_jobtitle_font = "font-weight:bold;font-size:1.2em;text-decoration:none";
+wdg_jobtitle_font_color = "#145285";
+wdg_jobinfo_font_color = "#000000";
+wdg_job_separator_color = "#D8DACD";
+wdg_searchbox_bg_color = "#145285";
+wdg_searchbox_field_label_font_color = "#FFFFFF";
+wdg_searchbox_button_bg_color = "#145285";
+wdg_searchbox_button_font_color = "#FFFFFF";
+</script>
+
+<script type="text/javascript" src="http://jobs.ior.org/widget/widget.ashx?maxjobs=7&showkeywordsearchbox=1&SectorIDs=15"></script>
+				</div><div class="clear"></div></div></div><!-- .widget /--></div></aside>
+<div class="clear"></div>
+	
+
+		<div class="clear"></div>
+	</div><!-- .container /-->
+	</div><!-- .container -->
+	</div><!-- .Wrapper -->
+	<div class="ads-bottom">					
+			<a href="http://www.theior.org.uk/ior-membership" title="Join the BIoR to be part of creating excellence in recruiting standards &amp; service" target="_blank">
+				<img src="http://recruitingtimes.org/wp-content/uploads/2017/06/BIoR-see-why-advert.png" alt="Join the BIoR to be part of creating excellence in recruiting standards &amp; service" />
+			</a>
+				</div>	
+
+	<footer class="fade-in animated4">
+	<div id="footer-widget-area" class="footer-4c container">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="categort-posts-widget-2" class="footer-widget categort-posts"><div class="footer-widget-top"><h4>Latest News		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/" title="Permalink to Unemployment remains at four-decade low" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/">Unemployment remains at four-decade low</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22109/2018-recruitment-trends-improving-candidate-experience-via-technology/" title="Permalink to 2018 Recruitment Trends – Improving Candidate Experience via Technology" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/business-man-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="HR" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/business-man-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/business-man-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22109/2018-recruitment-trends-improving-candidate-experience-via-technology/">2018 Recruitment Trends – Improving Candidate Experience via Technology</a></h3>
+
+	 <span class="date"><span class="tie-date">4 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22105/hr-recruiting-vacancies-slow-little-threat-automation/" title="Permalink to HR and recruiting vacancies slow up but with little threat from automation" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/handshake-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="handshake" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/handshake-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/handshake-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22105/hr-recruiting-vacancies-slow-little-threat-automation/">HR and recruiting vacancies slow up but with little threat from automation</a></h3>
+
+	 <span class="date"><span class="tie-date">4 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22098/recruiters-reveal-like-ai-automation-hiring-process/" title="Permalink to Recruiters reveal what they would like from AI and Automation in the hiring process" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/automation-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="AI" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/automation-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/automation-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22098/recruiters-reveal-like-ai-automation-hiring-process/">Recruiters reveal what they would like from AI and Automation in the hiring process</a></h3>
+
+	 <span class="date"><span class="tie-date">4 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22095/bank-england-warns-uk-workers-jobs-boom-tailing-off-key-sectors/" title="Permalink to Bank of England warns UK workers that the jobs boom is tailing off in key sectors" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/interview-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="UK_jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/interview-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/interview-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22095/bank-england-warns-uk-workers-jobs-boom-tailing-off-key-sectors/">Bank of England warns UK workers that the jobs boom is tailing off in key sectors</a></h3>
+
+	 <span class="date"><span class="tie-date">4 days ago</span></span>
+
+</li>
+
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+			<div id="categort-posts-widget-3" class="footer-widget categort-posts"><div class="footer-widget-top"><h4>Legal News		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/" title="Permalink to Best practice: Suspending an employee" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="newly-qualified-lawyer" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/">Best practice: Suspending an employee</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22083/support-grows-anti-slavery-protocol-construction-industry/" title="Permalink to Support grows for anti-slavery protocol in construction industry" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/01/working-1024382_1280-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2016/01/working-1024382_1280-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/01/working-1024382_1280-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22083/support-grows-anti-slavery-protocol-construction-industry/">Support grows for anti-slavery protocol in construction industry</a></h3>
+
+	 <span class="date"><span class="tie-date">7 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/" title="Permalink to The GDPR Race Is On" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/gdpr-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22055/the-gdpr-race-is-on/">The GDPR Race Is On</a></h3>
+
+	 <span class="date"><span class="tie-date">8 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22011/glaa-assists-securing-three-slavery-arrests-norfolk/" title="Permalink to GLAA assists in securing three ‘slavery arrests’ in Norfolk" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/Trafficking-gang-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Trafficking-gang" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/Trafficking-gang-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/Trafficking-gang-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22011/glaa-assists-securing-three-slavery-arrests-norfolk/">GLAA assists in securing three ‘slavery arrests’ in Norfolk</a></h3>
+
+	 <span class="date"><span class="tie-date">10 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21974/holiday-party-dos-donts-take-mistletoe/" title="Permalink to Holiday party do&#8217;s and don&#8217;ts: Take down the mistletoe" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/12/christmas-party-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Christmas_party" srcset="http://recruitingtimes.org/wp-content/uploads/2016/12/christmas-party-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2016/12/christmas-party-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/21974/holiday-party-dos-donts-take-mistletoe/">Holiday party do&#8217;s and don&#8217;ts: Take down the mistletoe</a></h3>
+
+	 <span class="date"><span class="tie-date">16 days ago</span></span>
+
+</li>
+
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+			<div id="footer-third" class="footer-widgets-box">
+			<div id="categort-posts-widget-4" class="footer-widget categort-posts"><div class="footer-widget-top"><h4>OPINIONS		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/" title="Permalink to How to handle conflict at work" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Manage-Office-Conflict" srcset="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/">How to handle conflict at work</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/22129/football-analogy-things-life-first-love-comes-business-couldnt-accurate/" title="Permalink to Football is my analogy for most things in my life (being my first love) but when it comes to business it couldn’t be more accurate" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/image002-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/image002-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/image002-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/22129/football-analogy-things-life-first-love-comes-business-couldnt-accurate/">Football is my analogy for most things in my life (being my first love) but when it comes to business it couldn’t be more accurate</a></h3>
+
+	 <span class="date"><span class="tie-date">3 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/21976/londoners-think-future-workplace/" title="Permalink to What do Londoners think about the Future of the Workplace?" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/12/London-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Circular economy jobs to increase by 40,000" srcset="http://recruitingtimes.org/wp-content/uploads/2015/12/London-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/12/London-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/21976/londoners-think-future-workplace/">What do Londoners think about the Future of the Workplace?</a></h3>
+
+	 <span class="date"><span class="tie-date">16 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/21929/poor-management-killing-employee-happiness/" title="Permalink to Poor management is killing employee happiness" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/Poor-managers-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Poor-managers" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/Poor-managers-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/Poor-managers-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/21929/poor-management-killing-employee-happiness/">Poor management is killing employee happiness</a></h3>
+
+	 <span class="date"><span class="tie-date">22 days ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/21867/clocks-changed-heres-employers-need-thinking/" title="Permalink to The clocks have changed: here&#8217;s what employers need to be thinking about" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/04/overtime-habit-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="overtime-habit" srcset="http://recruitingtimes.org/wp-content/uploads/2017/04/overtime-habit-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/04/overtime-habit-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/21867/clocks-changed-heres-employers-need-thinking/">The clocks have changed: here&#8217;s what employers need to be thinking about</a></h3>
+
+	 <span class="date"><span class="tie-date">24 days ago</span></span>
+
+</li>
+
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div><!-- #third .widget-area -->
+	
+			<div id="footer-fourth" class="footer-widgets-box">
+			<div id="posts-list-widget-4" class="footer-widget posts-list"><div class="footer-widget-top"><h4>Recent Posts		</h4></div>
+						<div class="footer-widget-container">				<ul>
+					
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/" title="Permalink to Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/decline-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="decline" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/decline-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/decline-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/business-movers-shakers/22167/naming-shaming-minimum-wage-dodgers-poor-substitute-prosecution-says-gmb/">Naming and shaming minimum wage dodgers poor substitute for prosecution says GMB</a></h3>
+
+	 <span class="date"><span class="tie-date">10 hours ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/" title="Permalink to Browne Jacobson promotes diversity in tech sector with government backed panel appointment" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Finance jobs" srcset="http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2017/12/businessman-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-technology-news/22164/browne-jacobson-promotes-diversity-tech-sector-government-backed-panel-appointment-2/">Browne Jacobson promotes diversity in tech sector with government backed panel appointment</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/" title="Permalink to How to handle conflict at work" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="Manage-Office-Conflict" srcset="http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/08/Manage-Office-Conflict-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/opinions/22159/handle-conflict-work/">How to handle conflict at work</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/" title="Permalink to Unemployment remains at four-decade low" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-70x70.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="" srcset="http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-70x70.jpg 70w, http://recruitingtimes.org/wp-content/uploads/2015/02/departmentworkandpensions-150x150.jpg 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/news/22156/unemployment-remains-four-decade-low/">Unemployment remains at four-decade low</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+
+<li>
+
+				
+
+		<div class="post-thumbnail">
+
+			<a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/" title="Permalink to Best practice: Suspending an employee" rel="bookmark"><img width="70" height="70" src="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-70x70.png" class="attachment-tie-small size-tie-small wp-post-image" alt="newly-qualified-lawyer" srcset="http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-70x70.png 70w, http://recruitingtimes.org/wp-content/uploads/2016/11/newly-qualified-lawyer-150x150.png 150w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+
+		</div><!-- post-thumbnail /-->
+
+	
+	<h3><a href="http://recruitingtimes.org/recruitment-and-hr-legal-updates/22153/best-practice-suspending-employee/">Best practice: Suspending an employee</a></h3>
+
+	 <span class="date"><span class="tie-date">1 day ago</span></span>
+
+</li>
+
+	
+				</ul>
+		<div class="clear"></div>
+	</div></div><!-- .widget /-->		</div><!-- #fourth .widget-area -->
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+				
+	<div class="clear"></div>
+	<div class="footer-bottom fade-in animated4">
+		<div class="container">
+			
+		<div class="social-icons icon_flat">
+
+		<a class="ttip" title="Rss" href="http://recruitingtimes.org/feed/" target="_blank"><i class="tieicon-rss"></i></a><a class="ttip" title="Google+" href="https://plus.google.com/+RecruitingtimesOrg-HR-Recruitment-News/posts" target="_blank"><i class="tieicon-gplus"></i></a><a class="ttip" title="Facebook" href="https://www.facebook.com/therecruitingtimes" target="_blank"><i class="tieicon-facebook"></i></a><a class="ttip" title="Twitter" href="https://twitter.com/recruiting" target="_blank"><i class="tieicon-twitter"></i></a><a class="ttip" title="Pinterest" href="http://uk.pinterest.com/theior/" target="_blank"><i class="tieicon-pinterest-circled"></i></a><a class="ttip" title="LinkedIn" href="https://www.linkedin.com/company/the-recruiting-times" target="_blank"><i class="tieicon-linkedin"></i></a><a class="ttip" title="Youtube" href="https://www.youtube.com/user/TheIORTV" target="_blank"><i class="tieicon-youtube"></i></a>
+	</div>
+
+
+
+			<div class="alignleft">
+			 
+<a href="http://recruitingtimes.org/feed/" title="RSS">  RSS |</a>
+<a href="http://recruitingtimes.org/advertise-in-the-recruiting-times/" title="Advertise">  Advertise |</a>
+<a href="http://recruitingtimes.org/contact-us/" title="Contact Us"> Contact Us |</a> 
+<a href="http://recruitingtimes.org/about-us/" title="About Us"> About Us |</a> 
+<a href="http://eepurl.com/0zkmv" title="Subscribe"> Subscribe |</a>
+<a href="http://recruitingtimes.org/terms-and-conditions/" title="Terms & Conditions"> Terms & Conditions |</a>
+<a href="http://recruitingtimes.org/cookie-policy/" title="Cookie Policy"> Cookie Policy |</a>
+<a href="http://recruitingtimes.org/privacy-policy/" title="Privacy Policy"> Privacy Policy |</a>
+     © Copyright 2016 Recruiting Times			</div>
+		</div><!-- .Container -->
+	</div><!-- .Footer bottom -->
+	
+
+	<div id="topcontrol" class="tieicon-up-open" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+<div id="popup-box-pro-gfcr-2" class="popupally-pro-overlay-2-fluid_zwgsqa "><div class="popupally-pro-outer-full-width-2-fluid_zwgsqa"><div class="popupally-pro-outer-2-fluid_zwgsqa"><form action="" method="post" orjshe-popupallypro-current-ghsfbc="2" sejds-popupally-pro-anti-spam-uengs="ppplyposn-mi" qweokgj-popupally-pro-anti-spam-mwhgser="oual-r-edeal"  class="popupallypro-signup-form-sijfhw popupally-pro-inner-2-fluid_zwgsqa"><input type="hidden" name="popupally-pid" value="2" /><input type="hidden" name="popupally-nonce" value="{{validation-nonce}}" /><div id="popupally-fluid-2-fluid_zwgsqa-1" class="popupally-fluid-content-element"  ></div><div id="popupally-fluid-2-fluid_zwgsqa-2" class="popupally-fluid-content-element"  ijdh-popupally-pro-track-cnewh="Headline"><a target="_blank" style="display:block;position:absolute;width:100%;height:100%;color:inherit;font-family:inherit;font-weight:inherit;text-decoration:inherit;line-height:inherit;" class="popupally-pro-hoverable-element" href="http://www.theior.org.uk/">Exclusive Readers Offer!</a></div><div id="popupally-fluid-2-fluid_zwgsqa-3" class="popupally-fluid-content-element"  >Hurry to claim your 10% off
+<br />
+The British Institute of Recruiters BIoR Membership fee
+<br /><br />
+Contact us NOW for information & terms.
+<br /><br /><a href="mailto:support@ior.org">support@ior.org</a><br /><br />
+Call: 0871 288 2108</div></form><div title="Close" class="popupally-pro-close popup-click-close-trigger-2"></div></div></div></div><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript' src='http://recruitingtimes.org/wp-content/plugins/adrotate-pro/library/jquery.adrotate.dyngroup.js'></script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/themes/jarida/js/tie-scripts.js?ver=4.7.8'></script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-includes/js/wp-embed.min.js?ver=4.7.8'></script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/themes/jarida/js/jquery.cycle.all.js?ver=4.7.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.0'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://recruitingtimes.org/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.0'></script>
+<![endif]-->
+<!-- AdRotate JS -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+if(jQuery.fn.gslider) {
+	jQuery('.g-1').gslider({ groupid: 1, speed: 8000 });
+	jQuery('.g-2').gslider({ groupid: 2, speed: 8000 });
+	jQuery('.g-3').gslider({ groupid: 3, speed: 6000 });
+}
+});
+</script>
+<!-- /AdRotate JS -->
+
+<style type="text/css"></style><script type="text/javascript">var essb_clicked_lovethis = false; var essb_love_you_message_thanks = "Thank you for loving this."; var essb_love_you_message_loved = "You already love this today."; var essb_lovethis = function(oInstance) { if (essb_clicked_lovethis) { alert(essb_love_you_message_loved); return; } var element = jQuery('.essb_'+oInstance); if (!element.length) { return; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var cookie_set = essb_get_lovecookie("essb_love_"+instance_post_id); if (cookie_set) { alert(essb_love_you_message_loved); return; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_love_action', 'post_id': instance_post_id, 'service': 'love', 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { alert(essb_love_you_message_thanks); }},'json'); } essb_tracking_only('', 'love', oInstance, true); }; var essb_get_lovecookie = function(name) { var value = "; " + document.cookie; var parts = value.split("; " + name + "="); if (parts.length == 2) return parts.pop().split(";").shift(); }; var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); };</script></div>
+</body>
+</html>

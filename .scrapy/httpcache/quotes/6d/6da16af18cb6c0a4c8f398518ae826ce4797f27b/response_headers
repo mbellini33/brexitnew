@@ -1,0 +1,23 @@
+Access-Control-Allow-Origin: *
+Access-Control-Request-Method: GET, POST, PUT, DELETE
+Content-Encoding: gzip
+Content-Type: text/plain; charset=utf-8
+Etag: W/"ce26bfbe1ecd3ff7790f8ce08a372e0c-gzip"
+Server: Apache/2.4.7 (Ubuntu)
+Status: 200 OK
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: ALLOWALL
+X-Middleware-Start: t=1513368529543119
+X-Powered-By: Phusion Passenger Enterprise 5.0.28
+X-Rack-Cache: miss
+X-Request-Id: 2424f57d-ed7a-4c65-9b12-587f4b26d4b0
+X-Runtime: 0.207803
+X-Served-By: app4
+Expires: Fri, 15 Dec 2017 20:08:49 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 15 Dec 2017 20:08:49 GMT
+Set-Cookie: _nbuild_token=Pm9MuswAk9%2FkBMPE8k8PCGNaNlYQ1V0fPbrcXnS28q8%3D; path=/; HttpOnly
+Set-Cookie: _nbuild_session=908c3f217f8334373199d3172789bf5d; path=/; HttpOnly
+Use-Proxy: True

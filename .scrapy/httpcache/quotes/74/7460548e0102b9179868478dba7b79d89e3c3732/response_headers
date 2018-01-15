@@ -1,0 +1,12 @@
+Server: nginx/1.8.0
+Date: Fri, 15 Dec 2017 20:15:43 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/5.3.3
+Vary: Cookie
+X-Robots-Tag: noindex, follow
+Link: <https://www.unison.org.uk/wp-json/>; rel="https://api.w.org/"
+Last-Modified: Fri, 15 Dec 2017 20:15:42 GMT
+Cache-Control: max-age=300, must-revalidate
+X-Batcache: MISS
+X-Cached: EXPIRED
+Content-Encoding: gzip

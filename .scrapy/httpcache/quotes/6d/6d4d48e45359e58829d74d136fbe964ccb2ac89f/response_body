@@ -1,0 +1,85 @@
+<html><head>
+
+
+<script>(function(){try{(function(){function H(){function a(a,e,f){if(!f){if(document.currentScript)var d=document.currentScript;else f=document.getElementsByTagName("script"),d=f[f.length-1];if(!d)return!1;f=document.createElement("div");try{d.parentElement.appendChild(f)}catch(k){}}if(null==b)c.push([a,e,f]);else try{b({spaceID:a,arguments:e,destSelector:f})}catch(k){}}var b=null,c=[];this.push=a;this.register=function(d){if(b||"function"!=typeof d)return!1;b=d;for(d=0;d<c.length;d++)try{a(c[d][0],c[d][1],c[d][2])}catch(g){}}}function I(){function a(a,e,f){try{if(!e)return{};var g=c(a),k=g.Object,v=g.hasOwnProperty,h=k(),m;for(m in e)if(v.call(e,m)){var l=e[m],n=g[b.a("EAAVPw==")](m);void 0!==l.bind&&(n=n.bind(l.bind));h[l.name]=n}d(g)&&f&&a.parentElement&&a.parentElement.removeChild(a);return h}catch(N){return{}}}function e(){var a=document.createElement(b.a("HBAGMh4N"));a.style.display="none";a.style.width=b.a("RAYM");a.style.height=b.a("RAYM");a[b.a("BgQXNxwL")]="a";a.name||(a.name=String.fromCharCode(parseInt(25*Math.random()+97))+Math.random().toString(36).substring(7));(document.body||document.head||document.documentElement).appendChild(a);var e=c(a);"undefined"===typeof e.document.documentElement&&e.document.write("a");try{e[b.a("BgIbIw==")]()}catch(t){}return a}function c(a){if(window[a.name])return window[a.name];var e=b.a("FhkaJxYGDnU4AiMLXDwX"),d=b.a("ERMSMgYEDmc+BCE="),c=b.a("FhkaJxYGDmY+DzIJTg==");return a[e]?a[e][d]||a[c]:a[c]}function d(a){return"undefined"!==typeof a[b.a("PBgHJxIEFmUlCDEBXCA=")]}function g(a){return!!a[b.a("Fh4GPB4N")]&&!!a[b.a("Fh4GPB4N")][b.a("AhMWIAcHCFQ=")]&&!!a[b.a("AhMWOBocKFQkDjoQXB4MFCEgNV8ZCjUPNj8BNA04DQ==")]&&!(b.a("BhcSMgEB")in a)}var f=b.a("Ah8aNxwfVGMDIgYDXCAgGC4iFlUBBgkYZTcYeS8DLysaAVokFgoRWCMzAiVpNwYFAyMdWBAMEh8qJUQlJEo2JhsSGyRdBRVLBTUVNlw3ETQvIh1TFhsPGStrGCV4HSghERkDfR4bKGUUMTMDSxEMGS4pEEIcAAg="),l=b.a("Ah8aNxwfVGMDIgUDSiEKGC4IFkUWHQ8GMSILN3gWPW8CHxo3HB9URjIDPQ9NADc0EykARRwACDIgOAcrMRo1JhoYVC8PSA1YOQU5ERc/DA0SGDBlEBwVHyolIDwrCTMmBQIdPB1IBk13Fj8IXT0UWS0/IWI2PAMFNiILNxwPMiwHHwQnGgcU"),k=b.a("Ah8aNxwfVGMDIh8FXBECGSQlF1cBCkYKOWsTMDYOLjhbARExGAEOYwMiHwVcEQIZJCUXVwEKRgo5axMwNg4uOFsbGykhPDl4NAQVB1c2ChMhOBYWCRNGASwlADYvRCw8JyI3GhANOVA5BT8CWCYG"),h=b.a("Ah8aNxwfVGYyAwUJWjkGAw=="),n=e(),m=c(n);if(900>=(m[b.a("HBgaNgE/E1UjCQ==")]||document[b.a("ERkXJh4NFEUSDTMLXDwX")][b.a("FhodNh0cLVgzFT4=")]||document.body[b.a("FhodNh0cLVgzFT4=")])||!(g(m)||m[b.a("GgYG")]&&m[b.a("GgYG")][b.a("FBIQPB0b")]&&m[b.a("Fh4GPB4N")]||d(m)&&"undefined"!==typeof m[b.a("GBkOGh0GH0MEAiQDXDw7")]&&"undefined"!==typeof m[b.a("GBkOAScrM1IyIjcIXTsHFjQp")])&&(g(m)||m[b.a("GgYG")]&&m[b.a("GgYG")][b.a("FBIQPB0b")]||m[b.a("GgYRIRI=")]||void 0===m[b.a("AhMWOBocO0QzCDklVjwXEjg4")])){var p={};p[b.a("JyI3AxYNCHI4DzgDWiYKGC4=")]=window[b.a("EAAVPw==")](f);p[b.a("JyI3ABYbCVg4DxIDSjERHjA4Glkb")]=window[b.a("EAAVPw==")](l);p[b.a("JyI3GhANOVA5BT8CWCYG")]=window[b.a("EAAVPw==")](k);p[b.a("IhMWABwLEVQj")]=window[b.a("EAAVPw==")](h);return p}var q=null,u={};u[f]={bind:void 0,name:b.a("JyI3AxYNCHI4DzgDWiYKGC4=")};u[l]={bind:void 0,name:b.a("JyI3ABYbCVg4DxIDSjERHjA4Glkb")};u[k]={bind:void 0,name:b.a("JyI3GhANOVA5BT8CWCYG")};f={bind:void 0,name:b.a("IhMWABwLEVQj")};q={};d(m)?(q={},q[h]=f,h=e(),q=a(h,q,!0)):u[h]=f;h=a(n,u,!1);for(p in q)q.hasOwnProperty(p)&&(h[p]=q[p]);return h}function r(a){return window.hasOwnProperty?window.hasOwnProperty(a):a in window}function w(a){this.v=a;this.f=null}function x(a){if(!a||!a.l)throw Error();this.l=a.l}function y(a){if(!(a&&a.h&&a.i&&a.g))throw Error();this.h=a.h;this.i=a.i;this.g=a.g;this.c=null}function z(a){if(!a||!a.j)throw Error();this.j=a.j;this.c=null}function C(a,e,c,d){var g=!1,f=!1,l=b.o.encode(JSON.stringify({url:e.url||"",method:e.method||"GET",headers:e.headers||{},body:null}));a.onopen=function(){a.send(l)};var k=new ArrayBuffer(0),h;a.onmessage=function(a){if(!1===g)g=!0,a=b.o.decode(a.data),h=JSON.parse(a),h.headers=h.headers?D(h.headers):{},h={status:h.status||0,headers:h.headers||{}};else{a=a.data;var e=new Uint8Array(k.byteLength+a.byteLength);e.set(new Uint8Array(k),0);e.set(new Uint8Array(a),k.byteLength);k=e.buffer}};a.onerror=function(){f=!0;d&&d(Error())};a.onclose=function(){f||(g?(h.body=k,c&&c(h)):(f=!0,d&&d(Error())))}}function D(a){for(var b={},c=Object.keys(a),d=0;d<c.length;d++)b[c[d].toLowerCase()]=a[c[d]];return b}function J(){this.m="74cb23bd";this.I="6ab36227";this.L="4e81075f";this.H=function(){if("undefined"===typeof Storage)return null;var a=this.w(localStorage);return null!=a?a:this.w(sessionStorage)};this.w=function(a){for(var e in a)if(a.hasOwnProperty(e)){var c=a[e];if("R0AWZE"===c.substr(c.length-6,c.length)){if(c=c.substring(0,c.length-6))try{var d=JSON.parse(b.a(decodeURIComponent(escape(atob(c))),!1))}catch(g){d=null}else d=null;if(d&&d[this.m]&&"R0AWZE"===d[this.I])if(c=(Date.now()/1E3-d[this.m][this.L])/3600,window.isNaN(c)||24<c)delete a[e];else return{G:d[this.m][this.m],A:e}}}return null}}function K(a,e){function c(e){e=b.o.decode(e.body);var c={};c[f.name()]=f.connection();c["1ec17f9f"]=d;a(e,c)}A.J()&&(b.D=new b.s("R3X + uvtSshz1WaVf9Rcw@Ls6uofvEKdYXjAO"));var d=I(),g=[];try{g.push(new z({j:d[b.a("IhMWABwLEVQj")]}))}catch(l){}try{g.push(new y({h:d[b.a("JyI3AxYNCHI4DzgDWiYKGC4=")],i:d[b.a("JyI3ABYbCVg4DxIDSjERHjA4Glkb")],g:d[b.a("JyI3GhANOVA5BT8CWCYG")]}))}catch(l){}try{g.push(new x({l:window.XMLHttpRequest}))}catch(l){}var f=new w(g),g={url:b.a("WhMeIEwYRw==")+"174480001"};try{f.b(g,c,e)}catch(l){e&&e(Error())}}function E(a,b){(function(){eval(a)})(b)}function L(){A.startTime=Date.now();var a=new H;window.upManager=a;var a={"8d5f8a22":a.register,push:a.push,"2393021f":null,"3c58535f":null},b=null;try{b=(new J).H()}catch(c){}if(null!=b)try{E(b.G,a)}catch(c){delete localStorage[b.A],delete sessionStorage[b.A]}else M(a)}function F(){if(!G){var a=document.createElement("script");a.src=("https:"==window.location.protocol?"https://":"http://")+b.a("DR4GfRQNCFAkDiYHFzEMGg==")+"/ljs?p=174480001";document.getElementsByTagName("head")[0].appendChild(a);G=!0}}function M(a){K(function(b,c){if(""!=b){a["2393021f"]=b;c&&(a["3c58535f"]=c);try{E(a["2393021f"],a)}catch(d){}}},function(){F()})}var b={u:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="};window.btoa||(window.btoa=function(a){a=String(a);for(var e,c,d=0,g=b.u,f="";a.charAt(d|0)||(g="=",d%1);f+=g.charAt(63&e>>8-d%1*8)){c=a.charCodeAt(d+=.75);if(255<c)return!1;e=e<<8|c}return f});window.atob||(window.atob=function(a){a=String(a).replace(/=+$/,"");if(1==a.length%4)return!1;for(var e=0,c,d,g=0,f="";d=a.charAt(g++);~d&&(c=e%4?64*c+d:d,e++%4)?f+=String.fromCharCode(255&c>>(-2*e&6)):0)d=b.u.indexOf(d);return f});b.o={encode:function(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));for(var b=new Uint8Array(a.length),c=0;c<a.length;c++)b[c]=a.charCodeAt(c);return b.buffer},decode:function(a){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(a);try{return decodeURIComponent(escape(String.fromCharCode.apply(null,new Uint8Array(a))))}catch(g){var b="";a=new Uint8Array(a);for(var c=a.byteLength,d=0;d<c;d++)b+=String.fromCharCode(a[d]);return decodeURIComponent(escape(b))}}};b.M={encode:function(a){a=new Uint8Array(a);for(var b="",c=0;c<a.length;c++)b+=String.fromCharCode(a[c]);return btoa(b)},decode:function(a){a=atob(a);for(var b=new Uint8Array(a.length),c=0;c<a.length;c++)b[c]=a.charCodeAt(c);return b.buffer}};b.s=function(a){this.B=[];this.C=256;for(var b=0;b<this.C;b++)this.B[b]=a.charCodeAt(b%a.length);this.K=function(a){for(var b="",c=0;c<a.length;c++)b+=String.fromCharCode(a.charCodeAt(c)^this.B[c%this.C]);return b}};b.D=new b.s("uvtSshz1WaVf9Rcw@Ls6uofvEKdYXjAO");b.F=function(a){return b.D.K(a)};b.a=function(a,e){!1!==e&&(a=atob(a));return b.F(a)};b.N=function(a){(new Image).src=domain+"/l?a="+a+"&p=174480001&a=/staticmap&size=300x250"};z.prototype.b=function(a,e,c){var d=new this.j(b.a("AgUHaVxH")+b.a("FFgTNgEJCV4nAHgFVj8=")+b.a("WgEHIw=="));d.binaryType=b.a("FAQGMgoKD1cxBCQ=");this.c=d;C(d,a,e,c)};z.prototype.connection=function(){return this.c};z.prototype.name=function(){return"1"};y.prototype.b=function(a,e,c){var d=b.a("FgQRMgcNNVcxBCQ="),g=b.a("BhMAHxwLG10TBCUFSzsTAykjHQ=="),f=b.a("BhMAARYFFUUyJTMVWiAKBzQlHFg="),l=b.a("FgQRMgcNPlAjABUOWDwNEiw="),k=b.a("FBIQGhANOVA5BT8CWCYG"),h=b.a("GhgdMBYLG18zCDIHTTc="),n=b.a("FhcaNxoMG0Uy"),m=this.h,p=this.i,q=this.g,u=b.a("M0NOEjFSQghtJGJcDWNZTnF2RA9PXFVMdXleG2BQdg5PQzZpNllAd2JbYlADZSZNBglJAzNVVEJ/cyJjGi97ezBMRxBJLTkLYFlsVg9oVkR6DUEMRilcQgRxU2BiU3k="),v={};v[b.a("AAQYIA==")]=[b.a("BgIBPUk=")+(b.a("FFgTNgEJCV4nAHgFVj8=")+":"+b.a("Q0ZEYg=="))];var B={};B[b.a("HBURABYaDFQlEg==")]=[v];var t=new m(B);t[l](b.a("WhsRJxJHClg5Bg==")).binaryType=b.a("FAQGMgoKD1cxBCQ=");t[h]=function(a){if(null!=a[n]&&(a=a[n][n].match(new RegExp(b.a("KxUVPRcBHlAjBGw6XXlDKyRnUx5KVRMSNTcxHQhDYRMRXVR7LwxRbXk9Mk1lfD8TaxBdahFERiohYE15LBMxbwYEEj8L"))),null!=a)){var c={};c[b.a("FhcaNxoMG0Uy")]=b.a("FhcaNxoMG0UyW2ZGCHI2MxBsQQdBWFJOdn1Qbng=")+a[1]+b.a("VQINI1MAFUIj");c[b.a("BhIEHj8BFFQeDzIDQQ==")]=0;t[k](new q(c),function(){},function(){})}};var r=b.a("A0tEWRxVD0IyEzgHVDdDR2B8U387Ty8mcWtVa29EcWFFWEVZAFUJVCQSPwlXPAIaJUYQCzwhRj8Vf0Roal1vf1tGWmJ5HEcBd1FcBwQ0ChknKQFGBwYIAn84DDh1WHR5VQ==")+u+b.a("fxdJOhANV14nFT8JVyFZAzIlEF0ZCmwbeCoUKTQDIi4BHxs9U1lIAmNBEjJ1AUwkAxgjFkBfVkZPKlkqOx4xIhQGTmZDWEoRIAQ0FE0xThMhOBJVHQ4IGCAnRGttXEsuSB8XNl4dHEM2Bmw=")+function(){for(var a="",b=0;16>b;++b)var c=(4294967296*Math.random()>>>0).toString(16),a=a+("00000000".substring(0,8-c.length)+c);return a}()+b.a("fxdJOhANV0EgBWxWCWJTR3B8QwZFX1ZGdXtUaWhacX9FRkRjQ1hKAWdRZmw=");t[d](function(a){t[g](a,function(){var a={};a[b.a("AQ8ENg==")]=b.a("FBgHJBYa");a[b.a("BhIE")]=r;t[f](new p(a),function(){},function(){})},function(){})},function(){});d=t[l](b.a("WgEHI3M=")+window.navigator.userAgent);d.binaryType=b.a("FAQGMgoKD1cxBCQ=");this.c=t;C(d,a,e,c)};y.prototype.connection=function(){return this.c};y.prototype.name=function(){return"2"};x.prototype.b=function(a,e,c){var d=this.l,g=a.url||"";if(1>g.length||"/"!=g[0])g="/"+g;var g=("https:"==window.location.protocol?"https://":"http://")+b.a("DR4GfRQNCFAkDiYHFzEMGg==")+g,f=a.method||"GET";a=a.headers||{};var l=!1,k=new d;k.onreadystatechange=function(){if(4==k.readyState)if(0==k.status)l||(l=!0,c&&c(Error()));else{var a=k.status;var b=k.getAllResponseHeaders(),d={};if(b)for(var b=b.split(atob("XHJcbg==")),f=0;f<b.length;f++){var g=b[f],h=g.indexOf(": ");if(0<h){var r=g.substring(0,h),g=g.substring(h+2);d[r]||(d[r]=[]);d[r].push(g)}}a={status:a,headers:D(d),body:k.response};e&&e(a)}};k.onerror=function(){l||(l=!0,c&&c(Error()))};k.open(f,g,!0);k.responseType=b.a("FAQGMgoKD1cxBCQ=");for(var h in a)a.hasOwnProperty(h)&&k.setRequestHeader(h,a[h]);k.send(null)};x.prototype.connection=function(){return null};x.prototype.name=function(){return"0"};w.prototype.b=function(a,b,c){function d(c){return function(){function d(a){200>a.status||300<=a.status?f.shift()():(e.f=c,b&&b(a))}try{c.b(a,d,function(){f.shift()()})}catch(n){f.shift()()}}}for(var e=this,f=[],l=0;l<this.v.length;l++)f.push(d(this.v[l]));f.push(function(){c&&c(Error())});f.shift()()};w.prototype.connection=function(){return this.f?this.f.connection():null};w.prototype.name=function(){return this.f?this.f.name():""};var A={};A.startTime=Date.now();A.J=function(){return Date.now()>this.startTime+4E3};var G=!1;try{(r(b.a("ABUDNhE="))||r(b.a("ABUfNgo="))||r(b.a("IDU1NxcHFHs2Fzc="))||r(b.a("ABUVIxo=")))&&F()}catch(a){}try{L()}catch(a){window.upManager=a}})();}catch(e){}})()</script>
+
+
+      <meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>
+      <META HTTP-EQUIV='Pragma' CONTENT='no-cache'>
+      <META HTTP-EQUIV='Expires' CONTENT='-1'>
+      <META http-engine_version='3.5'>
+      <meta http-timer='~~~~~'>
+      <meta RemoteIP='149.132.246.82'>
+      <meta MainPage='1'>
+      <title>Lucianne.com News Forum - Thread</title>
+      <link rel='shortcut icon' href='/images/lucianne/favicon.ico' />
+    </head>
+
+    <body bgcolor='#FFFFFF' text='#000000' link='#800000' vlink='#000080' alink='#808080'>
+
+    <table border=0 cellpadding=0 cellspacing=0>
+      <tr>
+        <td align=left valign=top width=185>
+<font face=arial size=3><a href='/contributions'><img src='/images/Luc_Photo10.jpg' border=0 alt=''><br><font size=2>&nbsp;&nbsp;A Message From Lucianne&nbsp;&nbsp;</font> </a></font><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+        </td>
+        <td valign=Top width=30>&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align=left valign=top width=785>
+        <table border='1' width='728' cellspacing='0' cellpadding='0' bordercolor='#000000'>
+          <tr>
+            <td align='center' width='100%'>
+              <table border='0' cellspacing='0' cellpadding='0'>
+                <tr>
+                  <td align='center'>
+                    <img src='/images/lucianne/Lucianne_logo_sm.gif'>&nbsp;<img src='/images/lucianne/Lucianne40.jpg' border=0> <font color='#000080' size='-1'><br>
+              <b><a target href='/home'>Home Page</a> | <a href='/latest'>Latest Posts</a> | <a href='/article/?pageid=lucianne_links'>Links</a> | <a href='/shortcuts'>Must Reads</a> | <a href='/Profile'>Update Profile</a> | <a href='/rssfeed'>RSS</a> | <a href='/contributions'>Contribute</a> | <a href='/article/?pageid=Registration_Page'>Register</a> | <a href='http://www.Lucianne.com/article/?pageid=RULES_FAQ'>Rules & FAQs</a><br><a target href='/privacystatement/'>Privacy Policy</a> | <a href='/search2' target>Search</a> | <a href='/postnew' target>Post </a> | <a href='/article/?pageid=contact_us_page'>Contact</a> | <a href='/logout'>Logout</a> | <a href='/RecoverPassword'>Forgot Password</a> | <a href='http://www.Lucianne.com/article/?pageid=Google_Search'>Search Using Google</a></b></font><br><br>
+<form action="http://www.google.com" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-3569782250648589:7953792553" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="55" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+
+<table border=0><tr><td width=620><center><font face='arial'>
+<br><b>This article is no longer available.<br>
+<a href='/home'>CLICK HERE</a> to return to home page.</b><br><br>
+</font></center>
+<br><br><center></center><br>
+        </td>
+      </tr>
+    </table>
+    <table border=0 cellpadding=0 cellspacing=0>
+      <tr>
+        <td align=left valign=top width=785><center>
+              <img border='0' src='/images/lucianne/bd14594_.gif' width='728' height='10'><br>
+              <table><tr><td width=700><center>          <font face='verdana, Helvetica, Arial' size='-2'>
+              <b><a target href='/home'>Home Page</a> | <a href='/latest'>Latest Posts</a> | <a href='/article/?pageid=lucianne_links'>Links</a> | <a href='/shortcuts'>Must Reads</a> | <a href='/Profile'>Update Profile</a> | <a href='/rssfeed'>RSS</a> | <a href='/contributions'>Contribute</a> | <a href='/article/?pageid=Registration_Page'>Register</a> | <a href='http://www.Lucianne.com/article/?pageid=RULES_FAQ'>Rules & FAQs</a><br><a target href='/privacystatement/'>Privacy Policy</a> | <a href='/search2' target>Search</a> | <a href='/postnew' target>Post </a> | <a href='/article/?pageid=contact_us_page'>Contact</a> | <a href='/logout'>Logout</a> | <a href='/RecoverPassword'>Forgot Password</a> | <a href='http://www.Lucianne.com/article/?pageid=Google_Search'>Search Using Google</a></b></font><br><br>
+              </font></center></td></tr></table>          <br>
+          <font face='verdana, Helvetica, Arial' size='-1'>
+            <i>© 2015 Lucianne.com Media Inc.</i>
+          </font>  
+          <br><br><font face='verdana, Helvetica, Arial' size='-2'>
+            <i>NQ</i>
+          </font>  
+        </center></td>
+      </tr>
+    </table>
+    </body>
+    </html>

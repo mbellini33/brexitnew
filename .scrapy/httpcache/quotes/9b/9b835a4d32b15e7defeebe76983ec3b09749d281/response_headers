@@ -1,0 +1,15 @@
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Server: nginx
+X-Cache-Hits: 4
+X-Cacheable: YES
+X-Processesi: yes
+X-Removedcookies: YES
+X-Served-By: nat-cache2a.tm-aws.com
+X-Varnish: 544964985 544963895
+Cache-Control: max-age=39
+Expires: Fri, 15 Dec 2017 20:10:31 GMT
+Date: Fri, 15 Dec 2017 20:09:52 GMT
+Set-Cookie: GS_GROUP=2; expires=Sun, 14-Jan-2018 20:09:52 GMT
+Vary: Accept-Encoding,User-Agent

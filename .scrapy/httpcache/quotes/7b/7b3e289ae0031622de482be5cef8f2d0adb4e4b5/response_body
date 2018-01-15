@@ -1,0 +1,1145 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:g="http://base.google.com/ns/1.0">
+<!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Politics news, UK political features, views and analysis - politics.co.uk - Homepage</title>
+    <meta name="description" content="Up to the minute UK politics news, features, view and analysis, plus guides, briefings and debate." />
+    <meta name="title" content="Politics news, UK political features, views and analysis - politics.co.uk - Homepage" />
+    <meta name="keywords" content="Politics, UK political news, party politics, Conservative party, Labour party, Liberal Democrats, features, views, policy analysis." />
+    <meta property="fb:app_id" content="117633821654643" />
+    <link rel="canonical" href="http://www.politics.co.uk/" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    
+
+    <script>
+    (function () {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+    </script>
+
+
+    <link href="/Content/css/app.css" rel="stylesheet"/>
+
+
+    <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+<script src="/Scripts/jquery-1.8.3.min.js"></script>
+<script src="/Scripts/basic-slider/bjqs-1.3.min.js"></script>
+<script src="/Content/javascripts/vendor/jquery.unveil.js"></script>
+<script src="/Content/javascripts/foundation/foundation.js"></script>
+<script src="/Scripts/jquery.easing.1.3.js"></script>
+<script src="/Scripts/jquery.color.js"></script>
+<script src="/Scripts/jquery.ennui.contentslider.js"></script>
+<script src="/Scripts/jquery.pagination.js"></script>
+<script src="/Scripts/dialog/basic.js"></script>
+<script src="/Scripts/ga_social_tracking.js"></script>
+<script src="/Scripts/jquery.CookieManager.js"></script>
+<script src="/Scripts/politics.js"></script>
+<script src="/Content/javascripts/rwd-politics.js"></script>
+<script src="/Content/javascripts/load-social-media.js"></script>
+<script src="/Content/javascripts/third-party-widgets.js"></script>
+<script src="/Scripts/jquery.homepagetakeover.js"></script>
+<script src="/Content/javascripts/advert-inject.js"></script>
+
+    
+    <!--[if lt IE 9]>
+        <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+
+    <![endif]-->
+    <!-- New Relic Header -->
+
+
+    <meta name="google-site-verification" content="U4NOXWS-5FY3wNUKCD_df-PvQyrzw-Bu-8weH5bpw3o" />
+</head>
+<body>
+    <div class="row">
+        <div id="top" class="large-12 columns">
+
+    <script>
+    googletag.cmd.push(function () {
+        var mapLeader = googletag.sizeMapping().
+		addSize([320, 400], [320, 50]).
+		addSize([320, 700], [320, 50]).
+		addSize([480, 200], [320, 50]).
+		addSize([768, 200], [728, 90]).
+		addSize([1000, 200], [970, 250]).
+		build();
+
+        googletag.defineSlot('/1071561/Home_Leaderboard', [[728, 90], [320, 50], [970, 250]], 'div-gpt-ad-1479743430905-0').defineSizeMapping(mapLeader).addService(googletag.pubads());
+        googletag.pubads().enableSyncRendering();
+        googletag.enableServices();
+    });
+</script>
+
+
+
+<div id="homeLeaderboard" style="text-align: center;">
+    <div id='div-gpt-ad-1479743430905-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479743430905-0'); });
+        </script>
+    </div>
+</div>
+
+
+
+
+
+
+        </div>
+    </div>
+
+    <div class="row row-logo">
+        <div class="small-8 large-6 columns logo">
+            <a href="/">
+                <img id="Img2" src="/Content/images/politics-logo-flat.gif" alt="Politics.co.uk" />
+            </a>
+        </div>
+        <div class="show-for-small small-4 columns follow-profile-btn"><a class="button" href="#">Follow</a></div>
+        <div class="hide-for-small large-6 columns social-profile-icons">
+
+            <ul class="inline-list">
+                <li><a class="icon-youtube" title="You Tube" href="http://www.youtube.com/user/politicscouk/"></a></li>
+                <li><a class="icon-twitter" title="Twitter" href="http://www.twitter.com/politics_co_uk" data-app="twitter://user?screen_name=politics_co_uk"></a></li>
+                <li><a class="icon-facebook" title="Facebook" href="http://www.facebook.com/pages/Politicscouk/124189634323190" data-app="fb://profile/124189634323190"></a></li>
+                <li><a class="icon-google-plus" title="Google Plus" href="https://plus.google.com/u/0/b/102716629977595967150/102716629977595967150/posts"></a></li>
+                <li><a class="icon-linkedin" title="LinkedIn" href="http://www.linkedin.com/company/politics-co-uk"></a></li>
+            </ul>
+
+            <form action="/search/" method="get" class="g-website-search">
+                <input class="top-search radius search-input" type='text' name='keyword' id="keyword2" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                       size="35" />
+                <button type="submit" class="small button radius top-search-btn icon-search" name="action"></button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row top-nav-wrapper">
+        <div class="large-12 columns">
+            <nav class="top-nav">
+                <section class="top-nav-section">
+                    <ul>
+                        <li class=active><a id="home" class="icon-home-mobile" href="/"><span>Home</span></a></li>
+                        <li ><a id="news" href="/news/">News</a></li>
+                    </ul>
+
+                    <ul class="middle-nav">
+                        <li >
+                            <a id="comment_analysis" href="/comment-analysis/">
+                                Comment
+                                & Analysis
+                            </a>
+                        </li>
+                        <li >
+                            <a id="opinion_formers" href="/opinion-formers/">
+                                Opinion
+                                Formers
+                            </a>
+                        </li>
+                        
+                        <li ><a id="reference" href="/reference/">Reference</a></li>
+
+                        <li ><a id="video" href="/video/">Video</a></li>
+
+                    </ul>
+                    
+
+
+                    <ul class="has-form search-box">
+                        <li>
+                            <form id="searchForm" action="/search/" method="get" class="g-website-search">
+                                <input class="search radius search-input" type='text' name='keyword' id="keyword" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                                       size="35" />
+                                <button type="submit" class="small button radius search-btn icon-search" name="action"></button>
+
+                            </form>
+                        </li>
+                    </ul>
+
+                </section>
+                <a class="pull-menu" href="#"></a>
+            </nav>
+
+        </div>
+
+    </div>
+
+    <div class="row hide-for-medium-small-below">
+        <div class="large-12 columns sub-nav">
+
+   
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="small-12 large-12 columns">
+
+
+    <div class="no-breadcrumb">&nbsp;</div>
+
+            <div class="row">
+
+                
+    <div id="main_column" class="large-8 columns">
+        
+        <div class="home-box">
+    <a class="defer-image image-ratio:183x80 is-loading" href="/comment-analysis/2017/12/15/week-in-review-lessons-from-grenfell-are-yet-to-be-learned">
+        <img class="mini-img" 
+             src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+             data-src="http://p3.politics.co.uk/home-top-image/14123351" 
+             alt="&quot;Yesterday marked six months since the Grenfell fire that destroyed so many lives&quot;" 
+             title="&quot;Yesterday marked six months since the Grenfell fire that destroyed so many lives&quot;" />
+    </a>
+<h1>    <a href="/comment-analysis/2017/12/15/week-in-review-lessons-from-grenfell-are-yet-to-be-learned">Week in review: Lessons from Grenfell are yet to be learned </a> 
+</h1>    <p>Have attitudes towards social housing tenants really changed?</p>
+
+    <div class="row left-stories">
+        <div class="medium-8 large-8 columns left-box">   
+                <div class="top-two-stories">
+                    <a class="defer-image image-fixed:140x100 is-loading" href="/comment-analysis/2017/12/15/the-only-way-to-fix-universal-credit-is-to-scrap-it-altogeth">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                             data-src="http://p1.politics.co.uk/home-top-three/14123813" 
+                             alt="&quot;The centring of the &#39;principles&#39; of Universal Credit contributes to a Westminster delusion about this dumpster fire.&quot;"
+                             title="&quot;The centring of the &#39;principles&#39; of Universal Credit contributes to a Westminster delusion about this dumpster fire.&quot;" />
+                    </a>
+            
+                        
+                    <h2><a href="/comment-analysis/2017/12/15/the-only-way-to-fix-universal-credit-is-to-scrap-it-altogeth">The only way to fix Universal Credit is to scrap it altogether </a></h2>
+
+                    <p>
+                        It&#39;s time to stop pretending that the system just needs tweaking
+                    </p>
+
+                </div>
+                <div class="top-two-stories">
+                    <a class="defer-image image-fixed:140x100 is-loading" href="/comment-analysis/2017/12/14/tax-rate-changes-are-a-smart-move-by-the-snp">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                             data-src="http://p1.politics.co.uk/home-top-three/14122245" 
+                             alt="&quot;The party deserves credit for finally biting the bullet&quot;"
+                             title="&quot;The party deserves credit for finally biting the bullet&quot;" />
+                    </a>
+            
+                        
+                    <h2><a href="/comment-analysis/2017/12/14/tax-rate-changes-are-a-smart-move-by-the-snp">Tax rate changes are a smart move by the SNP</a></h2>
+
+                    <p>
+                        Judging by the muted Tory and Labour responses, it succeeded in taking the wind out of their sails
+                    </p>
+
+                </div>
+                <div class="top-two-stories">
+                    <a class="defer-image image-fixed:140x100 is-loading" href="/comment-analysis/2017/12/14/brexit-a-familiar-return-to-chaos-and-embarrassment-for-may">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                             data-src="http://p1.politics.co.uk/home-top-three/14125101" 
+                             alt="&quot;Theresa May has over the last 18 months demonstrated that she enjoys a good farce&quot;"
+                             title="&quot;Theresa May has over the last 18 months demonstrated that she enjoys a good farce&quot;" />
+                    </a>
+            
+                        
+                    <h2><a href="/comment-analysis/2017/12/14/brexit-a-familiar-return-to-chaos-and-embarrassment-for-may">Brexit: A familiar return to chaos and embarrassment for May </a></h2>
+
+                    <p>
+                        Brexit has become a pantomime with all of the pratfalls and none of the jokes
+                    </p>
+
+                </div>
+        </div>
+
+        <div class="medium-4 large-4 columns top-last-story listing-box">
+            <ul>
+                    <li>
+                        <a class="defer-image image-ratio:2x1 is-loading" href="/news/2017/12/14/home-office-defeated-at-the-high-court-over-deportations-of">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                                 data-src="http://p0.politics.co.uk/home-top-last/14121724" 
+                                 alt="&quot;The High Court today found that the policy was unlawful and that sleeping rough does not constitute an abuse of EU free movement rights&quot;"
+                                 title="&quot;The High Court today found that the policy was unlawful and that sleeping rough does not constitute an abuse of EU free movement rights&quot;" />
+                        </a>
+                
+                        <h4><a href="/news/2017/12/14/home-office-defeated-at-the-high-court-over-deportations-of">Home Office defeated at the High Court over deportations of EU rough sleepers </a></h4>
+                    </li>
+                    <li>
+                        <a class="defer-image image-ratio:2x1 is-loading" href="/comment-analysis/2017/12/13/hard-brexiteers-will-never-be-happy">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                                 data-src="http://p2.politics.co.uk/home-top-last/14125086" 
+                                 alt="&quot;The danger the hardliners are presenting themselves is that by their own, increasingly fluid and ever-moving parameters, they will never be happy&quot;"
+                                 title="&quot;The danger the hardliners are presenting themselves is that by their own, increasingly fluid and ever-moving parameters, they will never be happy&quot;" />
+                        </a>
+                
+                        <h4><a href="/comment-analysis/2017/12/13/hard-brexiteers-will-never-be-happy">Hard Brexiteers will never be happy </a></h4>
+                    </li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+        
+        <script>
+  googletag.cmd.push(function() {
+      googletag.defineSlot('/1071561/ArticlePage_MPU', [300, 250], 'div-gpt-ad-1421844527899-0').addService(googletag.pubads());
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+
+<div id="mobileMPU" style="text-align: center;">
+
+    <!-- /1071561/Home_Second_MPU -->
+    <div id='div-gpt-ad-1421844527899-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1421844527899-0'); });
+        </script>
+    </div>
+
+</div>
+
+            <div class="listing-box three-col sub-feature">
+        <h3>Opinion Former Articles</h3>
+
+            <div class="top-two-stories" style="clear:both;">
+                <a class="defer-image image-fixed:140x100 is-loading" href="/opinion-formers/bakers-food-and-allied-workers-union/article/labour-s-plans-for-a-real-living-wage-would-be-life-changing">
+                    <img style="float:left; margin-right:10px;"
+                         src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         data-src="http://p3.politics.co.uk/home-top-three/14085891"
+                         alt="&quot;Pay and exploitative employment are the real problems faced in modern Britain&quot;"
+                         title="&quot;Pay and exploitative employment are the real problems faced in modern Britain&quot;" />
+                </a>
+
+
+                <h2><a href="/opinion-formers/bakers-food-and-allied-workers-union/article/labour-s-plans-for-a-real-living-wage-would-be-life-changing">Labour&#39;s plans for a real living wage would be life changing for many people</a></h2>
+
+                <p>
+                    A minimum wage of &#163;10 will lift millions of people out of poverty
+                </p>
+
+            </div>
+            <div class="top-two-stories" style="clear:both;">
+                <a class="defer-image image-fixed:140x100 is-loading" href="/opinion-formers/bakers-food-and-allied-workers-union/article/budget-tories-out-of-touch-once-again">
+                    <img style="float:left; margin-right:10px;"
+                         src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         data-src="http://p3.politics.co.uk/home-top-three/14085891"
+                         alt="&quot;They refuse to acknowledge the problems working class people of this country face day in, day out&quot; "
+                         title="&quot;They refuse to acknowledge the problems working class people of this country face day in, day out&quot; " />
+                </a>
+
+
+                <h2><a href="/opinion-formers/bakers-food-and-allied-workers-union/article/budget-tories-out-of-touch-once-again">Budget Tories out of touch once again</a></h2>
+
+                <p>
+                    The government&#39;s incompetence has shifted attention away from the real issues at hand
+                </p>
+
+            </div>
+
+    </div>
+
+
+
+        <div class="listing-box three-col">
+            <h3><a href="/comment-analysis/">Comment & Analysis</a></h3>
+            
+<ul class="row">
+<li class="small-6 medium-4 large-4 columns collapse ">                <a class="defer-image image-ratio:4x3 is-loading" href="/comment-analysis/2017/11/30/trump-isn-t-the-ally-you-re-looking-for-brexiters-threw-thei">
+                    <img class="mini-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://p2.politics.co.uk/three-column-list/14118486" alt="&quot;There&#39;s no good reason to suppose that the UK will receive any sort of special treatment from Trump&quot; "
+                         title="&quot;There&#39;s no good reason to suppose that the UK will receive any sort of special treatment from Trump&quot; " /></a>
+                <h3><a href="/comment-analysis/2017/11/30/trump-isn-t-the-ally-you-re-looking-for-brexiters-threw-thei">
+                        Trump isn&#39;t the ally you&#39;re looking for - Brexiters threw their lot in with the wrong man  
+                    </a>
+                </h3>
+</li><li class="small-6 medium-4 large-4 columns collapse ">                <a class="defer-image image-ratio:4x3 is-loading" href="/blogs/2017/11/23/hammond-s-manifesto-five-years-too-early-six-months-too-late">
+                    <img class="mini-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://p3.politics.co.uk/three-column-list/14122327" alt="&quot;The Conservatives will be left looking for manifesto gimmicks to get them over the line – of the sort that Hammond has delivered, five years too early, and six months too late&quot; "
+                         title="&quot;The Conservatives will be left looking for manifesto gimmicks to get them over the line – of the sort that Hammond has delivered, five years too early, and six months too late&quot; " /></a>
+                <h3><a href="/blogs/2017/11/23/hammond-s-manifesto-five-years-too-early-six-months-too-late">
+                        Hammond’s manifesto – five years too early, six months too late 
+                    </a>
+                </h3>
+</li><li class="medium-4 large-4 columns collapse ">                <a class="defer-image image-ratio:4x3 is-loading" href="/comment-analysis/2017/11/23/changes-to-universal-credit-are-welcome-but-they-don-t-go-fa">
+                    <img class="mini-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://p0.politics.co.uk/three-column-list/14119528" alt="&quot;For real change, Universal Credit doesn&#39;t need tinkering with - it needs a complete overhaul.&quot;"
+                         title="&quot;For real change, Universal Credit doesn&#39;t need tinkering with - it needs a complete overhaul.&quot;" /></a>
+                <h3><a href="/comment-analysis/2017/11/23/changes-to-universal-credit-are-welcome-but-they-don-t-go-fa">
+                        Changes to Universal Credit are welcome but they don&#39;t go far enough 
+                    </a>
+                </h3>
+</li></ul>
+<hr class="h-rule" />
+<ul class="row">
+
+        <li class="medium-8 large-8 columns collapse">
+            <h4><a href="/blogs/2017/11/22/budget-2017-hammond-paints-a-portrait-of-despair">
+                    Budget 2017: Hammond paints a portrait of despair 
+                </a>
+            </h4>
+
+            <p>Chancellor makesbad jokes and bribes Brexiters as he paints a portrait of a shrivelling economy.</p>
+        </li>
+
+        <li class="medium-4 large-4 columns collapse left-divider">
+            <h4><a href="/comment-analysis/2017/11/22/budget-2017-brexit-has-taken-britain-s-eyes-off-the-ball">
+                    Budget 2017: Brexit has taken Britain&#39;s eyes off the ball 
+                </a>
+            </h4>
+            <p>Our separation from  Europe overshadows everything, but dealing with it does nothing to heal the gaping wound of Britain&#39;s productivity problem.</p>
+        </li>
+</ul>
+        </div>
+
+       
+
+        <div class="listing-box video-box">
+            <h3><a href="/video/opinion-former-videos/">Video</a></h3>
+            <div class="top-video">
+    <div>
+        <p>
+	<iframe allowtransparency="true" class="wistia_embed" frameborder="0" height="270" name="wistia_embed" scrolling="no" src="https://fast.wistia.com/embed/iframe/n55rx2al5w" width="480"></iframe></p>
+
+    </div>
+    <h3>
+        <a href="/opinion-formers/universitiesuk/article/the-economic-impact-of-universities-in-2014-15">The economic impact of universities in 2014-15</a>
+    </h3>
+</div>
+
+<ul class="row video-three-col">    
+        <li class="medium-4 large-4 columns collapse">
+            <a class="defer-image image-ratio:4x3 is-loading" href="/opinion-formers/nasuwt-the-teachers-union/article/teacher-stress-and-wellbeing">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                    data-src="http://p3.politics.co.uk/three-column-list/14124379"
+                    alt="NASUWT" />
+            </a>
+            <h4>
+                <a href="/opinion-formers/nasuwt-the-teachers-union/article/teacher-stress-and-wellbeing">Teacher stress and well-being</a>
+            </h4>
+        </li>
+        <li class="medium-4 large-4 columns collapse">
+            <a class="defer-image image-ratio:4x3 is-loading" href="/opinion-formers/port-of-dover/article/port-of-dover-driving-trade-and-prosperity">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                    data-src="http://p1.politics.co.uk/three-column-list/14124177"
+                    alt="Port of Dover" />
+            </a>
+            <h4>
+                <a href="/opinion-formers/port-of-dover/article/port-of-dover-driving-trade-and-prosperity">Port of Dover – driving trade and prosperity</a>
+            </h4>
+        </li>
+        <li class="medium-4 large-4 columns collapse">
+            <a class="defer-image image-ratio:4x3 is-loading" href="/opinion-formers/core-cities-uk/article/invest-reform-trust">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                    data-src="http://p1.politics.co.uk/three-column-list/14124165"
+                    alt="Invest Reform Trust" />
+            </a>
+            <h4>
+                <a href="/opinion-formers/core-cities-uk/article/invest-reform-trust">Invest, Reform, Trust</a>
+            </h4>
+        </li>
+</ul>
+
+        </div>
+
+       
+
+        <div class="listing-box">
+            <h3><a href="/opinion-formers/">Opinion Formers</a></h3>
+            
+            <div class="row">
+                <ul class="quote-list medium-8 large-8 columns">
+    <li>
+        <blockquote>
+            <a class="defer-image image-fixed:100x50 is-loading" href="/opinion-formers/nasuwt-the-teachers-union/article/nasuwt-comments-on-a-level-resultss">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p3.politics.co.uk/partner-quote-logo/1345015" 
+                     alt="" />    
+            </a>
+
+            <a href="/opinion-formers/nasuwt-the-teachers-union/article/nasuwt-comments-on-a-level-resultss">
+                "Government must act to ensure that future generations have the opportunity to make the fullest use of their skills and talents, by removing the barriers to achievement created by poverty and disadvantage" <cite> Chris Keates, General Secretary of the NASUWT. </cite>
+            </a> 
+            
+        </blockquote>
+    </li>
+    <li>
+        <blockquote>
+            <a class="defer-image image-fixed:100x50 is-loading" href="/opinion-formers/british-association-for-shooting-and-conservation-basc/article/basc-wins-fight-to-keep-white-fronted-geese-on-quarry-list">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p1.politics.co.uk/partner-quote-logo/366445" 
+                     alt="" />    
+            </a>
+
+            <a href="/opinion-formers/british-association-for-shooting-and-conservation-basc/article/basc-wins-fight-to-keep-white-fronted-geese-on-quarry-list">
+                "The alliance between wildfowlers and bird conservation bodies can now continue to the benefit of Greenland white-fronted geese" <cite> Dr Conor O’Gorman, BASC Policy Development Manager. </cite>
+            </a> 
+            
+        </blockquote>
+    </li>
+</ul>
+                
+                
+        <ul class="medium-4 large-4 columns">
+                <li>
+                                <a class="defer-image image-ratio:2x3 is-loading" href="/opinion-formers/cii/article/cii-guide-to-apprenticeships-infographic">
+                <img class="mini-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                     data-src="http://p1.politics.co.uk/infographic-list/cii-apprenticeships-infographic.21395101.jpg"
+                     alt="The Chartered Insurance Institute has published a new guide to help employers get started with apprenticeships.  "
+                     title="The Chartered Insurance Institute has published a new guide to help employers get started with apprenticeships.  " />
+            </a>
+<h4>        <a href="/opinion-formers/cii/article/cii-guide-to-apprenticeships-infographic">
+            CII guide to apprenticeships [infographic]
+        </a>
+</h4>
+                </li>
+        </ul>
+
+
+
+
+
+            </div>
+
+            
+        <ul class="row press-release-list">
+                <li class="medium-6 large-6 columns">
+                        <a class="defer-image image-fixed:80x40 is-loading" href="/opinion-formers/nasuwt-the-teachers-union/article/nasuwt-comments-on-ofsted-s-annual-repor">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                data-src="http://p3.politics.co.uk/partner-press-release-logo/1345015" 
+                alt="&quot;It is clear from the report that the teaching profession continues to secure high quality learning experiences for children and young people&quot;" />    
+    </a>
+<h4>    <a href="/opinion-formers/nasuwt-the-teachers-union/article/nasuwt-comments-on-ofsted-s-annual-repor">
+        NASUWT comments on Ofsted&#39;s annual report  
+    </a>
+</h4>        <p>&quot;It is clear from the report that the teaching profession continues to secure high quality learning experiences for children and young people&quot;</p>
+
+                </li>
+                <li class="medium-6 large-6 columns">
+                        <a class="defer-image image-fixed:80x40 is-loading" href="/opinion-formers/british-association-for-shooting-and-conservation-basc/article/no-further-airgun-restrictions-needed-says-basc">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                data-src="http://p1.politics.co.uk/partner-press-release-logo/366445" 
+                alt="&quot;The Home Office has invited public responses to the consultation to be submitted by February 6&quot;" />    
+    </a>
+<h4>    <a href="/opinion-formers/british-association-for-shooting-and-conservation-basc/article/no-further-airgun-restrictions-needed-says-basc">
+        No further airgun restrictions needed, says BASC  
+    </a>
+</h4>        <p>BASC will tell the Home Office that no further restrictions are needed on airguns following the launch of a consultation to consider future regulation</p>
+
+                </li>
+        </ul>
+
+
+
+            
+            <hr class="h-rule" />
+            
+            
+        <ul class="row press-release-list">
+                <li class="medium-6 large-6 columns">
+                        <a class="defer-image image-fixed:80x40 is-loading" href="/opinion-formers/chartered-institute-of-taxation-ciot/article/changes-to-new-penalty-point-regime-for-mtd-welcomed-by-ciot">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                data-src="http://p1.politics.co.uk/partner-press-release-logo/469629" 
+                alt="&quot;It is encouraging that HMRC have taken on board many of our concerns about the points-based model&quot;" />    
+    </a>
+<h4>    <a href="/opinion-formers/chartered-institute-of-taxation-ciot/article/changes-to-new-penalty-point-regime-for-mtd-welcomed-by-ciot">
+        Changes to new penalty point regime for MTD welcomed by CIOT 
+    </a>
+</h4>        <p>The Chartered Institute of Taxation (CIOT) is pleased that its concerns about the fairness of penalties for filing late under Making Tax Digital (MTD) will be addressed by HMRC, particularly that penalty points will have a ‘shelf life’ and will therefore expire after a period of good compliance</p>
+
+                </li>
+                <li class="medium-6 large-6 columns">
+                        <a class="defer-image image-fixed:80x40 is-loading" href="/opinion-formers/humanists-uk/article/humanists-comment-on-opt-organ-donation">
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                data-src="http://p1.politics.co.uk/partner-press-release-logo/365873" 
+                alt="&quot;We can create a more rational and more humane model which will save countless lives while protecting individuals’ right to choose.&quot;" />    
+    </a>
+<h4>    <a href="/opinion-formers/humanists-uk/article/humanists-comment-on-opt-organ-donation">
+        Humanists comment on opt-organ donation 
+    </a>
+</h4>        <p>&quot;After campaigning on this issue for many years, we are delighted to see the Government is moving forward with a Welsh-style opt-out organ donor register in England&quot;</p>
+
+                </li>
+        </ul>
+
+
+
+
+            
+
+
+
+
+        </div>
+
+        <div class="listing-box three-col">
+            <h3><a href="/news/">More News</a></h3>
+            
+            
+        <ul class="row">
+                <li class="medium-6 large-6 columns collapse">
+                            <a class="defer-image image-ratio:16x10 is-loading" href="/news/2017/11/09/free-at-the-point-of-use-nhs-employs-debt-collectors-over-he">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                 data-src="http://p1.politics.co.uk/full-width-two-column-list/of-111-hospitals-that-responded-to-a-freedom.21400041.jpg" 
+                 alt="&quot;Of 111 hospitals that responded to a Freedom of Information (FOI) request, more than half confirmed that they currently use debt collectors or had done in the past&quot;"
+                 title="Of 111 hospitals that responded to a Freedom of Information (FOI) request, more than half confirmed that they currently use debt collectors or had done in the past&quot;&quot;" /> 
+        </a>
+<h3>        <a href="/news/2017/11/09/free-at-the-point-of-use-nhs-employs-debt-collectors-over-he">
+            Free at the point of use? NHS employs debt-collectors over &#39;health tourism&#39; 
+        </a>
+</h3>
+                </li>
+                <li class="medium-6 large-6 columns collapse">
+                            <a class="defer-image image-ratio:16x10 is-loading" href="/news/2017/11/09/govt-faces-legal-challenge-over-sharing-of-nhs-patient-data">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                 data-src="http://p3.politics.co.uk/full-width-two-column-list/the-migrants-rights-network-says-the-agreemen.21400039.jpg" 
+                 alt="&quot;The Migrants&#39; Rights Network says the agreement violates patient confidentiality and discriminates against non-British patients&quot;"
+                 title="&quot;The Migrants&#39; Rights Network says the agreement violates patient confidentiality and discriminates against non-British patients&quot;" /> 
+        </a>
+<h3>        <a href="/news/2017/11/09/govt-faces-legal-challenge-over-sharing-of-nhs-patient-data">
+            Govt faces legal fight over Home Office access to NHS patient data 
+        </a>
+</h3>
+                </li>
+        </ul>
+
+
+            
+
+<div class="row news-list">
+    <div class="medium-6 large-6 columns">
+                <ul>
+                <li>
+                    <h4>        <a href="/news/2017/11/08/single-parent-families-could-be-left-destitute-as-home-offic">
+            Single parent families could be left &#39;destitute&#39; as Home Office accesses child maintenance records 
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/11/06/warning-over-new-exclusion-threat-for-disabled-people">
+            Warning over new exclusion threat for disabled people 
+        </a>
+</h4>
+                </li>
+        </ul>
+
+    </div>
+    
+    <div class="medium-6 large-6 columns">
+                <ul>
+                <li>
+                    <h4>        <a href="/news/2017/11/01/dwp-fights-to-block-publication-of-universal-credit-docs">
+            DWP fights to block publication of Universal Credit docs 
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/10/26/dwp-quietly-drops-universal-credit-child-poverty-forecast">
+            DWP quietly drops Universal Credit child poverty forecast 
+        </a>
+</h4>
+                </li>
+        </ul>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="medium-6 large-6 columns">
+                <ul>
+                <li>
+                            <a class="defer-image image-ratio:16x10 is-loading" href="/news/2017/10/25/victory-for-campaigners-as-govt-exempts-school-nurses-from">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                 data-src="http://p0.politics.co.uk/full-width-two-column-list/while-it-is-encouraging-that-the-department-o.21400020.jpg" 
+                 alt="&quot;While it is encouraging that the Department of Health has taken the time to listen to the concerns of front line workers, the reality is that this policy needs to be scrapped&quot;  "
+                 title="&quot;While it is encouraging that the Department of Health has taken the time to listen to the concerns of front line workers, the reality is that this policy needs to be scrapped&quot;  " /> 
+        </a>
+<h4>        <a href="/news/2017/10/25/victory-for-campaigners-as-govt-exempts-school-nurses-from">
+            Victory for campaigners as govt exempts school nurses from migrant NHS rules    
+        </a>
+</h4>
+                </li>
+        </ul>
+
+    </div>
+    
+    <div class="medium-6 large-6 columns">
+                <ul>
+                <li>
+                            <a class="defer-image image-ratio:16x10 is-loading" href="/news/2017/10/23/protesters-block-department-of-health-over-new-migrant-nhs-r">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                 data-src="http://p2.politics.co.uk/full-width-two-column-list/healthcare-professionals-and-activists-set-up.21400014.jpg" 
+                 alt="&quot;Healthcare professionals and activists set up an &#39;immigration checkpoint&#39; outside the government building to highlight the policy&quot;"
+                 title="&quot;Healthcare professionals and activists set up an &#39;immigration checkpoint&#39; outside the government building to highlight the policy&quot;" /> 
+        </a>
+<h4>        <a href="/news/2017/10/23/protesters-block-department-of-health-over-new-migrant-nhs-r">
+            Protesters block Department of Health over new migrant NHS rules 
+        </a>
+</h4>
+                </li>
+        </ul>
+
+    </div>
+</div>
+
+<div class="row news-list">
+    <div class="medium-6 large-6 columns">
+                <ul>
+                <li>
+                    <h4>        <a href="/news/2017/10/17/private-landlords-turning-away-universal-credit-claimants">
+            Private landlords turning away Universal Credit claimants in droves
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/10/02/campaigners-descend-on-london-hospital-to-protest-against-ne">
+            Campaigners descend on London hospital to protest against new migrant NHS rules 
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/09/27/rollout-of-universal-credit-in-grenfell-area-halted-until-20">
+            Rollout of Universal Credit in Grenfell area halted until 2018   
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/09/19/school-nurses-could-be-forced-to-deny-migrant-children-treat">
+            School nurses could be forced to deny migrant children treatment under new rules 
+        </a>
+</h4>
+                </li>
+        </ul>
+
+    </div>
+    
+    <div class="medium-6 large-6 columns">
+                <ul>
+                <li>
+                    <h4>        <a href="/news/2017/09/14/social-cleansing-hundreds-of-families-moved-out-of-london-bo">
+            Social cleansing: Hundreds of families moved out of London boroughs immediately after Grenfell 
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/09/04/benefit-sanctions-shoot-up-50-in-six-months">
+            Benefit sanctions shoot up 50% in six months 
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/09/01/mps-using-hotline-to-report-immigrants-to-home-office">
+            Revealed: MPs using immigration enforcement hotline to report people to the Home Office 
+        </a>
+</h4>
+                </li>
+                <li>
+                    <h4>        <a href="/news/2017/08/24/sadiq-khan-says-police-are-duty-bound-to-report-victims-of-c">
+            Sadiq Khan says police are &quot;duty bound&quot; to report victims of crime to the Home Office 
+        </a>
+</h4>
+                </li>
+        </ul>
+
+    </div>
+</div>
+
+        </div>
+
+    </div>
+
+
+
+    <div class="large-4 columns">
+        <script>
+  googletag.cmd.push(function() {
+      googletag.defineSlot('/1071561/Home_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-1479743755522-0').addService(googletag.pubads());
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+<div id="homeMpu">
+    <!-- /1071561/Home_MPU -->
+    <div id='div-gpt-ad-1479743755522-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479743755522-0'); });
+        </script>
+    </div>
+</div>
+
+
+        
+    
+        
+<div class="basicNewsletterForm opinionFormersList colspan_2 omega">
+    <img id="Img2" src="/Content/images/newsletter.jpg" alt="Politics @ Lunch" />
+    <h3 class="newsHeading vo_heading">Friday lunchtime. Your Inbox. It's a date.</h3>
+    
+
+    <div id="mc_embed_signup">
+        <form action="//politics.us3.list-manage.com/subscribe/post?u=f5ab5efdb629954eb1b8df87b&amp;id=cb6d3a8c9c" method="post" id="newsletterSignup" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_1" name="group[14413][1]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_2" name="group[14413][2]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_4" name="group[14413][4]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_8" name="group[14413][8]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_16" name="group[14417][16]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_32" name="group[14417][32]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="email" value="" name="EMAIL" class="email" id="news-emailAddress" placeholder="email address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_f5ab5efdb629954eb1b8df87b_cb6d3a8c9c" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small button"></div>
+            </div>
+        </form>
+    </div>
+
+    <a class="newsUpdate" href="http://www.politics.co.uk/information/newsletter-update" style="text-align: right;display: block;font-size: 12px;">Newsletter update</a>
+    
+
+
+</div>
+
+    
+
+
+<div class="listing-box headline-image-listing">
+    <h3>Most Read</h3>
+        <ul>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/06/26/what-the-dup-have-negotiated-is-much-cleverer-than-many-pred">What the DUP have negotiated is much smarter than many predicted </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/06/23/mcdonnell-has-shown-his-double-standards-by-attending-a-cuba">McDonnell has shown his double standards by attending a Cuba Solidarity Campaign event  </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/06/26/the-dup-will-be-back-for-more">The DUP will be back for more </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/blogs/2017/06/20/the-first-british-defeat-over-brexit-happened-in-moments">The first British defeat over Brexit happened in moments </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/06/22/rich-residents-complain-about-living-near-grenfell-survivors">Rich residents complaining about living near Grenfell survivors comes as no surprise   </a>
+                </h4>
+                
+
+            </li>
+    </ul>
+
+
+</div>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1071561/Home_Second_MPU', [300, 250], 'div-gpt-ad-1479743805688-0').addService(googletag.pubads());
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+<div id="homeSecondMpu">
+    <!-- /1071561/Home_Second_MPU -->
+    <div id='div-gpt-ad-1479743805688-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479743805688-0'); });
+        </script>
+    </div>
+</div>
+
+
+
+     
+
+<div class="listing-box">
+    <h3><span class="icon-twitter"></span> Twitter</h3>
+    <p><a href="http://twitter.com/politics_co_uk" class="twitter-follow-button">Follow @politics_co_uk</a></p>
+</div>
+
+
+<div id="jobslist" class="listing-box">
+<h3><a href="/jobs/">Jobs & Education</a></h3>
+        <ul class="img-right">
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/communications-officer-events">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p3.politics.co.uk/jobs-list/21390171" 
+                                 alt="The Academy of Medical Sciences is seeking a talented individual to maximise the impact of their lively and varied communication and event programmes."
+                                 title="The Academy of Medical Sciences is seeking a talented individual to maximise the impact of their lively and varied communication and event programmes." /> 
+                        </a>
+
+                    <h4><a href="/jobs/communications-officer-events">Communications Officer (Events) </a></h4>
+                    
+                </li>
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/freelance-animators">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p2.politics.co.uk/jobs-list/21390170" 
+                                 alt="Senate Media logo"
+                                 title="Senate Media logo" /> 
+                        </a>
+
+                    <h4><a href="/jobs/freelance-animators">Freelance animators</a></h4>
+                    
+                </li>
+                <li>
+                        <a class="defer-image image-fixed:140x100 is-loading" href="/jobs/sales-development-representatives">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                 data-src="http://p1.politics.co.uk/jobs-list/21390145" 
+                                 alt="If you have a passion for politics and are looking to work in business development, then Senate Media has just the role for you."
+                                 title="If you have a passion for politics and are looking to work in business development, then Senate Media has just the role for you." /> 
+                        </a>
+
+                    <h4><a href="/jobs/sales-development-representatives">Sales Development Representatives</a></h4>
+                    
+                </li>
+        </ul>
+    <p><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies here</a></p>
+</div>
+
+ 
+
+    </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div class="row">
+        <div class="footer">
+            <div class="small-6 large-3 columns">
+                <h5>News</h5>
+                
+<ul>
+        <li><a href="/news/westminster">Westminster</a> </li>
+        <li><a href="/news/home-affairs">Home Affairs</a> </li>
+        <li><a href="/news/foreign-affairs">Foreign Affairs</a> </li>
+        <li><a href="/news/economy">Economy</a> </li>
+        <li><a href="/news/health">Health</a> </li>
+        <li><a href="/news/education">Education</a> </li>
+        <li><a href="/news/environment">Environment</a> </li>
+        <li><a href="/news/local">Local</a> </li>
+</ul>
+            </div>
+
+            <div class="hide-for-small large-3 columns">
+                <h5>Comment &amp; Analysis</h5>
+                
+<ul>
+        <li><a href="/comment-analysis/comment">Comment</a> </li>
+        <li><a href="/comment-analysis/analysis">Analysis</a> </li>
+        <li><a href="/comment-analysis/sketches">Sketches</a> </li>
+        <li><a href="/comment-analysis/features">Features</a> </li>
+        <li><a href="/comment-analysis/interviews">Interviews</a> </li>
+        <li><a href="/comment-analysis/reviews">Reviews</a> </li>
+</ul>
+                <ul>
+                    <li><a href="/podcast/">Podcast</a></li>
+                </ul>
+            </div>
+
+            <div class="hide-for-small large-3 columns">
+                <h5>Opinion Formers</h5>
+                <ul>
+                    <li><a href="/video/opinion-former-videos/">Videos</a></li>
+                    <li><a href="/opinion-former/press-releases-articles/" class="selected">Press Releases &amp; Articles</a></li>
+                    <li><a href="/opinion-former/events/">Events</a></li>
+                    <li><a href="/opinion-former/of-comments/">Comments</a></li>
+                    <li><a href="/opinion-former/opinion-formers-az/">A-Z Directory</a></li>
+                    <li><a href="/information/become-an-opinion-former">Join Opinion Formers</a></li>
+                </ul>
+            </div>
+
+            <div class="small-6 large-3 columns">
+                <h5>About</h5>
+                <ul>
+                    <li><a href="http://www.polimapper.co.uk/" target="_blank">Interactive political maps</a></li>
+                        <li><a href="/information/advertise-on-politics-co-uk">Advertise on Politics.co.uk</a> </li>
+    <li><a href="/information/about-politics-co-uk">About Politics.co.uk</a> </li>
+    <li><a href="/information/about-voiceover">Video and animation production</a> </li>
+    <li><a href="/information/writing-for-politics-co-uk">Writing for Politics.co.uk </a> </li>
+    <li><a href="/information/newsletter-update">Newsletter update </a> </li>
+    <li><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies</a> </li>
+    <li><a href="/information/editorial-contacts">Editorial Contacts</a> </li>
+    <li><a href="/information/become-an-opinion-former">About Opinion Formers</a> </li>
+    <li><a href="/information/privacy">Privacy</a> </li>
+    <li><a href="/information/cookies">Cookies</a> </li>
+    <li><a href="/information/terms-of-use">Terms of use</a> </li>
+
+                </ul>
+            </div>
+
+            <p class="copyright">
+                <img id="footer_logo" src="/Content/images/politics-logo-flat-foot.gif" alt="Politics.co.uk" />
+                &copy; 2004-2017
+            </p>
+        </div>
+    </div>
+
+    <script>
+        googletag.defineSlot('/1071561/Energy_takeover_1x1', [1, 1], 'div-gpt-ad-1391617970092-0')
+            .addService(googletag.pubads())
+            .setTargeting("Win_Title", window.document.title.toLowerCase().split(" "));
+        console.log("Energy Takeover");
+    </script>
+
+    <span id="EnergyTakeOver">
+        <div id="div-gpt-ad-1391617970092-0" style="width:1px; height:1px;">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1391617970092-0'); });
+            </script>
+        </div>
+    </span>
+
+    <script>
+        //hack to make energy advert load
+        jQuery(window).on("load", function (le) {
+
+            var energyAd = null;
+            if (document.getElementById("div-gpt-ad-1391617970092-0_ad_container")) {
+                if (window.clientUrl) {
+                    console.log("Client Url: " + window.backgroundImageUrl);
+                    jQuery(function () {
+                        jQuery("#EnergyTakeOver").homePageTakeOver({
+                            clientUrl: window.clientUrl,
+                            backgroundImageUrl: window.backgroundImageUrl
+                        });
+                    });
+                }
+            }
+            //$("#div-gpt-ad-1391617970092-0 div iframe", top.document);//;
+        });
+    </script>
+
+    
+    
+
+    
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48230403-1']);
+    _gaq.push(['_setDomainName', 'politics.co.uk']);
+    if (document.location.href.search("fb_ref=") != -1) {
+        // Track traffic from Facebook Like & Send as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_ref'], ['_setCampSourceKey', 'fb_ref'], ['_setCampNameKey', 'fb_ref'], ['_setCampContentKey', 'fb_source']);
+    } else if (document.location.href.search("fb_comment_id=") != -1) {
+        // Track traffic from Facebook Comments as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_comment_id'], ['_setCampSourceKey', 'fb_comment_id'], ['_setCampNameKey', 'fb_comment_id'], ['_setCampContentKey', 'fb_comment_id']);
+    }
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+<script type="text/javascript" language="javascript">
+    var sc_project = 1704631;
+    var sc_invisible = 1;
+    var sc_partition = 16;
+    var sc_security = "69114f49"; 
+</script>
+<noscript>
+    <a href="http://www.statcounter.com/" target="_blank">
+        <img src="http://c17.statcounter.com/counter.php?sc_project=1704631&amp;java=0&amp;security=69114f49&amp;invisible=1"
+            alt="website page counter" border="0"></a>
+</noscript>
+ wa
+    <link href="/Content/css/pagination.css" rel="stylesheet"/>
+<link href="/Content/css/jquery.ennui.contentslider.css" rel="stylesheet"/>
+<link href="/Scripts/dialog/css/basic.css" rel="stylesheet"/>
+<link href="/Scripts/basic-slider/bjqs.css" rel="stylesheet"/>
+<link href="/Content/css/app-secondary-includes.css" rel="stylesheet"/>
+
+
+
+    <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+
+    
+    
+    
+
+    
+
+    <script>
+            googletag.cmd.push(function () {
+                googletag.defineOutOfPageSlot('/1071561/Home_Takeover', 'div-gpt-ad-1388764591829-0').addService(googletag.pubads());
+                googletag.pubads().enableSyncRendering();
+                googletag.enableServices();
+            });
+    </script>
+
+    <span id="homePageTakeOver">
+        <div id='div-gpt-ad-1388764591829-0'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1388764591829-0'); });
+            </script>
+        </div>
+    </span>
+
+
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineOutOfPageSlot('/1071561/New_Mobile_Interstitial', 'div-gpt-ad-1479744555055-0').addService(googletag.pubads());
+            googletag.pubads().enableSyncRendering();
+            googletag.enableServices();
+        });
+    </script>
+
+
+    <!-- /1071561/New_Mobile_Interstitial -->
+    <div id="mobileFlex" dcopt=ist>
+        <div id='div-gpt-ad-1479744555055-0'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479744555055-0'); });
+            </script>
+        </div>
+    </div>
+
+
+
+    <!-- New Relic Footer -->
+
+    <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/4263.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script>
+
+    
+
+</body>
+</html>

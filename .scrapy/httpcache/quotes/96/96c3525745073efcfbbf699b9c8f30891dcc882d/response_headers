@@ -1,0 +1,16 @@
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Link: <//www.ft.com/__assets/hashed/product/8c8ae8d6/main.css>; as="style"; rel="preload"; nopush, <https://www.ft.com/__origami/service/polyfill/v2/polyfill.min.js?features=default,requestAnimationFrame,Promise,matchMedia,HTMLPictureElement,fetch,Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,IntersectionObserver,Map,Array.from,NodeList.prototype.@@iterator,Array.prototype.@@iterator,EventSource&flags=gated&source=next&unknown=polyfill>; as="script"; rel="preload"; nopush, <//www.ft.com/__assets/hashed/n-ui/88e0c64a/font-loader.js>; as="script"; rel="preload"; nopush, <//www.ft.com/__assets/hashed/n-ui/4f6a01b9/o-errors.js>; as="script"; rel="preload"; nopush, <//www.ft.com/__assets/hashed/n-ui/1562e989/es5.js>; as="script"; rel="preload"; nopush, <//www.ft.com/__assets/hashed/product/f8492200/main.js>; as="script"; rel="preload"; nopush, <https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo:brand-ft-masthead?source=o-header&tint=%2333302E,%2333302E&format=svg>; as="image"; rel="preload"; nopush
+Content-Type: text/html; charset=utf-8
+Etag: W/"28a6e-ENbCoi1i6NO71hKs1zlSzwj3vMs"
+Content-Encoding: gzip
+Fastly-Debug-Digest: 4946586c96ddba37ee6a55886594c7e475fd8712cf45dd538a6a1577ca296a9f
+Accept-Ranges: bytes
+Date: Fri, 15 Dec 2017 20:27:34 GMT
+Age: 0
+Vary: ft-flags, ft-edition, ft-anonymous-user, ft-force-opt-in-device, country-code, x-ft-auth-gate-result, ft-barrier-type, ft-corporate-id, ft-blocked-url, FT-Site, Accept-Encoding, FT-Site
+Set-Cookie: FTAllocation=027cd3ca-b6f9-4bae-b7c3-f3741b8a9889; Expires=Tue, 09 Mar 2021 18:00:00 GMT; Domain=.ft.com; Path=/
+Set-Cookie: ft-access-decision-policy=DENY_POLICY; Max-Age=60; Domain=.ft.com; Path=/
+Strict-Transport-Security: max-age=0

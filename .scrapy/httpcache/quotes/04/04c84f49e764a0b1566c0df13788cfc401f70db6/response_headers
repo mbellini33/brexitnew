@@ -1,0 +1,9 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:37:03 GMT
+Content-Type: text/plain;charset=UTF-8
+Cache-Control: no-cache
+Content-Encoding: gzip
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Pragma: no-cache
+Set-Cookie: JSESSIONID=E73052CE38A04CAD60CB1651712F4C5B; Path=/; HttpOnly
+X-Server: cf1005bab498

@@ -1,0 +1,26 @@
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Etag: W/"hash4908953923168031315"
+Expires: Fri, 15 Dec 2017 20:24:18 GMT
+Link: <https://assets.guim.co.uk/stylesheets/d4611cb2a9530d0594a2ebaed0d21fc9/content.css>; rel=preload; as=style; nopush,<https://assets.guim.co.uk/polyfill.io/v2/polyfill.min.js?rum=0&features=es6,es7,es2017,default-3.6,HTMLPictureElement,IntersectionObserver,IntersectionObserverEntry&flags=gated&callback=guardianPolyfilled&unknown=polyfill>; rel=preload; as=script; nopush,<https://assets.guim.co.uk/javascripts/b716b11fa722210ac876/graun.standard.js>; rel=preload; as=script; nopush,<https://assets.guim.co.uk/javascripts/30f86574645598d22bdf/graun.commercial.js>; rel=preload; as=script; nopush
+X-Gu-Backend-App: article
+Via: 1.1 varnish
+Via: 1.1 varnish
+Fastly-Debug-Digest: 16d5560844dd326bd0e8f93c14c524e0846f4f976851b67729df7fa951f8b70e
+Accept-Ranges: bytes
+Date: Fri, 15 Dec 2017 20:23:19 GMT
+Age: 0
+Set-Cookie: GU_mvt_id=742097; expires=Thu, 15 Mar 2018 20:23:19 GMT; path=/; domain=.theguardian.com
+Set-Cookie: GU_geo_continent=EU; path=/;
+X-Served-By: cache-lcy19249-LCY, cache-hhn1550-HHN
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:
+X-Gu-Edition: int
+Cache-Control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private
+Vary: Accept-Encoding,User-Agent
+X-Gu-Platform: next-gen-router

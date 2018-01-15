@@ -1,0 +1,15 @@
+Server: nginx/1.10.3
+Date: Fri, 15 Dec 2017 20:04:08 GMT
+Content-Type: text/plain; charset=UTF-8
+Last-Modified: Tue, 28 Mar 2017 09:30:48 GMT
+Etag: "144-54bc71d7c592d-gzip"
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Varnish: 2704144682
+Age: 0
+Via: 1.1 varnish
+Set-Cookie: StickySession=id.16842524663.623www.investing.com; path=/;
+Content-Security-Policy-Report-Only: default-src https: data: wss: 'unsafe-inline' 'unsafe-eval'; form-action https:; report-uri https://rbmeuulvihtwm2eltjhwimi2.httpschecker.net/report
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content

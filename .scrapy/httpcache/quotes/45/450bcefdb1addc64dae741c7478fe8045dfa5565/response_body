@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /Admin
+Disallow: /my-oxford
+Disallow: /Containers/Item/Display/
+Disallow: /OE_FA_Display_Frm.asp
+Disallow: /OE_About.aspx
+Disallow: /MobileProducts.asp
+Disallow: /rss
+Disallow: /topics
+Disallow: /countries
+Disallow: /industries
+Disallow: /about-us/staff
+Allow: /my-oxford/projects/

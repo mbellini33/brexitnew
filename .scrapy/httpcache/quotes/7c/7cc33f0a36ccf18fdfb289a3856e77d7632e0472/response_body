@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /members_old/ #
+Disallow: /public/ # 
+Disallow: /docs/ #  
+Disallow: /members/ # 
+Disallow: /SANDBOX/ #  
+Disallow: /GIT/ # 
+Allow: /public/

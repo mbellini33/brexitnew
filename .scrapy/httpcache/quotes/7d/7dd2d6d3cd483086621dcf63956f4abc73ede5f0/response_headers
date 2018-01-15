@@ -1,0 +1,6 @@
+Server: nginx/1.12.2
+Date: Fri, 15 Dec 2017 20:18:21 GMT
+Content-Type: text/html; charset=iso-8859-1
+Location: http://www.mainstay.uk.net/cgi-sys/suspendedpage.cgi
+X-Acc-Exp: 600
+X-Proxy-Cache: MISS www.mainstay.uk.net

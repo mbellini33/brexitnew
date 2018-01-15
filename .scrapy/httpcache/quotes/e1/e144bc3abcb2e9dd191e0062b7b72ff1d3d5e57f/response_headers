@@ -1,0 +1,18 @@
+Server: openresty
+Date: Fri, 15 Dec 2017 20:32:41 GMT
+Content-Type: text/plain;charset=UTF-8
+Vary: Accept-Encoding
+Vary: X-UA-Device, Accept, Accept-Encoding
+X-Rid: 2a82b7eb94a9bf53cfcbb849bafb1427
+P3P: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cache-Control: public
+Last-Modified: Thu, 21 Sep 2017 07:24:15 GMT
+Expires: Sat, 16 Dec 2017 20:32:41 GMT
+Pragma: 
+X-Ua-Compatible: IE=Edge,chrome=1
+Content-Encoding: gzip
+X-Ua-Device: desktop
+Accept-Ranges: bytes

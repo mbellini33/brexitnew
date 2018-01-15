@@ -1,0 +1,19 @@
+Cache-Control: no-cache, no-store, no-transform
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: User-Agent
+Access-Control-Allow-Origin: *
+X-Aspnetmvc-Version: 5.2
+X-Appversion: 2.0.6554.2413
+X-Activity-Id: dfd2d3d9-4c0c-4f1f-bbe8-894155c0ebba
+X-Az: {did:2b413f1c0667411ba4a615ac7dc81e12, rid: 70, sn: neurope-prod-entertainment, dt: 2017-12-15T04:15:27.5686218Z, bt: 2017-12-11T01:20:42.3098744Z}
+X-Ua-Compatible: IE=Edge;chrome=1
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: HEAD,GET,OPTIONS
+X-Xss-Protection: 1
+X-Msedge-Ref: Ref A: DFD2D3D94C0C4F1FBBE8894155C0EBBA Ref B: MIL30EDGE0122 Ref C: 2017-12-15T20:13:03Z
+Date: Fri, 15 Dec 2017 20:13:02 GMT

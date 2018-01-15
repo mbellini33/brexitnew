@@ -1,0 +1,28 @@
+User-agent: bingbot
+Disallow:
+
+User-agent: twitterbot
+Disallow:
+
+User-agent: googlebot
+Disallow:
+
+User-agent: tweetmemebot
+Disallow:
+
+User-agent: facebookexternalhit
+Disallow:
+
+User-agent: yahoo!
+Disallow:
+
+User-agent: linkdexbot
+Disallow:
+
+User-agent: *
+Disallow: /
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://uk.timesofnews.com/sitemapindex.xml

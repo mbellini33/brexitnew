@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*pdf
+Disallow: /pdfs/
+Disallow: /txt/
+Disallow: /payment/*
+Disallow: /donation/*
+Disallow: /public/feed
+Disallow: /login/auth
+
+Sitemap: https://socialistworker.co.uk/sitemap.xml

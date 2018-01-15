@@ -1,0 +1,16 @@
+Server: Apache
+Location: http://www.nytimes.com/
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+X-Pagetype: legacy-override
+X-Age: 0
+X-Origin-Time: 2017-12-15 16:23:36 EDT
+Date: Fri, 15 Dec 2017 20:23:36 GMT
+X-Frame-Options: DENY
+X-Api-Version: F-5-4
+X-Served-By: cache-fra1227-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1513369416.104083,VS0,VE178
+Vary: Fastly-SSL

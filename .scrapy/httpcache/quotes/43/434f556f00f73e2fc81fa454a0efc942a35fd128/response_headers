@@ -1,0 +1,20 @@
+Cache-Control: max-age=31622400
+Content-Type: text/plain
+Etag: W/"5a3123ad-63c"
+Expires: Sat, 15 Dec 2018 12:07:52 GMT
+Last-Modified: Wed, 13 Dec 2017 12:57:17 GMT
+Server: nginx
+Surrogate-Key-Raw: 
+X-Pantheon-Styx-Hostname: styx-fe1-b-907954384-3lqlv
+X-Styx-Req-Id: styx-29fdaffa9e0d2e7988b34facafafdda4
+Via: 1.1 varnish
+Via: 1.1 varnish
+Fastly-Debug-Digest: 27b5ac28a0d80ee4502d49506d412ef3cd7842ac6a53c18b161c47f9eba0e1ed
+Accept-Ranges: bytes
+Date: Fri, 15 Dec 2017 20:31:17 GMT
+Age: 116605
+X-Served-By: cache-mdw17334-MDW, cache-fra1244-FRA
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 16
+X-Timer: S1513369878.955747,VS0,VE0
+Vary: Accept-Encoding

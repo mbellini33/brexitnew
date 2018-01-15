@@ -1,0 +1,644 @@
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; DebugMyPlugin has a deprecated constructor in <b>/home/brexitun/public_html/wp-content/plugins/debug-my-plugin/debug-my-plugin.php</b> on line <b>51</b><br />
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="http://brexit-unplugged.co.uk/wp-content/themes/brexit/css/bootstrap.css" />
+                <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Brexit Unplugged - Bringing the Facts of Brexit That Matter to You</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Brexit Unplugged will bring together the stories that explain the ramifications of Brexit to your business, your industry, and to you."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://brexit-unplugged.co.uk/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Brexit Unplugged - Bringing the Facts of Brexit That Matter to You" />
+<meta property="og:description" content="Brexit Unplugged will bring together the stories that explain the ramifications of Brexit to your business, your industry, and to you." />
+<meta property="og:url" content="http://brexit-unplugged.co.uk/" />
+<meta property="og:site_name" content="Brexit Unplugged" />
+<meta property="og:image" content="http://brexit-unplugged.co.uk/wp-content/uploads/2016/07/4-1.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Brexit Unplugged will bring together the stories that explain the ramifications of Brexit to you." />
+<meta name="twitter:title" content="Brexit Unplugged" />
+<meta name="twitter:site" content="@BrexitedEU" />
+<meta name="twitter:image" content="http://brexit-unplugged.co.uk/wp-content/uploads/2016/07/Logo-2.jpg" />
+<meta name="twitter:creator" content="@BrexitedEU" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/brexit-unplugged.co.uk\/","name":"Brexit Unplugged","potentialAction":{"@type":"SearchAction","target":"http:\/\/brexit-unplugged.co.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/brexit-unplugged.co.uk\/","sameAs":["https:\/\/www.linkedin.com\/company\/15180829?trk=tyah&trkInfo=clickedVertical:company,clickedEntityId:15180829,idx:3-3-8,tarId:1483980433374,tas:brexit","https:\/\/twitter.com\/BrexitedEU"],"@id":"#organization","name":"Brexit Unplugged","logo":"http:\/\/brexit-unplugged.co.uk\/wp-content\/uploads\/2016\/07\/Logo-2.jpg"}</script>
+<meta name="google-site-verification" content="k0hWPOQMTqiWwsFDZm8uwpOVVdcizbn3W0Y1oBgJrcg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Brexit Unplugged &raquo; Feed" href="http://brexit-unplugged.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Brexit Unplugged &raquo; Comments Feed" href="http://brexit-unplugged.co.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/brexit-unplugged.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=2d2eff8ebce6ee9562e56633da2fae9c"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bbp-default-css'  href='http://brexit-unplugged.co.uk/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.10-6063' type='text/css' media='screen' />
+<link rel='stylesheet' id='bbpressmoderationstyle-css'  href='http://brexit-unplugged.co.uk/wp-content/plugins/bbpressmoderation/style.css?ver=2d2eff8ebce6ee9562e56633da2fae9c' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://brexit-unplugged.co.uk/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.9' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='math-captcha-frontend-css'  href='http://brexit-unplugged.co.uk/wp-content/plugins/wp-math-captcha/css/frontend.css?ver=2d2eff8ebce6ee9562e56633da2fae9c' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://brexit-unplugged.co.uk/wp-content/themes/brexit/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='http://brexit-unplugged.co.uk/wp-content/themes/brexit/style.css?ver=2d2eff8ebce6ee9562e56633da2fae9c' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://brexit-unplugged.co.uk/wp-content/themes/brexit/css/ie.css?ver=20150825' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://brexit-unplugged.co.uk/wp-content/themes/brexit/css/ie8.css?ver=20150825' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://brexit-unplugged.co.uk/wp-content/themes/brexit/css/ie7.css?ver=20150825' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://brexit-unplugged.co.uk/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.2 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-88751158-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.0.9'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.0.9'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/themes/brexit/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://brexit-unplugged.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://brexit-unplugged.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://brexit-unplugged.co.uk/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://brexit-unplugged.co.uk/' />
+<style type="text/css">
+.image-campaign
+{
+	list-style: none;
+	display: flex;
+	flex-flow: row wrap;
+	margin: 0 auto;
+}
+.image-campaign li
+{
+	display: list-item;
+	float: left;
+	padding: 0;
+	margin: 5px;
+}
+.link-campaign
+{
+
+}
+
+.link-campaign li
+{
+	color: #777;
+	font-size: 15px;
+}
+.flash-campaign
+{
+	list-style: none;
+}
+
+.flash-campaign li
+{
+	display: list-item;
+	float: left;
+	padding: 0;
+	margin: 5px;
+}
+
+.flash-campaign li div
+{
+	position: relative;
+}
+
+.flash-campaign li div a
+{
+	position: absolute;
+	z-index: 9999;
+	display: block;
+} </style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//brexit-unplugged.co.uk/?wordfence_logHuman=1&hid=217FF59BD7AE5A6D3B620A923BE69153');
+</script>	<style type="text/css">
+		div.wpcf7 .screen-reader-response {
+			display: none;
+		}
+		div.wpcf7 img.ajax-loader {
+			border: none;
+			vertical-align: middle;
+			margin-left: 4px;
+		}
+		div.wpcf7 .form-inline img.ajax-loader {
+			display: inline;
+		}
+		div.wpcf7 div.ajax-error {
+			display: none;
+		}
+		div.wpcf7 .wpcf7-display-none {
+			display: none;
+		}
+		div.wpcf7 .form-inline .form-group {
+			max-width: 250px;
+		}
+		div.wpcf7 .input-group-addon img {
+			height: 100%;
+			width: auto;
+			max-width: none !important;
+			border-radius: 5px;
+		}
+		div.wpcf7 .input-group-addon.input-group-has-image {
+			padding: 0;
+		}
+	</style>
+	<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://brexit-unplugged.co.uk/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://brexit-unplugged.co.uk/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.0.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>        <!-- jQuery library (served from Google) -->
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+                <script src="http://brexit-unplugged.co.uk/wp-content/themes/brexit/js/bootstrap.min.js"></script>
+        <script src="http://brexit-unplugged.co.uk/wp-content/themes/brexit/js/jquery.validate.js"></script>
+    </head>
+    <body class="home page page-id-49 page-template-default group-blog wpb-js-composer js-comp-ver-4.9.2 vc_responsive">
+        <!-- Wrapper-1 Area Start -->
+        <div class="wrapper-1">
+            <div class="container">
+                <div class="row">
+                    <!-- Topbar Area Start -->
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 topbar">
+                        <p>We use cookies as set out in our cookie policy . By using this website, you agree we may place these cookies on your device. <span class="close-notice">[X]</span></p>
+                    </div><!-- Topbar Area End -->
+                </div>
+            </div>
+        </div><!-- Wrapper-1 Area End -->
+        <!-- Wrapper-2 Area Start -->
+        <div class="wrapper-2">
+            <div class="container">
+                <div class="row">
+                    <!-- Header Area Start -->
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 header no-padding">
+                        <!-- Logo Area Start -->
+                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 logo no-padding">
+                            <a href="http://brexit-unplugged.co.uk"><img src="http://brexit-unplugged.co.uk/wp-content/uploads/2016/07/logo-new.png" class="img-responsive"></a>
+                        </div><!-- Logo Area End -->
+                        <!-- Top Nav Area Start -->
+                        <nav class="col-lg-9 col-sm-12 col-md-9 col-xs-12 top-nav navbar navbar-default no-padding" role="navigation">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </div>
+                            <div class="navbar-collapse collapse no-padding">
+                                <div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav topnav"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-17"><a href="http://brexit-unplugged.co.uk/">Home</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://brexit-unplugged.co.uk/about-brexit-unplugged/">About</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://brexit-unplugged.co.uk/forums/">Forum</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://brexit-unplugged.co.uk/contact-us/">Contact us</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://brexit-unplugged.co.uk/sponsoradvertise/">Sponsor/Advertise</a></li>
+</ul></div>                            </div>
+                        </nav> <!-- Top Nav Area End -->
+                    </div><!-- Header Area End -->
+
+                    <!-- Advertisement Area Start -->
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 advertisement">
+                        <section id="adpress_widget-4" class="widget widget_adpress_widget"><ul id="campaign-1" class="image-campaign " style="max-width:1015px;"></ul></section>                    </div><!-- Advertisement Area ENd -->
+                </div>
+            </div>
+        </div><!-- Wrapper-2 Area End --><!-- Wrapper-3 Area Start -->
+<div class="wrapper-3">
+    <div class="container">
+        <div class="row">
+            <!-- Top Post Content Area ENd -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 top-post-content">
+                <ul id="menu-categorieslink" class="menu"><li id="menu-item-244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-244"><a href="http://brexit-unplugged.co.uk/category/london/">London</a></li>
+<li id="menu-item-498" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498"><a href="http://brexit-unplugged.co.uk/category/europe/">Europe</a></li>
+<li id="menu-item-509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-509"><a href="http://brexit-unplugged.co.uk/category/industries/">Industries</a>
+<ul class="sub-menu">
+	<li id="menu-item-491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-491"><a href="http://brexit-unplugged.co.uk/category/aerospace/">Aerospace</a></li>
+	<li id="menu-item-492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-492"><a href="http://brexit-unplugged.co.uk/category/agriculture/">Agriculture and Fisheries</a></li>
+	<li id="menu-item-493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493"><a href="http://brexit-unplugged.co.uk/category/automotive/">Automotive</a></li>
+	<li id="menu-item-494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-494"><a href="http://brexit-unplugged.co.uk/category/oil-gas/">Oil &#038; Gas</a></li>
+	<li id="menu-item-495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-495"><a href="http://brexit-unplugged.co.uk/category/pharmaceutical/">Pharmaceutical</a></li>
+	<li id="menu-item-496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-496"><a href="http://brexit-unplugged.co.uk/category/service-industry/">Service industry</a></li>
+	<li id="menu-item-497" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-497"><a href="http://brexit-unplugged.co.uk/category/tourism/">Tourism</a></li>
+</ul>
+</li>
+<li id="menu-item-500" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-500"><a href="http://brexit-unplugged.co.uk/category/policies/">Policies</a>
+<ul class="sub-menu">
+	<li id="menu-item-501" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-501"><a href="http://brexit-unplugged.co.uk/category/finance/">Finance</a></li>
+	<li id="menu-item-508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-508"><a href="http://brexit-unplugged.co.uk/category/immigration/">Immigration</a></li>
+	<li id="menu-item-502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-502"><a href="http://brexit-unplugged.co.uk/category/politics/">Politics</a></li>
+	<li id="menu-item-503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-503"><a href="http://brexit-unplugged.co.uk/category/trade/">Trade</a></li>
+	<li id="menu-item-504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-504"><a href="http://brexit-unplugged.co.uk/category/visas/">Visas</a></li>
+</ul>
+</li>
+<li id="menu-item-245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-245"><a href="http://brexit-unplugged.co.uk/category/financial-services/">Financial Services</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-499"><a href="http://brexit-unplugged.co.uk/category/other/">Interviews</a></li>
+</ul>                <!--<input type="search" placeholder="Search for Topic..." />-->
+                
+<form role="search" method="get" class="search-form" action="http://brexit-unplugged.co.uk/" style="display:inline">
+    <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+    <input type="submit" style="position: absolute; left: -9999px"/>
+</form>
+                <!-- Left Area Start -->
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 left-post-content">
+                                        <a href="http://www.independent.co.uk/news/uk/politics/brexit-eu-parliament-uk-leave-talks-meps-ukip-nigel-farage-european-commission-council-a7680236.html" class="news-link" data-post-id="1378"><img width="2500" height="1667" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/gettyimages-664413000.jpg" class="full-width wp-post-image" alt="gettyimages-664413000" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/gettyimages-664413000-300x200.jpg 300w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/gettyimages-664413000-768x512.jpg 768w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/gettyimages-664413000-1024x683.jpg 1024w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/gettyimages-664413000-1200x800.jpg 1200w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/gettyimages-664413000.jpg 2500w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a>
+                    <h2><a href="http://www.independent.co.uk/news/uk/politics/brexit-eu-parliament-uk-leave-talks-meps-ukip-nigel-farage-european-commission-council-a7680236.html" class="news-link" data-post-id="1378">Our Parliament can't stop Brexit, but the European Parliament just might</a></h2>
+                    <!-- mETA VALUES aREA sTART -->
+                    <div class="meta-values">
+                                                    <span class="my-category">
+                                Brexit                            </span>
+                                                    <span class="my-category">
+                                Europe                            </span>
+                                                <span class="my-date">Add on April 14, 2017</span>
+                    </div><!-- MEta Values Area End -->
+                    <!-- Excerpt Area Start -->
+                    <div class="my-excerpt">
+                        <p>It is seen in Britain as a mere talking shop. The European Parliament usually makes UK news bulletins only when Nigel Farage hurls insults, Ukip MEPs literally fight among themselves or there’s another row about the Parliament’s costly travelling circus between Brussels and Strasbourg.</p>
+                    </div><!-- Excerpt Area ENd -->
+                    <a href="http://www.independent.co.uk/news/uk/politics/brexit-eu-parliament-uk-leave-talks-meps-ukip-nigel-farage-european-commission-council-a7680236.htmlhttp://www.independent.co.uk/news/uk/politics/brexit-eu-parliament-uk-leave-talks-meps-ukip-nigel-farage-european-commission-council-a7680236.html" class="medium-btn news-link" data-post-id="1378">Read Story</a>
+                </div><!-- Left Area End -->
+                <!-- Right Area Start -->
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 right-sidebar-content">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 widget no-padding">
+                        
+<!-- WordPress Popular Posts Plugin v3.3.4 [W] [daily] [views] [custom] -->
+<section id="wpp-2" class="widget popular-posts">
+<h2 class="widget-title">Top Viewed</h2>
+<ul class="wpp-list">
+<li><a href="http://www.politico.eu/article/hard-brexit-is-wise-norway-says-frank-bakke-jensen/" title="Hard Brexit is ‘wise,’ Norway says" target="_self" class="news-link" data-post-id="1198"><img src="http://brexit-unplugged.co.uk/wp-content/uploads/wordpress-popular-posts/1198-featured-113x113.jpg" width="113" height="113" title="Hard Brexit is ‘wise,’ Norway says" alt="Hard Brexit is ‘wise,’ Norway says" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a> <a href="http://www.politico.eu/article/hard-brexit-is-wise-norway-says-frank-bakke-jensen/" title="Hard Brexit is ‘wise,’ Norway says" class="wpp-post-title news-link" target="_self" data-post-id="1198">Hard Brexit is ‘wise,’ Norway...</a></li>
+
+</ul>
+</section>
+<!-- End WordPress Popular Posts Plugin v3.3.4 -->
+                    </div>
+                </div><!-- Right Area End -->
+            </div><!-- Top Post Content Area ENd -->
+        </div>
+    </div>
+</div><!-- Wrapper-3 Area End -->
+<!-- Wrapepr-4 Area Start -->
+<div class="wrapper-4">
+    <div class="container">
+        <div class="row">
+            <!-- Category Area Start -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 category-area">
+                <!-- Category-1 Area Start -->
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.theguardian.com/business/2017/feb/14/brexit-wine-champagne-prosecco-more-expensive-uk-trade-body" class="news-link" data-post-id="1363"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/wine-310x175.jpg" class="full-width wp-post-image" alt="oak aging" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/wine-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/wine-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+
+                                                    <a href="http://brexit-unplugged.co.uk/category/service-industry/" class="cat-name">
+                                Service industry                            </a>
+                        
+                        <h4><a href="http://www.theguardian.com/business/2017/feb/14/brexit-wine-champagne-prosecco-more-expensive-uk-trade-body" class="news-link" data-post-id="1363">Wine lovers face triple whammy Brexit price rise, says UK trade body</a></h4>
+                        <p>Drinks industry says consumers and firms face rises from EU referendumâs vote effect on the pound, inflation and possible higher duty</p>
+                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.realwire.com/releases/JP-Morgan-Chase-global-IT-head-to-aid-post-Brexit-trade-drive" class="news-link" data-post-id="1367"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/datacentre-310x175.jpg" class="full-width wp-post-image" alt="datacentre" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/datacentre-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/datacentre-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+
+                                                    <a href="http://brexit-unplugged.co.uk/category/financial-services/" class="cat-name">
+                                Financial Services                            </a>
+                        
+                        <h4><a href="http://www.realwire.com/releases/JP-Morgan-Chase-global-IT-head-to-aid-post-Brexit-trade-drive" class="news-link" data-post-id="1367">Next Generation Data | JP Morgan Chase global IT head to aid post-Brexit trade drive for Europe’s largest data centre campus operator</a></h4>
+                        <p>Next Generation Data (NGD) today announced the key senior management appointment of Bill McHenry..</p>
+                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://news.sky.com/story/employers-optimistic-about-post-brexit-hiring-10766286" class="news-link" data-post-id="1355"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/04235ee614ac670a4f7f523a2e4c8e517a4f29425f3196053aa5d0ff03efc357_3876383-310x175.jpg" class="full-width wp-post-image" alt="04235ee614ac670a4f7f523a2e4c8e517a4f29425f3196053aa5d0ff03efc357_3876383" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/04235ee614ac670a4f7f523a2e4c8e517a4f29425f3196053aa5d0ff03efc357_3876383-300x169.jpg 300w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/04235ee614ac670a4f7f523a2e4c8e517a4f29425f3196053aa5d0ff03efc357_3876383-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/04235ee614ac670a4f7f523a2e4c8e517a4f29425f3196053aa5d0ff03efc357_3876383-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+
+                                                    <a href="http://brexit-unplugged.co.uk/category/brexit/" class="cat-name">
+                                Brexit                            </a>
+                        
+                        <h4><a href="http://news.sky.com/story/employers-optimistic-about-post-brexit-hiring-10766286" class="news-link" data-post-id="1355">Employers optimistic about post-Brexit hiring</a></h4>
+                        <p>A poll of 500 senior decision-makers from large companies shows two-fifths expect Brexit to have a positive impact on recruitment.</p>
+                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.theguardian.com/business/2017/jan/29/brexit-banks-britain-financial-crisis" class="news-link" data-post-id="1282"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/London_City_at_dawn_24-01-2015-2-310x175.jpg" class="full-width wp-post-image" alt="London City at dawn 24-01-2015" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/London_City_at_dawn_24-01-2015-2-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/London_City_at_dawn_24-01-2015-2-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+
+                                                    <a href="http://brexit-unplugged.co.uk/category/financial-services/" class="cat-name">
+                                Financial Services                            </a>
+                        
+                        <h4><a href="http://www.theguardian.com/business/2017/jan/29/brexit-banks-britain-financial-crisis" class="news-link" data-post-id="1282">Brexit has allowed the banks to get off Britain's naughty step</a></h4>
+                        <p>The City rigged markets, laundered money and mis-sold products, but has diverted attention by threatening to leave London</p>
+                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.thetimes.co.uk/article/200m-boost-for-pharma-and-aerospace-3h89zdhsv" class="news-link" data-post-id="1335"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/methode2Ftimes2Fprod2Fweb2Fbin2F518665e2-ebca-11e6-b160-fe23d6a9b5dd-310x175.jpg" class="full-width wp-post-image" alt="methode2Ftimes2Fprod2Fweb2Fbin2F518665e2-ebca-11e6-b160-fe23d6a9b5dd" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/methode2Ftimes2Fprod2Fweb2Fbin2F518665e2-ebca-11e6-b160-fe23d6a9b5dd-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/methode2Ftimes2Fprod2Fweb2Fbin2F518665e2-ebca-11e6-b160-fe23d6a9b5dd-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+
+                                                    <a href="http://brexit-unplugged.co.uk/category/aerospace/" class="cat-name">
+                                Aerospace                            </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/pharmaceutical/" class="cat-name">
+                                Pharmaceutical                            </a>
+                        
+                        <h4><a href="http://www.thetimes.co.uk/article/200m-boost-for-pharma-and-aerospace-3h89zdhsv" class="news-link" data-post-id="1335">£200m boost for pharma and aerospace</a></h4>
+                        <p>A hard Brexit could boost the pharmaceutical and aerospace sectors by more than £200 million, according to a study that reveals a surprise silver lining to leaving the single market. Drug companies...</p>
+                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.express.co.uk/news/uk/758296/Lord-Green-of-Deddington-EU-work-permits-reduce-migration" class="news-link" data-post-id="1229"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/758296-310x175.jpg" class="full-width wp-post-image" alt="758296" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/758296-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/758296-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+
+                                                    <a href="http://brexit-unplugged.co.uk/category/immigration/" class="cat-name">
+                                Immigration                            </a>
+                        
+                        <h4><a href="http://www.express.co.uk/news/uk/758296/Lord-Green-of-Deddington-EU-work-permits-reduce-migration" class="news-link" data-post-id="1229">'Work permits for EU citizens would reduce migration by 100k' - Lord Green</a></h4>
+                        <p>LORD Green of Deddington, MigrationWatch boss, has called on the Government to introduce work permits for highly-skilled workers from the European Union after Brexit. </p>
+                    </div>
+                                <!-- Category-1 Area End -->
+                <!-- Advertisement Area Start -->
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 advertisement">
+                    <section id="adpress_widget-6" class="widget widget_adpress_widget"><ul id="campaign-2" class="image-campaign " style="max-width:1015px;"></ul></section>                </div><!-- Advertisement Area ENd -->
+                <!-- Category-4 Area Start -->
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.independent.co.uk/sport/football/premier-league/brexit-latest-deal-crystal-palace-news-steve-parish-a7683396.html" class="news-link" data-post-id="1384"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/steve-parish-310x175.jpg" class="full-width wp-post-image" alt="steve-parish" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/steve-parish-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/steve-parish-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/brexit/" class="cat-name">
+                                Brexit                            </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/service-industry/" class="cat-name">
+                                Service industry                            </a>
+                                                <h4><a href="http://www.independent.co.uk/sport/football/premier-league/brexit-latest-deal-crystal-palace-news-steve-parish-a7683396.html" class="news-link" data-post-id="1384">Brexit is a 'fantastic opportunity' for English football says Crystal Palace's Steve Parish</a></h4>
+                        <p>Crystal Palace chairman Steve Parish believes Britain's exit from the European Union represents a "fantastic opportunity" for English football to address what he considers an imbalance within club academies, and to the benefit of the England team. Parish is convinced the presence of so many players from EU nations within academies inhibits the development of local footballers. </p>
+                    </div><!-- Category-4 Area End -->
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="https://www.fginsight.com/news/life-after-brexit-for-sheep-sector-18527" class="news-link" data-post-id="1332"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/030217_p90_Loading_sheep__Main-310x175.jpg" class="full-width wp-post-image" alt="030217_p90_Loading_sheep__Main" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/030217_p90_Loading_sheep__Main-300x169.jpg 300w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/030217_p90_Loading_sheep__Main-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/030217_p90_Loading_sheep__Main-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/agriculture/" class="cat-name">
+                                Agriculture and Fisheries                            </a>
+                                                <h4><a href="https://www.fginsight.com/news/life-after-brexit-for-sheep-sector-18527" class="news-link" data-post-id="1332">Life after Brexit for sheep sector</a></h4>
+                        <p>FREE trade with Europe was crucial for the sheep sector in the post-Brexit era, according to speakers at the National Sheep Association (NSA) Winter Gathering at Bakewell market, Derbyshire. </p>
+                    </div><!-- Category-4 Area End -->
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 my-cat">
+                        <a href="http://www.heraldscotland.com/news/15009969.UK_firms_facing___10bn_a_year_bill_to_fill_pensions_black_hole_after_Brexit_vote/" class="news-link" data-post-id="922"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/London_City_at_dawn_24-01-2015-1-310x175.jpg" class="full-width wp-post-image" alt="London City at dawn 24-01-2015" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/London_City_at_dawn_24-01-2015-1-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/01/London_City_at_dawn_24-01-2015-1-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" />                        </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/brexit/" class="cat-name">
+                                Brexit                            </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/finance/" class="cat-name">
+                                Finance                            </a>
+                                                    <a href="http://brexit-unplugged.co.uk/category/financial-services/" class="cat-name">
+                                Financial Services                            </a>
+                                                <h4><a href="http://www.heraldscotland.com/news/15009969.UK_firms_facing___10bn_a_year_bill_to_fill_pensions_black_hole_after_Brexit_vote/" class="news-link" data-post-id="922">UK firms facing £10bn a year bill to fill pensions black hole after Brexit vote</a></h4>
+                        <p>BRITISH businesses need to stump up an extra £10 billion a year over the next decade to cover the pension deficits built up in the aftermath... </p>
+                    </div><!-- Category-4 Area End -->
+                            </div><!-- Category Area End -->
+        </div>
+    </div>
+</div><!-- Wrapper-4 Area End -->
+<!-- Wrapper-3 Area Start -->
+<div class="wrapper-3">
+    <div class="container">
+        <div class="row">
+            <!-- Top Post Content Area ENd -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 top-post-content">
+                <!-- Left Area Start -->
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 left-post-content" style="margin-bottom:30px;">
+                                        <a href="http://www.theguardian.com/commentisfree/2017/feb/13/green-guarantee-brexit-eu-environmental-protection-law" class="news-link" data-post-id="1349" ><img width="640" height="370" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/02/cropspray2-640x370.jpg" class="full-width wp-post-image" alt="cropspray2" /></a>
+                    <h2><a href="http://www.theguardian.com/commentisfree/2017/feb/13/green-guarantee-brexit-eu-environmental-protection-law" class="news-link" data-post-id="1349" >A green guarantee could stop Brexit ruining our environment</a></h2>
+                    <!-- mETA VALUES aREA sTART -->
+                    <div class="meta-values">
+                        <div class="meta-values">
+                                                            <span class="my-category">
+                                    Policies                                </span>
+                                                        <span class="my-date">Add on February 13, 2017</span>
+                        </div><!-- MEta Values Area End -->
+                    </div><!-- MEta Values Area End -->
+                    <!-- Excerpt Area Start -->
+                    <div class="my-excerpt">
+                        <p>One of the most profoundly impacted areas of Brexit, our environmental policy, has barely been discussed.</p>
+                    </div><!-- Excerpt Area ENd -->
+                    <a href="http://www.theguardian.com/commentisfree/2017/feb/13/green-guarantee-brexit-eu-environmental-protection-law" class="medium-btn news-link" data-post-id="1349">Read Story</a>
+                </div><!-- Left Area End -->
+                <!-- Right Area Start -->
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 right-sidebar-content" style="margin-top:25px;">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 widget no-padding">
+                                                <a href="http://www.express.co.uk/news/uk/791966/Brexit-City-figurehead-banks-backing-Theresa-May-EU-exit-plan" class="news-link" data-post-id="1381"><img width="310" height="175" src="http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/791966-310x175.jpg" class="img-responsive wp-post-image" alt="791966" srcset="http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/791966-310x175.jpg 310w, http://brexit-unplugged.co.uk/wp-content/uploads/2017/04/791966-655x370.jpg 655w" sizes="(max-width: 310px) 85vw, 310px" /></a> 
+
+                        <p>
+                                                            <span class="my-category">
+                                    Brexit                                </span>
+                                                            <span class="my-category">
+                                    Financial Services                                </span>
+                                                    </p>
+                        <h4 class="widget-title"><a href="http://www.express.co.uk/news/uk/791966/Brexit-City-figurehead-banks-backing-Theresa-May-EU-exit-plan" class="news-link" data-post-id="1381">'They ARE confident!' City mayor says banks BACK Brexit and says deserters will MOVE BACK</a></h4>
+                        <p>BANKS and Insurance companies in the City are supporting the Prime Minister's Brexit negotiation stance according to the Lord Mayor of London.      
+</p>
+                    </div>
+                </div><!-- Right Area End -->
+                                		<div class="clearfix"></div>
+                <p style="text-align:center;"><a  class="load-posts" data-load-limit="3" data-load-next="0"><img src="http://brexit-unplugged.co.uk/wp-content/themes/brexit/images/load-icon.png" /> Load More News</a></p>
+                <div id="load-more-section" >
+
+                </div>
+
+            </div><!-- Top Post Content Area ENd -->
+        </div>
+    </div>
+</div><!-- Wrapper-3 Area End -->
+
+<div class="wrapper-5">
+    <div class="container">
+        <div class="row">
+            <!-- Twitter Area Start --> 
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 my-twitter"> 
+                <div class="col-lg-1 col-sm-1 col-md-1 col-xs-3 icon twitter">
+				<!--
+				<a href="https://twitter.com/BrexitedEU" target="_blank"><span style="background:url(http://brexit-unplugged.co.uk/wp-content/themes/brexit/images/twitter-img.png);display: inline-block;height: 36px;left: 0px;     position: absolute;    top: 20%;    width: 45px;"></span></a>
+                -->
+				<a href="https://twitter.com/BrexitedEU" target="_blank">
+				<i class="fa fa-twitter" aria-hidden="true"></i>
+				</a>
+				</div>
+                <div class='col-lg-5 col-md-5 col-sm-5 col-xs-9'>
+				<p class='single-tweet'>RT @moppedupinc: Possibly the only other persons car registration I recognise #alansugar https://t.co/kDxU1BSQCh</p>                </div>
+				<div class="col-lg-1 col-sm-1 col-md-1 col-xs-3 icon linkedin">
+                <a href="https://www.linkedin.com/company/brexit-blogger?trk=biz-companies-cym" target="_blank">
+                <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+				</div>
+                                
+            </div><!-- Twitter Area End -->
+        </div>  
+    </div>
+</div><!-- Wrapper-5 Area End -->
+<!-- Wrapper-6 Area Start -->
+<div class="wrapper-6">
+    <div class="container">
+        <div class="row">
+            <!-- Footer Top Area Start -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-top no-padding">
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 menu-footer-div menu-footer1">
+                    <aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu1-container"><ul id="menu-footer-menu1" class="menu"><li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://brexit-unplugged.co.uk/feature-your-services/">Feature your services</a></li>
+</ul></div></aside>                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 menu-footer-div menu-footer2">
+                    <aside id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer-menu2-container"><ul id="menu-footer-menu2" class="menu"><li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="http://brexit-unplugged.co.uk/contact-us/">Contact Us</a></li>
+<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="http://brexit-unplugged.co.uk/about-brexit-unplugged/">About</a></li>
+</ul></div></aside>                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 menu-footer-div menu-footer3">
+                    <aside id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-footer-menu3-container"><ul id="menu-footer-menu3" class="menu"><li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="http://brexit-unplugged.co.uk/sponsoradvertise/">Advertise With Us</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://brexit-unplugged.co.uk/terms-conditions/">Terms &#038; Conditions</a></li>
+</ul></div></aside>                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 menu-footer-div menu-footer4">
+                    <aside id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-footer-menu4-container"><ul id="menu-footer-menu4" class="menu"><li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="http://brexit-unplugged.co.uk/privacy-policy/">Privacy Policy</a></li>
+</ul></div></aside>                </div>
+            </div><!-- Footer Top Area End -->
+            <!-- Footer Area Start -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
+                <p><aside id="text-2" class="widget widget_text">			<div class="textwidget">© Copyrights. All RIghts Reserved.</div>
+		</aside></p>
+            </div><!-- Footer Area End -->
+        </div>
+    </div>
+
+</div><!-- Wrapper-6 Area End -->
+<script src="http://brexit-unplugged.co.uk/wp-content/themes/brexit/js/custom.js"></script>
+<script>
+    jQuery("body").on("click", ".news-link", function (event) {
+        event.stopPropagation();
+        var post_id = $(this).data("post-id");
+        var link = $(this).attr("href");
+        var settings = {
+            url: 'http://brexit-unplugged.co.uk/wp-admin/admin-ajax.php',
+            data: params = 'action=update_views_ajax&token=9856d5638c&wpp_id=' + post_id,
+            method: "POST"
+        }
+        $.ajax(settings).done(function (result) {
+            console.log(result);
+            var device_width = window.outerWidth;
+            if(device_width > 767){
+            window.open(link, "_blank");
+            }else{
+                window.location.href = link;
+            }
+        })
+
+        return false;
+    });
+
+</script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.10-6063'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/brexit-unplugged.co.uk\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/plugins/bootstrap-for-contact-form-7/assets/scripts.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/themes/brexit/js/skip-link-focus-fix.js?ver=20150825'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-content/themes/brexit/js/functions.js?ver=20150825'></script>
+<script type='text/javascript' src='http://brexit-unplugged.co.uk/wp-includes/js/wp-embed.min.js?ver=2d2eff8ebce6ee9562e56633da2fae9c'></script>
+
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <!--            <div class="modal-header">
+                            
+                        </div>-->
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <p class="text-center"></p>
+                <div class="pull-left">
+                    <h3>Subscribe to our newsletter</h3>
+                    <h4>We promise not to overload your inbox</h4>
+                </div>
+                <div class="pull-left">
+                    <h3><i class="fa fa-envelope" aria-hidden="true" style="font-size:30px"></i></h3>
+                </div>
+                <div class="clearfix"></div>
+                <script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.0.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-310" method="post" data-id="310" data-name="Subscribe to Brexit" ><div class="mc4wp-form-fields"><p>
+
+    <input type="text" name="FNAME"  class="form-control" placeholder="First Name">
+</p>
+<p>
+    <input type="text" name="LNAME" class="form-control" placeholder="Last Name">
+</p>
+<p>
+    <input type="email" name="EMAIL" required class="form-control" placeholder="Email Address">
+</p>
+<p>
+    <input type="submit" value="Subscribe" class="btn btn-primary">
+</p>
+<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1513370761" /><input type="hidden" name="_mc4wp_form_id" value="310" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Content-Type: text/plain
+Last-Modified: Tue, 12 Dec 2017 15:52:49 GMT
+Server: nginx
+Vary: Accept-Encoding
+X-Cache-Hits: 46
+X-Cacheable: YES
+X-Removedcookies: YES
+X-Served-By: nat-cache2a.tm-aws.com
+X-Varnish: 1311125935 1307935852
+Cache-Control: max-age=50470
+Expires: Sat, 16 Dec 2017 10:10:56 GMT
+Date: Fri, 15 Dec 2017 20:09:46 GMT

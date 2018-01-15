@@ -1,0 +1,9 @@
+Server: nginx
+Server: pwc-web7
+Content-Type: text/plain
+Last-Modified: Mon, 08 Aug 2016 11:03:48 GMT
+Etag: "57a86714-1a"
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Expires: Sat, 15 Dec 2018 20:13:46 GMT
+Date: Fri, 15 Dec 2017 20:13:46 GMT

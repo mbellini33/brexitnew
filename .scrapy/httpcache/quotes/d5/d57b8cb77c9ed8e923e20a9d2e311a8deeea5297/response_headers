@@ -1,0 +1,20 @@
+Date: Fri, 15 Dec 2017 20:45:20 GMT
+Server: Apache/2.2.15 (Red Hat)
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Fri, 05 May 2017 17:15:18 GMT
+Etag: "d31a9be-254-54eca089b280a"
+Expires: Fri, 15 Dec 2017 20:47:20 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Access-Control-Allow-Origin: *
+X-Ua-Compatible: IE=edge
+Content-Type: text/plain; charset=UTF-8
+X-Server: tampa02
+X-Vip: Tampa
+Cache-Control: public
+X-Ttl: 120.000
+X-Cacheable: YES
+X-Varnish: 77089806 77975698
+Age: 20
+Via: 1.1 varnish-v4
+Accept-Ranges: bytes

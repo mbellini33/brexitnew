@@ -1,0 +1,14 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:32:04 GMT
+Content-Type: text/plain; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Link: <http://www.freeenterprise.org.uk/wp-json/>; rel="https://api.w.org/"
+Wpe-Backend: apache
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+Accept-Ranges: bytes
+X-Cache: HIT: 1
+X-Pass-Why: 
+X-Cache-Group: 
+X-Type: varnish-forever

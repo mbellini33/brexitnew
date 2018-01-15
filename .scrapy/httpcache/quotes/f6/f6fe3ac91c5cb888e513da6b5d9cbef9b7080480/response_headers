@@ -1,0 +1,12 @@
+Server: Apache
+Last-Modified: Mon, 01 May 2017 14:41:08 GMT
+Etag: "160ca3-7e-54e7769f060f3"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/plain; charset=UTF-8
+Backend: contribs_prod_director
+X-Vnode: 21
+X-Frame-Options: SAMEORIGIN
+Date: Fri, 15 Dec 2017 20:11:34 GMT
+X-Kaamai-Header: Cache

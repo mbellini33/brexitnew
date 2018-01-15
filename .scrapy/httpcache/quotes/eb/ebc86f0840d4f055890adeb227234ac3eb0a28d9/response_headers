@@ -1,0 +1,11 @@
+Date: Fri, 15 Dec 2017 20:05:19 GMT
+Server: Apache
+Last-Modified: Wed, 09 Aug 2017 20:05:05 GMT
+Etag: "44d-556579892e44f-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=10800
+Expires: Fri, 15 Dec 2017 23:05:19 GMT
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Content-Type: text/plain; charset=UTF-8

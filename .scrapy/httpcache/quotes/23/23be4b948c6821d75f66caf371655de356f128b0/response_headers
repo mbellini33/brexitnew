@@ -1,0 +1,10 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:13:45 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Status: 200 OK
+Expires: Fri, 15 Dec 2017 20:23:45 GMT
+Cache-Control: max-age=600
+Etag: "8bda8c1c8059bbc2bde1117a1911376d"
+Content-Encoding: gzip

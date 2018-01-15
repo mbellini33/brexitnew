@@ -1,0 +1,23 @@
+Content-Type: text/plain
+X-Amz-Meta-Surrogate-Control: max-age=86400
+X-Amz-Meta-Pugpig-Resource-Type: top_level
+X-Amz-Meta-Surrogate-Key: pp_opds
+Last-Modified: Fri, 15 Dec 2017 16:57:27 GMT
+Etag: "5fa5b6317d23cc31f0f35bae673ace89"
+Server: AmazonS3
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Fri, 15 Dec 2017 20:40:33 GMT
+Via: 1.1 varnish, 1.1 bcce1a50d599e8bf6d2d81a863bbed35.cloudfront.net (CloudFront)
+X-Served-By: cache-fra1250-FRA
+X-Cache-Hits: 0
+X-Timer: S1513370433.136563,VS0,VE76
+X-Pugpig-Vary-Platform: web
+X-Pugpig-Vary-Formfactor: desktop
+X-Pugpig-Vary-Country: de
+X-Pugpig-Vary-Detected-Country: de
+X-Pugpig-Vary-Detected-Country-Alt: de
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Id: m-JEzCgEvSi7ZMaKsLM7N48479RehaaXi53_VBvaa4BN0Or1Hpidow==

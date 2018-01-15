@@ -1,0 +1,36 @@
+Server: Tengine/2.1.0
+Date: Fri, 15 Dec 2017 20:37:27 GMT
+Content-Type: text/html; charset=utf-8
+X-Archive-Orig-Content-Length: 431468
+X-Archive-Orig-Via: 1.1 varnish, 1.1 varnish
+X-Archive-Orig-Fastly-Debug-Digest: 716edbc37117e05fac53cd5a9681e3368f75cde29e93d9f60a4a6ae76b4e8bf2
+X-Archive-Orig-Vary: Accept-Encoding,User-Agent
+X-Archive-Orig-X-Gu-Platform: next-gen-router
+X-Archive-Orig-X-Xss-Protection: 1; mode=block
+X-Archive-Orig-X-Content-Type-Options: nosniff
+X-Archive-Orig-Etag: W/"hash5502028305052383448"
+X-Archive-Orig-X-Cache-Hits: 1, 0
+X-Archive-Orig-Cache-Control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private
+X-Archive-Orig-X-Served-By: cache-lcy1142-LCY, cache-sjc3125-SJC
+X-Archive-Orig-X-Cache: HIT, MISS
+X-Archive-Orig-X-Gu-Edition: us
+X-Archive-Orig-Set-Cookie: GU_mvt_id=90312; expires=Tue, 11 Apr 2017 11:00:40 GMT; path=/; domain=.theguardian.com, GU_geo_continent=NA; path=/;
+X-Archive-Orig-Accept-Ranges: bytes
+X-Archive-Orig-Expires: Wed, 11 Jan 2017 10:53:47 GMT
+X-Archive-Orig-Date: Wed, 11 Jan 2017 11:00:40 GMT
+X-Archive-Orig-Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss:; report-uri https://beacon.gu-web.net/csp-report
+X-Archive-Orig-X-Gu-Backend-App: article
+X-Archive-Orig-Age: 4
+X-Archive-Orig-Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Archive-Orig-Connection: close
+X-Archive-Orig-X-Frame-Options: SAMEORIGIN
+X-Archive-Guessed-Charset: UTF-8
+Memento-Datetime: Wed, 11 Jan 2017 11:00:40 GMT
+Link: <https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="original", <https://wayback.archive.org/web/timemap/link/https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="timemap"; type="application/link-format", <https://wayback.archive.org/web/https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="timegate", <https://wayback.archive.org/web/20170111101516/https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="first memento"; datetime="Wed, 11 Jan 2017 10:15:16 GMT", <https://wayback.archive.org/web/20170111110040/https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="memento"; datetime="Wed, 11 Jan 2017 11:00:40 GMT", <https://wayback.archive.org/web/20170112123441/https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="next memento"; datetime="Thu, 12 Jan 2017 12:34:41 GMT", <https://wayback.archive.org/web/20170818114627/https://www.theguardian.com/politics/2017/jan/11/government-brexit-supreme-court-theresa-may-article-50>; rel="last memento"; datetime="Fri, 18 Aug 2017 11:46:27 GMT"
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: archive.org web.archive.org analytics.archive.org
+X-App-Server: wwwb-app40
+X-Ts: ----
+X-Archive-Playback: 0
+X-Location: All
+X-Page-Cache: MISS
+Content-Encoding: gzip

@@ -1,0 +1,10 @@
+Server: Varnish
+Retry-After: 0
+Location: https://theguardian.com/robots.txt
+Accept-Ranges: bytes
+Date: Fri, 15 Dec 2017 20:25:15 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra1238-FRA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1513369516.750310,VS0,VE0

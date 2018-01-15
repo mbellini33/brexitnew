@@ -1,0 +1,13 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:03:05 GMT
+Content-Type: text/plain; charset=UTF-8
+Last-Modified: Fri, 15 Apr 2011 19:49:53 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=3600, public, public
+Cache-Control: public
+Expires: Fri, 15 Dec 2017 21:03:05 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Ua-Compatible: IE=Edge,chrome=1
+Sbmcloud: Server = Web3
+Bypass: CACHE

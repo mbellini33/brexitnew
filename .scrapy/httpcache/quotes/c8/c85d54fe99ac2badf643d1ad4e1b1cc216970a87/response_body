@@ -1,0 +1,61 @@
+
+ 
+  User-agent: *
+  Disallow:/
+  
+  User-agent:  Googlebot
+  Disallow:
+
+  User-agent:  Googlebot-News
+  Disallow:
+  
+  User-agent:  Googlebot-Video
+  Disallow:
+
+  User-agent: Mediapartners-Google
+  Disallow:
+
+  User-agent: Adsbot-Google
+  Disallow:
+
+  User-agent: Googlebot-Image
+  Disallow:
+
+  User-agent: Googlebot-Mobile
+  Disallow:
+
+  User-agent: AhrefsBot
+  Disallow:/
+  
+  User-agent: spbot
+  Disallow:/
+  
+  User-agent: Yandex
+  Disallow:/
+  
+  User-agent: MJ12bot
+  Disallow:/     
+  
+  User-agent: SemrushBot
+  Disallow:/
+  
+  User-agent: SemrushBot-SA
+  Disallow:/
+  
+  User-agent: rogerbot
+  Disallow:/ 
+  
+  User-agent: dotbot
+  Disallow:/ 
+  
+  User-agent: Alexibot
+  Disallow:/
+  
+  User-agent: SurveyBot
+  Disallow:/
+  
+  User-agent: EveryoneSocialBot
+  Disallow:/
+
+  User-agent: PaperLiBot
+  Disallow:/

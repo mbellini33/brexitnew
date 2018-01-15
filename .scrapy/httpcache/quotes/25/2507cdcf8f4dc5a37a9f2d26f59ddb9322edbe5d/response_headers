@@ -1,0 +1,11 @@
+Server: csw
+Cache-Control: public, max-age=86400
+Content-Type: text/plain; charset=utf-8
+P3P: CP="OTI DSP COR CUR IVD CONi OTPi OUR IND UNI STA PRE"
+Date: Fri, 15 Dec 2017 20:40:39 GMT
+Expires: Sat, 16 Dec 2017 20:40:40 GMT
+X-Xss-Protection: 1;mode=block
+X-Content-Type-Options: nosniff
+Last-Modified: Fri, 15 Dec 2017 20:40:40 GMT
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade

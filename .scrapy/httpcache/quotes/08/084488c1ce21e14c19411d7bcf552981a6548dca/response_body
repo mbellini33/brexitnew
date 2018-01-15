@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /DELETED/
+Disallow: /Topics/archive/
+Disallow: /News/
+Disallow: /Resource/

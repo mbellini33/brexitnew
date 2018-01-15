@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset=UTF-8
+Vary: Accept-Encoding
+Age: 5780
+Cache-Control: max-age = 10800
+Cache-Control: no-cache
+Date: Fri, 15 Dec 2017 20:11:33 GMT
+Expires: Sun, 14 Jan 2018 18:35:13 GMT
+Grace: normal
+Last-Modified: Mon, 11 Dec 2017 18:04:37 GMT
+Server: Economist Web Server
+Set-Cookie: geo_country=IT;Domain=www.economist.com;Path=/;
+Set-Cookie: geo_region=EU;Domain=www.economist.com;Path=/;
+Set-Cookie: rvjourney=httpRevampMVT2/50.00/50.00/RevampMVT2;Domain=.economist.com;Path=/
+Set-Cookie: rvuuid=d1fef580fee82a0d69300b3ffc1d8a40;Domain=.economist.com;Path=/;Max-Age=2147483647
+Set-Cookie: abversion=d;Path=/;
+Set-Cookie: visid_incap_121505=QGhirVL6Ru6lZmcEOj8TRnQsNFoAAAAAQUIPAAAAAAA/zO3ZtmxfjY0CWX2yCLXZ; expires=Sat, 15 Dec 2018 14:57:10 GMT; path=/; Domain=.economist.com
+Set-Cookie: nlbi_121505=D3KgJcrFPXxlZhujNCSsiwAAAADcdOy/kSvXnQojZw4AUJWf; path=/; Domain=.economist.com
+Set-Cookie: incap_ses_478_121505=7U2fPWGARhaY/lGmITOiBnUsNFoAAAAABV9u82a22PTnXGjmNNlUgw==; path=/; Domain=.economist.com
+X-Cache-Hits: 1116
+X-Varnish-Cache: HIT
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 27989961007c24f28dfb2240447d5a7b.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: lCzhfsafr3xn9Ug4Ysbb-Cc6imm398bAStU9s-oifzvdfqMGp60JtQ==
+X-Iinfo: 9-22684920-22684921 NNNN CT(2 -1 0) RT(1513368692956 5) q(0 0 0 0) r(1 1) U5
+X-Cdn: Incapsula

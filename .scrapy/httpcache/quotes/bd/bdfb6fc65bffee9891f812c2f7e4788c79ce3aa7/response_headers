@@ -1,0 +1,12 @@
+Timing-Allow-Origin: *
+X-Xss-Protection: 0
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+X-Fb-Debug: UoM10wWUPBjIRNigEKkCVGZsyhJ4iPqnyJsBDIrRSapmSKmnvUE2wuBc33iMH/jAuaW0QIbxtsbIQlgANHw13A==
+Date: Fri, 15 Dec 2017 20:29:48 GMT

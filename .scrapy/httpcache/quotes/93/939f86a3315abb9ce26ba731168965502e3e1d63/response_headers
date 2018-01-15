@@ -1,0 +1,18 @@
+Server: Apache
+Location: http://www.nytimes.com/robots.txt
+Content-Type: text/html; charset=iso-8859-1
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+X-Pagetype: legacy-override
+X-Age: 0
+X-Origin-Time: 2017-12-15 16:23:30 EDT
+Date: Fri, 15 Dec 2017 20:23:30 GMT
+X-Frame-Options: DENY
+Set-Cookie: vi_www_hp=z09; path=/; domain=.nytimes.com; expires=Tue, 01 Jan 2019 00:00:00 GMT
+Set-Cookie: vistory=z09; path=/; domain=.nytimes.com; expires=Tue, 01 Jan 2019 00:00:00 GMT
+X-Api-Version: F-5-4
+X-Served-By: cache-fra1250-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1513369410.498602,VS0,VE90
+Vary: Fastly-SSL

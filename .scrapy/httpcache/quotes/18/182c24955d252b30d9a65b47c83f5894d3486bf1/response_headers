@@ -1,0 +1,11 @@
+Date: Fri, 15 Dec 2017 20:43:57 GMT
+Server: Apache
+X-Wm-1: b5c15a4f00826b560de2380c0e08f5b7
+Cache-Control: no-cache, must-revalidate, s-maxage=0, max-age=0
+Vary: User-Agent
+Location: http://ukok.page.tl/robots.txt
+Content-Type: text/html; charset=ISO-8859-15
+X-Varnish: 216203798
+Age: 0
+Via: 1.1 varnish-v4
+X-Wm-Vip: 193.238.27.28

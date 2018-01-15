@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Etag: W/"5c-1236806443"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.0
+X-Request-Id: 3109c980-e1d8-11e7-900d-231635544755
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE
+Access-Control-Allow-Headers: Content-Type
+X-Powered-By: ASP.NET
+Set-Cookie: ARRAffinity=ceb9dce75e9399bce8eb0ccb296d18181c5a6119f7ac1822452ac549db1fa463;Path=/;HttpOnly;Domain=aca.st
+Date: Fri, 15 Dec 2017 20:40:30 GMT

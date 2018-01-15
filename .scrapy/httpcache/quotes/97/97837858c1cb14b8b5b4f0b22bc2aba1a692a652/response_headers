@@ -1,0 +1,18 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:07:39 GMT
+Content-Type: text/plain
+Last-Modified: Thu, 30 Jun 2011 15:39:36 GMT
+Etag: "3884a6-1a-4a6efb54d9e00"
+Accept-Ranges: bytes
+Pragma: no-cache
+Cache-Control: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+X-Robots-Tag: noindex,nofollow
+X-Robots-Tag: noindex, nofollow, nosnippet, noarchive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Headers: origin, content-type, accept
+P3P: policyref="http://s3s.fr/w3c/p3p.xml", CP="ALL DSP COR DEV IVD CON OUR NOR UNI PUR NAV STA"
+X-Served-By: dns02
+Alternate-Protocol: 443:npn-spdy/3

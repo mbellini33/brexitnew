@@ -1,0 +1,26 @@
+Date: Fri, 15 Dec 2017 20:16:54 GMT
+Content-Type: text/plain; charset=utf-8
+Server: mw1269.eqiad.wmnet
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+Vary: X-Subdomain
+X-Powered-By: HHVM/3.18.6-dev
+X-Language: en
+Content-Encoding: gzip
+P3P: CP="This is not a P3P policy! See https://en.wiktionary.org/wiki/Special:CentralAutoLogin/P3P for more info."
+X-Site: wiktionary
+X-Article-Id: 0
+X-Content-Type-Options: nosniff
+Last-Modified: Wed, 22 Nov 2017 20:07:34 GMT
+Backend-Timing: D=23272 t=1513280379058133
+X-Varnish: 453559747 446233889, 773752038 771392878, 1036168408 1027755180
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 1138
+X-Cache: cp1065 hit/5, cp3031 hit/5, cp3043 hit/1
+X-Cache-Status: hit-front
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Set-Cookie: WMF-Last-Access=15-Dec-2017;Path=/;HttpOnly;secure;Expires=Tue, 16 Jan 2018 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=15-Dec-2017;Path=/;Domain=.wiktionary.org;HttpOnly;secure;Expires=Tue, 16 Jan 2018 12:00:00 GMT
+Set-Cookie: GeoIP=IT:25:Milan:45.47:9.20:v4; Path=/; secure; Domain=.wiktionary.org
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 149.132.246.82
+Accept-Ranges: bytes

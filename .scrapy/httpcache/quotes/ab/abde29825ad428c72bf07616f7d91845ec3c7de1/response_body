@@ -1,0 +1,31 @@
+User-agent: * 
+Disallow: / 
+
+User-agent: Googlebot 
+Disallow: 
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: Slurp 
+Disallow: 
+
+User-agent: msnbot 
+Disallow: 
+
+User-Agent: Alexabot
+Disallow: 
+
+User-agent: Twitterbot 
+Disallow: 
+
+User-agent: *
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /calendar/
+Disallow: /CuteEditor_Files/
+Disallow: /de/
+Disallow: /images/
+Disallow: /im/
+Disallow: /inc/
+Disallow: /ModalPopup/

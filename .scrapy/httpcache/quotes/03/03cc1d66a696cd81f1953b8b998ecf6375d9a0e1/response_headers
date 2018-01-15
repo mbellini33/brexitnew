@@ -1,0 +1,11 @@
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/plain; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Server: Microsoft-IIS/8.5
+X-Powered-By: PHP/5.4.24
+Set-Cookie: PHPSESSID=54s6qiar01j4pt3u79tj97rpp6; path=/
+Set-Cookie: kpmg_following_users=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+X-Robots-Tag: noindex, follow
+Link: <https://www.sablog.kpmg.co.za/wp-json/>; rel="https://api.w.org/"
+Date: Fri, 15 Dec 2017 20:47:17 GMT

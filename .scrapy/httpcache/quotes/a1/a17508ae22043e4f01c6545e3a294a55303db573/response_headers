@@ -1,0 +1,14 @@
+Cache-Control: private
+Content-Type: text/plain
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+X-Aspnetmvc-Version: 5.2
+X-Appversion: 2.0.6556.38432
+X-Activity-Id: f8ea37bb-ea58-4506-84db-7812a2bebf5a
+X-Az: {did:c5db6850c5044d74b8ec633391cc44e4, rid: 91, sn: neurope-prod-hp, dt: 2017-12-15T04:56:59.6579642Z, bt: 2017-12-13T21:21:21.5407675Z}
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: HEAD,GET,OPTIONS
+X-Xss-Protection: 1
+X-Msedge-Ref: Ref A: F8EA37BBEA58450684DB7812A2BEBF5A Ref B: MIL30EDGE0509 Ref C: 2017-12-15T20:04:15Z
+Date: Fri, 15 Dec 2017 20:04:15 GMT

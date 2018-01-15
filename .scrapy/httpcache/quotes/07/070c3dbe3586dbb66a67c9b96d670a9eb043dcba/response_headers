@@ -1,0 +1,17 @@
+Cache-Control: private
+Content-Type: text/plain
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+X-Aspnetmvc-Version: 5.2
+X-Appversion: 2.0.6556.38432
+X-Activity-Id: 055bf2a4-2d06-4191-a0fc-6e1eeb179ebb
+X-Az: {did:c5db6850c5044d74b8ec633391cc44e4, rid: 99, sn: neurope-prod-hp, dt: 2017-12-15T04:53:23.1585566Z, bt: 2017-12-13T21:21:21.5407675Z}
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: HEAD,GET,OPTIONS
+X-Xss-Protection: 1
+X-Msedge-Ref: Ref A: 055BF2A42D064191A0FC6E1EEB179EBB Ref B: MIL30EDGE0214 Ref C: 2017-12-15T20:09:49Z
+Set-Cookie: _EDGE_S=F=1; path=/; httponly; domain=msn.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Wed, 09-Jan-2019 20:09:49 GMT; domain=msn.com
+Set-Cookie: MUID=2D4AF44C215268BD0097FF1520646948; path=/; expires=Wed, 09-Jan-2019 20:09:49 GMT; domain=msn.com
+Date: Fri, 15 Dec 2017 20:09:48 GMT

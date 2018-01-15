@@ -1,0 +1,20 @@
+X-Frame-Options: DENY
+X-Xss-Protection: 0
+Cache-Control: private, no-cache, no-store, must-revalidate
+Access-Control-Allow-Origin: https://m.facebook.com
+Access-Control-Expose-Headers: X-FB-Debug, X-Loader-Length
+Pragma: no-cache
+Vary: Origin
+Vary: Accept-Encoding
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: OPTIONS
+Strict-Transport-Security: max-age=15552000; preload; includeSubDomains
+Expires: Sat, 16 Dec 2017 20:06:48 +0000
+Set-Cookie: datr=WCs0Woyy1ABVy-2FpE6Rcson; expires=Sun, 15-Dec-2019 20:06:48 GMT; Max-Age=63072000; path=/; domain=.facebook.com; secure; httponly
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fm.facebook.com%2Frobots.txt; path=/; domain=.facebook.com; secure; httponly
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fm.facebook.com%2Frobots.txt; path=/; domain=.facebook.com; secure; httponly
+Content-Encoding: gzip
+X-Fb-Debug: 1OhJ/7MkaM365Syx3PthrnGvqoADMmaXhymlv0sJbyOHBpNhh8wWh5J6M4xRKLuKMhCeacK7OwkXtbG0wSgQ7w==
+Date: Fri, 15 Dec 2017 20:06:48 GMT

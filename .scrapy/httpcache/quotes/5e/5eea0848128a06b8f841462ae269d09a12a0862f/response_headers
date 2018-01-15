@@ -1,0 +1,12 @@
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/plain
+Date: Fri, 15 Dec 2017 20:24:24 GMT
+Expires: Fri, 15 Dec 2017 20:24:24 GMT
+Cache-Control: private, max-age=0
+Last-Modified: Fri, 15 Dec 2017 03:00:00 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-Xss-Protection: 1; mode=block
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"

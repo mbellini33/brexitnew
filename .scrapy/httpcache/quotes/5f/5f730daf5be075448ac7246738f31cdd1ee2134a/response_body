@@ -1,0 +1,21 @@
+User-agent:*
+Disallow: /*txtonly=Y
+Disallow: /_new/events/calendar/Month.asp*
+Disallow: /_new/events/calendar/month.asp*
+Disallow: /textonly/*
+Allow: /_new/*
+Allow: /election2017/*
+Allow: /election2015/*
+Allow: /BREXIT/*
+Allow: /CentrePiece/*
+Allow: /default.asp
+Allow: /pubs/download/*
+Disallow: / 
+
+#Baiduspider
+User-agent: Baiduspider
+Disallow: /
+
+#+Baiduspider
+User-agent: +Baiduspider
+Disallow: /

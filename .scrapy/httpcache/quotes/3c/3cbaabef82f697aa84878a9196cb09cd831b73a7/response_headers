@@ -1,0 +1,22 @@
+Server: nginx/1.10.3
+Date: Fri, 15 Dec 2017 20:04:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Powered-By: PHP/5.4.43
+Set-Cookie: ses_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=www.investing.com
+Set-Cookie: PHPSESSID=cm3dgl4qepj60tj34jme1o1l40; path=/
+Set-Cookie: geoC=IT; expires=Sat, 16-Dec-2017 04:04:12 GMT; path=/
+Set-Cookie: adBlockerNewUserDomains=1513368252; expires=Tue, 01-Jan-2030 00:00:00 GMT; path=/; domain=.investing.com
+Set-Cookie: adBlockerNewUserDomains=1513368252; expires=Tue, 01-Jan-2030 00:00:00 GMT; path=/; domain=.forexpros.com
+Set-Cookie: gtmFired=OK; expires=Sat, 16-Dec-2017 20:04:12 GMT; path=/
+Set-Cookie: nyxDorf=ZWE0YzVqP31kMzs0ZTRleTBjZDs%2BPzUpPTRlZA%3D%3D; expires=Fri, 15-Dec-2017 21:04:12 GMT; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Accept-Ranges: bytes
+X-Varnish: 2704146519
+Age: 0
+Via: 1.1 varnish
+Content-Security-Policy-Report-Only: default-src https: data: wss: 'unsafe-inline' 'unsafe-eval'; form-action https:; report-uri https://rbmeuulvihtwm2eltjhwimi2.httpschecker.net/report
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content

@@ -1,0 +1,11 @@
+Cache-Control: public, max-age=120
+Content-Type: text/html; charset=utf-8
+Date: Fri, 15 Dec 2017 20:46:15 GMT
+Expires: Fri, 15 Dec 2017 20:48:15 GMT
+Last-Modified: Fri, 15 Dec 2017 20:46:15 GMT
+Location: /Commons
+Server: Microsoft-IIS/8.5
+Vary: *
+X-Aspnet-Version: 4.0.30319
+X-Aspnetmvc-Version: 5.2
+X-Powered-By: ASP.NET

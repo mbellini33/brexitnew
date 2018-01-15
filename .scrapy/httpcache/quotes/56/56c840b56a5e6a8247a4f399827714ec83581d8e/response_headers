@@ -1,0 +1,14 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:30:24 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <http://brexitcentral.com/wp-json/>; rel="https://api.w.org/"
+Link: <http://brxcen.com/2B14Kha>; rel=shortlink
+Wpe-Backend: apache
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 10
+X-Pass-Why: 
+X-Cache-Group: 
+X-Type: varnish-forever
+Content-Encoding: gzip

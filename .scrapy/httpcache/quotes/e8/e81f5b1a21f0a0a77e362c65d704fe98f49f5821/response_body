@@ -1,0 +1,759 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link href="/css/bootstrap.min.css" rel="stylesheet" /><link href="/css/custom.css" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+        function SiteyeGiden(v, p) {
+            $.ajax({
+                type: 'post',
+                data: '{site:"' + v + '",haber:"' + p + '"}',
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                url: '/haber.aspx/GidenSiteKaydi',
+                success: function (dnn) {
+
+                }
+            })
+        }
+    </script>
+<link rel="shortcut icon" type="image/png" href="/favicon.png" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4825462687340018",
+    enable_page_level_ads: true
+  });
+</script>
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="12/14/2016 9:15:17 AM" />
+<meta property="article:modified_time" content="12/14/2016 9:15:17 AM" />
+<meta property="og:title" content="Google extends conservative outreach as Trump calls tech meeting" />
+<meta property="og:url" content="http://www.hnvnews.co.uk/newsdetail/50710/Google extends conservative outreach as Trump calls tech meeting" />
+<meta property="og:description" content="Alphabet’s Google is racing to hire more conservatives for its lobbying and policy arm, trying to get a foothold in President-elect Donald Trump’s Washington after enjoying a uniquely close relationship with the administration of President Barack Obama." />
+<meta name="description" content="Alphabet’s Google is racing to hire more conservatives for its lobbying and policy arm, trying to get a foothold in President-elect Donald Trump’s Washington after enjoying a uniquely close relationship with the administration of President Barack Obama." />
+<meta property="og:image" content="http://www.hnvnews.co.uk/images/800/4/50741-.jpg" />
+<meta property="article:tag" content="" />
+<meta property="og:site_name" content="Hnvnews.co.uk" />
+<meta property="dyg:site" content="Hnvnews.co.uk" />
+<meta property="dyg:section" content="home" />
+<meta property="dyg:target" content="home" />
+<meta property="da:site" content="Hnvnews.co.uk" />
+<meta property="da:pagetype" content="home" />
+<meta property="da:title" content="Hnwnews Actual - Last Minute News" />
+<meta property="da:description" content="Track current and last minute news from different sources instantly" />
+<meta property="da:image" content="http://www.hnvnews.co.uk/images/800/4/50741-.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@hnvcouk" />
+<meta name="twitter:url" content="http://www.hnvnews.co.uk/newsdetail/50710/Google extends conservative outreach as Trump calls tech meeting" />
+<meta name="twitter:title" content="Google extends conservative outreach as Trump calls tech meeting" />
+<meta name="twitter:description" content="Alphabets Google is racing to hire more conservatives for its lobbying and policy arm trying to get a foothold in Presidentelect Donald Trumps Washington after enjoying a uniquely close relationship with the administration of President Barack Obama" />
+<meta name="keywords" content="Google, extends, conservative, outreach, as, Trump, calls, tech, meeting" />
+<meta />
+<title>
+	Hnvnews.co.uk - Google extends conservative outreach as Trump calls tech meeting
+</title></head>
+<body>
+    <form method="post" action="./May agrees on changing economic model postBrexit if forced  spokeswoman" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDY2NTU0Nzg5ZGT2IxHGGlp4B+U4vVPYjSfNEy9TEU2SMhoF2k0xxXTKzg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1FC36E7C" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQWavNCkopFdwxJ1VLWvyZ/tC7MgAhsEvHf1ksuRDs8mnmBmleeHtiLmmDHzwOv5t5Q6cbIK1Y2fN3Evup2FfX4PbMGmXIaatmTcCCkqU5gvDa79rVYrCYIHVjsefaUUQE=" />
+        <div class="container-fluid breaking-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 no_padding sondakika">
+                        <div><strong class="br-title">BREAKING NEWS</strong></div>
+                        <div class="br-article-list">
+                            <div class="br-article-list-inner">
+                                <a href='/similar-news/1/Royal Court reverses decision to cancel Rita Sue and Bob Too' style=' font-size: 12pt;'>Royal Court reverses decision to cancel Rita, Sue and Bob Too</a> - <a href='/similar-news/1/Sean Dyche could be next Liverpool manager Shock claim if Jurgen Klopp goes' style=' font-size: 12pt;'>Sean Dyche could be next Liverpool manager: Shock claim if Jurgen Klopp goes</a> - <a href='/similar-news/1/Tillerson urges long halt to North Korea weapons tests before any talks' style=' font-size: 12pt;'>Tillerson urges long halt to North Korea weapons tests before any talks</a> - <a href='/similar-news/1/Taulupe Faletau injury stretches Bathaposs backrow reserves but Sam Underhillaposs concussion the real concern' style=' font-size: 12pt;'>Taulupe Faletau injury stretches Bath&apos;s back-row reserves but Sam Underhill&apos;s concussion the real concern</a> - <a href='/similar-news/1/Star Wars 8 BAD news about DELETED SCENES and Extended Cut on Last Jedi Bluray' style=' font-size: 12pt;'>Star Wars 8: BAD news about DELETED SCENES and Extended Cut on Last Jedi Blu-ray</a> - <a href='/similar-news/1/RUSSIA WARNING Putin can disrupt UK internet  cause HAVOC for Britain Army head says' style=' font-size: 12pt;'>RUSSIA WARNING: Putin can ‘disrupt’ UK internet & cause HAVOC for Britain, Army head says</a> - <a href='/similar-news/1/Manchester City news Pep Guardiola sends chilling warning  We can get even better' style=' font-size: 12pt;'>Manchester City news: Pep Guardiola sends chilling warning - We can get even better</a> - <a href='/similar-news/1/Brexit date success May could kill off Commons defeat with THIS amendment' style=' font-size: 12pt;'>Brexit date success: May could kill off Commons defeat with THIS amendment</a> - <a href='/similar-news/1/The new bridge between Salford and the Trafford Centre WILL open  before Christmas' style=' font-size: 12pt;'>The new bridge between Salford and the Trafford Centre WILL open  before Christmas</a> - <a href='/similar-news/1/Man Utd ready 27m offer to Real Madrid for Mateo Kovacic Jose Mourinho hopeful  report' style=' font-size: 12pt;'>Man Utd ready £27m offer to Real Madrid for Mateo Kovacic: Jose Mourinho hopeful - report</a> - 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 no_padding">
+
+
+                    <div class="header-logo">
+                        <h1>
+                            <a href="//www.hnvnews.co.uk" title="hnvnews" track-category="Header" track-label="LOGO">
+                                <img alt="hnvnews" class="img-responsive" src="/images/ustlogo-en.png" />
+                            </a>
+                        </h1>
+                    </div>
+                </div>
+
+                <div class="col-md-3 hidden-xs" style="padding-top: 17px;">
+                    <div class="sicon">
+
+                        <div class="col-lg-1 col-md-1 col-sm-2 col-xs-3 text-center" style="padding: 20px;">
+                            <div class="icon-circle">
+                                <a href="https://www.facebook.com/Hnvnews-584642965059856" target="_blank" class="ifacebook" title="Facebook"><i class="fa fa-facebook"></i></a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-1 col-md-1 col-sm-2 col-xs-3 text-center" style="padding: 20px;">
+                            <div class="icon-circle">
+                                <a href="https://twitter.com/hnvcouk" target="_blank" class="itwittter" title="Twitter"><i class="fa fa-twitter"></i></a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-1 col-md-1 col-sm-2 col-xs-3 text-center" style="padding: 20px;">
+                            <div class="icon-circle">
+                                <a href="https://plus.google.com/110989538448837329418" target="_blank" class="igoogle" title="Google+"><i class="fa fa-google-plus"></i></a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-1 col-md-1 col-sm-2 col-xs-3 text-center" style="padding: 20px;">
+                            <div class="icon-circle">
+                                <a href="https://www.instagram.com/hnvnews/" target="_blank" class="ifacebook" title="Instagram"><i class="fa fa-instagram"></i></a>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+                <div class="col-md-6 no_padding" style="padding: 10px 0 10px 0;">
+                    <a href="/newspapers-front-pages">
+                        <img class="img-responsive" src="/images/newspapers-front-pages.jpg" alt="Newspapers Front Pages" /></a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar navbar-inverse hidden-xs hidden-sm">
+            <div class="container">
+                <div class="row">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-3">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse no_padding" id="navbar-collapse-3">
+                        <ul class="nav navbar-nav navbar-right" style="float: left !important;">
+                            <li id='2'><a class='kategoriUst' href='/category/2/Actual' style='font-size:14px; padding:15px 8px;'>Actual</a></li><li id='12'><a class='kategoriUst' href='/category/12/UK' style='font-size:14px; padding:15px 8px;'>UK</a></li><li id='3'><a class='kategoriUst' href='/category/3/World' style='font-size:14px; padding:15px 8px;'>World</a></li><li id='4'><a class='kategoriUst' href='/category/4/Economy' style='font-size:14px; padding:15px 8px;'>Economy</a></li><li id='6'><a class='kategoriUst' href='/category/6/Sport' style='font-size:14px; padding:15px 8px;'>Sport</a></li><li id='7'><a class='kategoriUst' href='/category/7/Health' style='font-size:14px; padding:15px 8px;'>Health</a></li><li id='11'><a class='kategoriUst' href='/category/11/Technology' style='font-size:14px; padding:15px 8px;'>Technology</a></li><li id='13'><a class='kategoriUst' href='/category/13/Art-and-Culture' style='font-size:14px; padding:15px 8px;'>Art and Culture</a></li><li id='10'><a class='kategoriUst' href='/category/10/Life' style='font-size:14px; padding:15px 8px;'>Life</a></li><li id='8'><a class='kategoriUst' href='/category/8/Education' style='font-size:14px; padding:15px 8px;'>Education</a></li><li id='5'><a class='kategoriUst' href='/category/5/Magazine' style='font-size:14px; padding:15px 8px;'>Magazine</a></li><li id='9'><a class='kategoriUst' href='/category/9/Politics' style='font-size:14px; padding:15px 8px;'>Politics</a></li><li id='1'><a class='kategoriUst' href='/category/1/Other' style='font-size:14px; padding:15px 8px;'>Other</a></li>
+                            <li style="position: absolute; right: 0; top: -8px;">
+                                <div id="pnlara">
+	
+                                    
+                                    <div class="navbar-form navbar-right">
+                                        <div class="form-group">
+                                            <input type="text" id="aranacak" class="form-control" placeholder="Search" />
+
+                                        </div>
+                                        <a href="javascript:;" onclick="aramayap('aranacak');" class="btn btn-danger">Search </a>
+
+                                        <a id="btnara" class="btn btn-danger" href="javascript:__doPostBack(&#39;ctl00$btnara&#39;,&#39;&#39;)" style="display: none;"></a>
+                                    </div>
+                                    
+                                
+</div>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container -->
+            </div>
+        </nav>
+        <script>
+            function aramayap(nesne) {
+                if (document.getElementById(nesne).value != "") {
+                    $.ajax({
+                        type: 'post',
+                        data: '{deger:"' + document.getElementById(nesne).value + '"}',
+                        url: '/Default.aspx/Aranilacak',
+                        dataType: 'json',
+                        contentType: 'application/json; charset=utf-8',
+                        success: function (dnn) {
+                            if (dnn.d != "")
+                                document.location.href = "/news-search/1/" + dnn.d;
+                        }
+                    })
+                }
+            }
+
+            $(document).ready(function () {
+                $("#aranacak").keyup(function (event) {
+                    if (event.keyCode == 13) {
+                        if ($(this).val() != "")
+                            aramayap('aranacak')
+                    }
+                });
+
+                $("#aranacak2").keyup(function (event) {
+                    if (event.keyCode == 13) {
+                        if ($(this).val() != "")
+                            aramayap('aranacak2')
+                    }
+                });
+            })
+
+
+        </script>
+
+        <!-- eski taraf -->
+        <div class="container-fluid sfbgg no_padding">
+            <div class="container ">
+                <div class="container hidden-md hidden-lg" id="kurabiye" style="display: none; padding: 0px !important;">
+                    <div class="row  navbar-stacked" style="z-index: 99999; top: 0px; height: 65px; padding: 0px; background-color: #a70e12;" data-spy="affix" data-offset-top="0">
+
+
+
+                        <div id="custom-search-input1" style="padding: 5px 2px 5px 2px">
+                            <div class="input-group  col-xs-12 hizala pull-right">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-danger" style="background-color: #a70e12; margin-top: 12px; border: none" type="button" id="simple-menu1">
+                                        <span class="glyphicon glyphicon-menu-hamburger" style="margin-top: -5px; font-size: 24px"></span>
+                                    </button>
+                                </span>
+                                <a href="//www.hnvnews.co.uk" title="The easiest and fastest way to reach the news">
+                                    <img style="margin: 0 auto; padding-top: 5px;" class="img-responsive" src="/images/logoust.png" />
+                                </a>
+                                <span class="input-group-btn">
+                                    <button class="btn btn-danger" style="background-color: #a70e12; margin-top: 12px; border: none" type="button" id="simple-menu2">
+                                        <span class="glyphicon glyphicon-menu-hamburger" style="margin-top: -5px; font-size: 24px; background-color: #a70e12; color: #a70e12"></span>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-4 col-xs-12 aramahizala no_padding hidden-lg hidden-md" style="margin-top: 17px;">
+                    <div id="pnlara1">
+	
+                        <div id="custom-search-input" style="padding: 0 15px 0 15px">
+
+                            <div class="input-group col-md-12 col-xs-12 hizala pull-right">
+                                <span class="input-group-btn hidden-md hidden-lg">
+                                    <a class="btn btn-danger" style="background-color: #000000; border: none; z-index: 2" id="simple-menu">
+                                        <span class=" glyphicon glyphicon-menu-hamburger"></span>
+                                    </a>
+                                </span>
+                                <input type="text" id="aranacak2" class="form-control" placeholder="Search" onkeypress="function(e){if (e.which == 13) {alert('heyy');}}" />
+
+                                <span class="input-group-btn">
+                                    <a href="javascript:;" onclick="aramayap('aranacak2');" class="btn btn-danger">Search </a>
+                                    <a id="btnara1" class="btn btn-danger" href="javascript:__doPostBack(&#39;ctl00$btnara1&#39;,&#39;&#39;)" style="display: none;">                            
+                                <span class=" glyphicon glyphicon-search"></span>
+                                    </a>
+                                </span>
+
+                            </div>
+                        </div>
+                    
+</div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div id='sidr' style='display:none;'><div class='col-md-12  kategoriPadding'><h2 class='haberKaynak baslik' style='margin-bottom: 10px;'>CATEGORY</h2><div class='col-xs-12'><a class='hswt-item2' href='/category/2/Actual'>Actual</a><a class='hswt-item2' href='/category/12/UK'>UK</a><a class='hswt-item2' href='/category/3/World'>World</a><a class='hswt-item2' href='/category/4/Economy'>Economy</a><a class='hswt-item2' href='/category/6/Sport'>Sport</a><a class='hswt-item2' href='/category/7/Health'>Health</a><a class='hswt-item2' href='/category/11/Technology'>Technology</a><a class='hswt-item2' href='/category/13/Art-and-Culture'>Art and Culture</a><a class='hswt-item2' href='/category/10/Life'>Life</a><a class='hswt-item2' href='/category/8/Education'>Education</a><a class='hswt-item2' href='/category/5/Magazine'>Magazine</a><a class='hswt-item2' href='/category/9/Politics'>Politics</a><a class='hswt-item2' href='/category/1/Other'>Other</a></div></div><div class='col-md-12 col-xs-12 kategoriPadding'><h4 class='haberKaynak baslik' style='margin-bottom: 10px;'>NEWS FEEDS</h4><div class='col-xs-12'><a class='altKategoriler hswt-item1' href='/source/5/BBC'>BBC</a><a class='altKategoriler hswt-item1' href='/source/15/City-A-M-'>City A.M.</a><a class='altKategoriler hswt-item1' href='/source/14/Contactmusic'>Contactmusic</a><a class='altKategoriler hswt-item1' href='/source/12/Daily-Star'>Daily Star</a><a class='altKategoriler hswt-item1' href='/source/7/Dailymail'>Dailymail</a><a class='altKategoriler hswt-item1' href='/source/8/Express'>Express</a><a class='altKategoriler hswt-item1' href='/source/9/Hello-Magazine'>Hello Magazine</a><a class='altKategoriler hswt-item1' href='/source/17/IBTimes'>IBTimes</a><a class='altKategoriler hswt-item1' href='/source/22/Independent'>Independent</a><a class='altKategoriler hswt-item1' href='/source/20/INVEZZ'>INVEZZ</a><a class='altKategoriler hswt-item1' href='/source/13/Macworld'>Macworld</a><a class='altKategoriler hswt-item1' href='/source/11/Manchester-Evening-News'>Manchester Evening News</a><a class='altKategoriler hswt-item1' href='/source/23/Metro'>Metro</a><a class='altKategoriler hswt-item1' href='/source/18/Money-Week'>Money Week</a><a class='altKategoriler hswt-item1' href='/source/19/PC-Advisor'>PC Advisor</a><a class='altKategoriler hswt-item1' href='/source/4/Reuters'>Reuters</a><a class='altKategoriler hswt-item1' href='/source/6/SKY-News'>SKY News</a><a class='altKategoriler hswt-item1' href='/source/21/The-Economist'>The Economist</a><a class='altKategoriler hswt-item1' href='/source/1/The-Guardian'>The Guardian</a><a class='altKategoriler hswt-item1' href='/source/10/Thomson-Reuters-Foundation'>Thomson Reuters Foundation</a><a class='altKategoriler hswt-item1' href='/source/16/Your-Local-Guardian'>Your Local Guardian</a></div></div></div>
+        <input type="hidden" name="ctl00$hdil" id="hdil" />
+        <div class="container">
+
+            <div class="col-md-12 merkez" style="line-height: 30px; margin: 15px 0;">
+                
+            </div>
+            <div style="padding: 0 5px 10px 5px;">
+                
+    <div class="row">
+        <div class="col-md-8">
+
+            <img id="main_haberresim" class="img-responsive" src="/images/800/4/50741-.jpg" />
+            <div class="row top-10">
+                <div class='col-md-1' style=' margin: 5px 0 0 0'><a target=_blank href='https://www.facebook.com/sharer/sharer.php?u=http://www.hnvnews.co.uk/newsdetail/50710/Haber' class='btn btn-sq-xs btn-primary aramesafe'><i class='fa fa-facebook fa-1x'></i><br /></a><a target=_blank href='http://twitter.com/intent/tweet?text=Google-extends-conservative-outreach-as-Trump-calls-tech-meeting&url=http://www.hnvnews.co.uk/newsdetail/50710/Haber&amp;via=hnvcom' class='btn btn-sq-xs btn-info aramesafe'><i class='fa fa-twitter fa-1x'></i><br /></a><a target=_blank href='http://plus.google.com/share?url=http://www.hnvnews.co.uk/newsdetail/50710/Haber' class='btn btn-sq-xs btn-danger aramesafe'><i class='fa fa-google-plus fa-1x'></i><br /></a></div>
+
+                <div class="col-md-11" style="margin: 0 0 10px 0">
+                    <h2 id="main_haberbaslik">Google extends conservative outreach as Trump calls tech meeting</h2>
+                    <p>
+                        Alphabet’s Google is racing to hire more conservatives for its lobbying and policy arm, trying to get a foothold in President-elect Donald Trump’s Washington after enjoying a uniquely close relationship with the administration of President Barack Obama.
+                    </p>
+                    <div class="post-meta-extended clearfix">
+                        <span class="main_kaynak">
+                            <a id="main_kaynak" href="/source/4/Reuters">Reuters</a></span>
+                        <span id="main_tarih">12/14/2016 6:15:17 AM</span>
+                    </div>
+                    <a id="main_hyprkaynak" class="btn btn-outlined btn-primary btn-xs" onclick="SiteyeGiden(4,50741)" href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/WFqPsrqE9k4/us-usa-trump-google-idUSKBN1430G6" target="_blank">Read From Source</a>
+                    <a id="main_hyprkategori" class="btn btn-outlined btn-success btn-xs" href="/category/11/Technology">Technology</a>
+                    <a id="main_hyprbenzer" class="btn btn-outlined btn-danger btn-xs" href="/similar-news/1/Google%20extends%20conservative%20outreach%20as%20Trump%20calls%20tech%20meeting">Similar News</a>
+                </div>
+            </div>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Oto Boyut -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-4825462687340018"
+						 data-ad-slot="6623482729"
+						 data-ad-format="auto"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+
+
+			<div class="col-md-12 " style="text-align:justify; margin-top:15px;padding-right:30px;">
+             <div class='row'><section class='cat-widget cat-widget wdg-cat-vert cat-vert-righ padiing_yok'><div class='widget-title'><h3>Similar News</h3> <h6 style='float: right; padding-left: 10px; color: #999;'></h6><div class='sep-widget'></div></div></section></div><div class='row top-10'><article class='clearfix'><figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'><a href='/newsdetail/1017216/Palestinians-to-reject-meeting-with-Trump-as-anger-over-Jerusalem-rises- news' title='Palestinians to reject meeting with Trump as anger over Jerusalem rises'><img class='img-responsive' src='/images/300/1/1230066-3692.jpg' alt='Palestinians to reject meeting with Trump as anger over Jerusalem rises'/> </a></figure><header class='col-md-7 col-xs-7 sec-title padiing_yok_md'><h6><a href='/newsdetail/1017216/Palestinians-to-reject-meeting-with-Trump-as-anger-over-Jerusalem-rises- news' title='Palestinians to reject meeting with Trump as anger over Jerusalem rises'>Palestinians to reject meeting with Trump as anger over Jerusalem rises</a></h6><p>As the Gaza death toll mounts, France and Turkey want the US president to change his mind over recognition of Jerusalem as Israel’s capital</p><div class='meta-info'><span><a href='/source/1/The-Guardian'>The Guardian</a></span><span>4 d. 10 hr.  before</span></div><a id='ain_hyprkaynak' href='https://www.theguardian.com/world/2017/dec/09/palestinians-reject-trump-meeting-anger-jerusalem-israel-capital' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs'>Read From Source</a><a id='ain_hyprkaynak' href='/similar-news/1/Palestinians to reject meeting with Trump as anger over Jerusalem rises' target='_blank' class='btn btn-outlined btn-danger-xxs btn-xs'>Similar News</a> </header></article></div><div class='row top-10'><article class='clearfix'><figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'><a href='/newsdetail/1031944/Euro-threat-Merkel-ally-says-risks-havent-been-reduced-as-Germany-calls-for-MORE-control- news' title='Euro threat: Merkel ally says risks haven’t been reduced as Germany calls for MORE control'><img class='img-responsive' src='/images/300/8/1244794-892837.jpg' alt='Euro threat: Merkel ally says risks haven’t been reduced as Germany calls for MORE control'/> </a></figure><header class='col-md-7 col-xs-7 sec-title padiing_yok_md'><h6><a href='/newsdetail/1031944/Euro-threat-Merkel-ally-says-risks-havent-been-reduced-as-Germany-calls-for-MORE-control- news' title='Euro threat: Merkel ally says risks haven’t been reduced as Germany calls for MORE control'>Euro threat: Merkel ally says risks haven’t been reduced as Germany calls for MORE control</a></h6><p>GERMANY is calling for tighter financial controls across the eurozone in a bid to kickstart its stalled banking union project.</p><div class='meta-info'><span><a href='/source/8/Express'>Express</a></span><span>5 hr. 6 min. 39 sec.  before</span></div><a id='ain_hyprkaynak' href='https://www.express.co.uk/news/politics/892837/european-union-single-currency-euro-eurozone-banking-union' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs'>Read From Source</a><a id='ain_hyprkaynak' href='/similar-news/1/Euro threat Merkel ally says risks havent been reduced as Germany calls for MORE control' target='_blank' class='btn btn-outlined btn-danger-xxs btn-xs'>Similar News</a> </header></article></div><div class='row top-10'><article class='clearfix'><figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'><a href='/newsdetail/1031514/EU-calls-for-clarity-as-Brexit-talks-progress- news' title='EU calls for clarity as Brexit talks progress'><img class='img-responsive' src='/images/300/6/1244364-skynews-eu-summit-brussels4183392.jpg' alt='EU calls for clarity as Brexit talks progress'/> </a></figure><header class='col-md-7 col-xs-7 sec-title padiing_yok_md'><h6><a href='/newsdetail/1031514/EU-calls-for-clarity-as-Brexit-talks-progress- news' title='EU calls for clarity as Brexit talks progress'>EU calls for clarity as Brexit talks progress</a></h6><p>The PM hails an &quot;important step&quot; in the exit process, as EU leaders agree there has been &quot;sufficient progress&quot; in the first phase.</p><div class='meta-info'><span><a href='/source/6/SKY-News'>SKY News</a></span><span>7 hr. 36 min. 39 sec.  before</span></div><a id='ain_hyprkaynak' href='http://news.sky.com/story/eu-calls-for-clarity-on-trade-as-brexit-talks-progress-to-next-phase-11171465' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs'>Read From Source</a><a id='ain_hyprkaynak' href='/similar-news/1/EU calls for clarity as Brexit talks progress' target='_blank' class='btn btn-outlined btn-danger-xxs btn-xs'>Similar News</a> </header></article></div><div class='row top-10'><article class='clearfix'><figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'><a href='/newsdetail/1031064/Nazareth-cancels-some-Christmas-festivities-over-Trump-recognising-Jerusalem-as-Israelaposs-capital- news' title='Nazareth cancels some Christmas festivities over Trump recognising Jerusalem as Israel&apos;s capital'><img class='img-responsive' src='/resimyok.png' alt='Nazareth cancels some Christmas festivities over Trump recognising Jerusalem as Israel&apos;s capital'/> </a></figure><header class='col-md-7 col-xs-7 sec-title padiing_yok_md'><h6><a href='/newsdetail/1031064/Nazareth-cancels-some-Christmas-festivities-over-Trump-recognising-Jerusalem-as-Israelaposs-capital- news' title='Nazareth cancels some Christmas festivities over Trump recognising Jerusalem as Israel&apos;s capital'>Nazareth cancels some Christmas festivities over Trump recognising Jerusalem as Israel&apos;s capital</a></h6><p></p><div class='meta-info'><span><a href='/source/22/Independent'>Independent</a></span><span>9 hr. 36 min. 37 sec.  before</span></div><a id='ain_hyprkaynak' href='http://www.independent.co.uk/news/world/middle-east/nazareth-christmas-cancel-donald-trump-jerusalem-israel-capital-recognise-ali-salem-palestinian-a8111696.html' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs'>Read From Source</a><a id='ain_hyprkaynak' href='/similar-news/1/Nazareth cancels some Christmas festivities over Trump recognising Jerusalem as Israelaposs capital' target='_blank' class='btn btn-outlined btn-danger-xxs btn-xs'>Similar News</a> </header></article></div><div class='row top-10'><article class='clearfix'><figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'><a href='/newsdetail/1030947/Ivanka-Trump-wears-same-dress-as-THIS-supermodel--but-who-do-you-think-looks-BEST- news' title='Ivanka Trump wears same dress as THIS supermodel - but who do you think looks BEST?'><img class='img-responsive' src='/images/300/8/1243797-892667.jpg' alt='Ivanka Trump wears same dress as THIS supermodel - but who do you think looks BEST?'/> </a></figure><header class='col-md-7 col-xs-7 sec-title padiing_yok_md'><h6><a href='/newsdetail/1030947/Ivanka-Trump-wears-same-dress-as-THIS-supermodel--but-who-do-you-think-looks-BEST- news' title='Ivanka Trump wears same dress as THIS supermodel - but who do you think looks BEST?'>Ivanka Trump wears same dress as THIS supermodel - but who do you think looks BEST?</a></h6><p>IVANKA TRUMP, Donald Trump’s daughter, is known for her fashion credentials around the world, and she has now been photographed wearing the same dress as a supermodel - but which of the women looks best?</p><div class='meta-info'><span><a href='/source/8/Express'>Express</a></span><span>10 hr. 36 min. 32 sec.  before</span></div><a id='ain_hyprkaynak' href='http://feedproxy.google.com/~r/daily-express-lifestyle/~3/7jNvXUKGBI4/ivanka-trump-news-latest-pictures-chrissy-teigen-dress' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs'>Read From Source</a><a id='ain_hyprkaynak' href='/similar-news/1/Ivanka Trump wears same dress as THIS supermodel  but who do you think looks BEST' target='_blank' class='btn btn-outlined btn-danger-xxs btn-xs'>Similar News</a> </header></article></div>
+            </div>
+
+							</div>
+							<div class="col-md-4 col-xs-12">
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Oto Boyut -->
+					<ins class="adsbygoogle"
+						 style="display:block"
+						 data-ad-client="ca-pub-4825462687340018"
+						 data-ad-slot="6623482729"
+						 data-ad-format="auto"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+					<div class='row'><section class='cat-widget cat-widget wdg-cat-vert cat-vert-righ padiing_yok'><div class='widget-title'><h3>Most Read</h3> <h6 style='float: right; padding-left: 10px; color: #999;'></h6><div class='sep-widget'></div></div></section></div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030541/Live-Manchester-breaking-news--Friday-December-15- new' title='Live: Manchester breaking news - Friday, December 15'><img alt='Live: Manchester breaking news - Friday, December 15' class='img-responsive' src='/images/200/11/1243391-live-blog-city-centre-2.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030541/Live-Manchester-breaking-news--Friday-December-15- new' title='Live: Manchester breaking news - Friday, December 15'>Live: Manchester breaking news - Friday, December 15 </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/11/Manchester Evening News' title='Tüm Manchester Evening News Haberleri'>Manchester Evening News</a></span>
+                                                            <span>13 hr. 36 min. 39 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://www.manchestereveningnews.co.uk/news/greater-manchester-news/live-manchester-breaking-news-friday-14039052' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Live: Manchester breaking news - Friday, December 15 Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Live Manchester breaking news  Friday December 15' class='btn btn-outlined btn-danger-xxs btn-xs' title='Live: Manchester breaking news - Friday, December 15 Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030184/Conor-McGregor-vs-Manny-Pacquiao-Bob-Arum-makes-statement-on-fight- new' title='Conor McGregor vs Manny Pacquiao: Bob Arum makes statement on fight'><img alt='Conor McGregor vs Manny Pacquiao: Bob Arum makes statement on fight' class='img-responsive' src='/images/200/8/1243034-892168.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030184/Conor-McGregor-vs-Manny-Pacquiao-Bob-Arum-makes-statement-on-fight- new' title='Conor McGregor vs Manny Pacquiao: Bob Arum makes statement on fight'>Conor McGregor vs Manny Pacquiao: Bob Arum makes statement on fight </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>20 hr. 6 min. 35 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-express-sport-news/~3/bMK6NvXDtLA/Conor-McGregor-Manny-Pacquiao-Bob-Arum-Dana-White-UFC-News' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Conor McGregor vs Manny Pacquiao: Bob Arum makes statement on fight Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Conor McGregor vs Manny Pacquiao Bob Arum makes statement on fight' class='btn btn-outlined btn-danger-xxs btn-xs' title='Conor McGregor vs Manny Pacquiao: Bob Arum makes statement on fight Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030436/Millennial-Remainer-BRUTALLY-slapped-down-for-defending-Nicky-Morgan-rebellion-on-Brexit- new' title='Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit'><img alt='Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit' class='img-responsive' src='/images/200/8/1243286-892596.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030436/Millennial-Remainer-BRUTALLY-slapped-down-for-defending-Nicky-Morgan-rebellion-on-Brexit- new' title='Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit'>Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>15 hr. 36 min. 37 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/RYlbqIddb24/BBC-Question-Time-Nicky-Morgan-Brexit-EU-Remainer-Barnsley-Withdrawal-millennial-news' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit' class='btn btn-outlined btn-danger-xxs btn-xs' title='Millennial Remainer BRUTALLY slapped down for defending Nicky Morgan rebellion on Brexit Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030335/PM--urges-EU27-to-agree-swift-Brexit-transition- new' title='PM  urges EU27 to agree swift Brexit transition'><img alt='PM  urges EU27 to agree swift Brexit transition' class='img-responsive' src='/images/200/6/1243185-skynews-theresa-may-brexit4183132.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030335/PM--urges-EU27-to-agree-swift-Brexit-transition- new' title='PM  urges EU27 to agree swift Brexit transition'>PM  urges EU27 to agree swift Brexit transition </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/6/SKY News' title='Tüm SKY News Haberleri'>SKY News</a></span>
+                                                            <span>18 hr. 6 min. 40 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://news.sky.com/story/theresa-may-urges-eu27-to-agree-swift-transition-period-at-summit-dinner-11171055' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='PM  urges EU27 to agree swift Brexit transition Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/PM  urges EU27 to agree swift Brexit transition' class='btn btn-outlined btn-danger-xxs btn-xs' title='PM  urges EU27 to agree swift Brexit transition Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1029961/Hurricane-rains-15-percent-worse-due-to-climate-change-scientists-find- new' title='Hurricane rains 15 percent worse due to climate change, scientists find'><img alt='Hurricane rains 15 percent worse due to climate change, scientists find' class='img-responsive' src='/images/200/10/1242811-1100.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1029961/Hurricane-rains-15-percent-worse-due-to-climate-change-scientists-find- new' title='Hurricane rains 15 percent worse due to climate change, scientists find'>Hurricane rains 15 percent worse due to climate change, scientists find </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/10/Thomson Reuters Foundation' title='Tüm Thomson Reuters Foundation Haberleri'>Thomson Reuters Foundation</a></span>
+                                                            <span>22 hr. 6 min. 29 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://www.trust.org/item/20171214194453-d6wpt/?source=gep' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Hurricane rains 15 percent worse due to climate change, scientists find Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Hurricane rains 15 percent worse due to climate change scientists find' class='btn btn-outlined btn-danger-xxs btn-xs' title='Hurricane rains 15 percent worse due to climate change, scientists find Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1031011/Graham-Linehan-confirms-The-IT-Crowd-is-set-for-US-remake- new' title='Graham Linehan confirms The IT Crowd is set for US remake'><img alt='Graham Linehan confirms The IT Crowd is set for US remake' class='img-responsive' src='/images/200/1/1243861-1536.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1031011/Graham-Linehan-confirms-The-IT-Crowd-is-set-for-US-remake- new' title='Graham Linehan confirms The IT Crowd is set for US remake'>Graham Linehan confirms The IT Crowd is set for US remake </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/1/The Guardian' title='Tüm The Guardian Haberleri'>The Guardian</a></span>
+                                                            <span>10 hr. 6 min. 35 sec.  before</span>
+                                                        </div>
+                                                        <a href='https://www.theguardian.com/tv-and-radio/2017/dec/15/graham-linehan-the-it-crowd-us-remake-nbc' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Graham Linehan confirms The IT Crowd is set for US remake Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Graham Linehan confirms The IT Crowd is set for US remake' class='btn btn-outlined btn-danger-xxs btn-xs' title='Graham Linehan confirms The IT Crowd is set for US remake Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1031683/We-ve-been-taken-for-mugs--Farage-s-FURY-as-Brexit-trade-talks-won-t-start-until-MARCH- new' title='We ve been taken for mugs!  Farage s FURY as Brexit trade talks won t start until MARCH'><img alt='We ve been taken for mugs!  Farage s FURY as Brexit trade talks won t start until MARCH' class='img-responsive' src='/images/200/8/1244533-892787.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1031683/We-ve-been-taken-for-mugs--Farage-s-FURY-as-Brexit-trade-talks-won-t-start-until-MARCH- new' title='We ve been taken for mugs!  Farage s FURY as Brexit trade talks won t start until MARCH'>We ve been taken for mugs!  Farage s FURY as Brexit trade talks won t start until MARCH </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>6 hr. 36 min. 39 sec.  before</span>
+                                                        </div>
+                                                        <a href='https://www.express.co.uk/news/politics/892787/Brexit-latest-news-trade-talks-EU-Nigel-Farage-Theresa-May-Donald-Tusk' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='We ve been taken for mugs!  Farage s FURY as Brexit trade talks won t start until MARCH Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/We ve been taken for mugs  Farage s FURY as Brexit trade talks won t start until MARCH' class='btn btn-outlined btn-danger-xxs btn-xs' title='We ve been taken for mugs!  Farage s FURY as Brexit trade talks won t start until MARCH Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030524/World-War-3-China-start-LIVE-FIRE-drills-near-North-Korea-in-a-warning-to-Donald-Trump- new' title='World War 3: China start LIVE FIRE drills near North Korea in a warning to Donald Trump'><img alt='World War 3: China start LIVE FIRE drills near North Korea in a warning to Donald Trump' class='img-responsive' src='/images/200/8/1243374-892609.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030524/World-War-3-China-start-LIVE-FIRE-drills-near-North-Korea-in-a-warning-to-Donald-Trump- new' title='World War 3: China start LIVE FIRE drills near North Korea in a warning to Donald Trump'>World War 3: China start LIVE FIRE drills near North Korea in a warning to Donald Trump </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>14 hr. 6 min. 6 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/CG0Ap47P8ZQ/north-korea-news-latest-nuclear-war-china-military-drills-warning-US-donald-trump' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='World War 3: China start LIVE FIRE drills near North Korea in a warning to Donald Trump Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/World War 3 China start LIVE FIRE drills near North Korea in a warning to Donald Trump' class='btn btn-outlined btn-danger-xxs btn-xs' title='World War 3: China start LIVE FIRE drills near North Korea in a warning to Donald Trump Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030450/Manchester-United-news-and-transfer-rumours-LIVE-Jose-Mourinho-updates-and-Luke-Shaw-latest- new' title='Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest'><img alt='Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest' class='img-responsive' src='/images/200/11/1243300-UtdBlogPic-14.png'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030450/Manchester-United-news-and-transfer-rumours-LIVE-Jose-Mourinho-updates-and-Luke-Shaw-latest- new' title='Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest'>Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/11/Manchester Evening News' title='Tüm Manchester Evening News Haberleri'>Manchester Evening News</a></span>
+                                                            <span>15 hr. 6 min. 40 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-news-live-14040244' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest' class='btn btn-outlined btn-danger-xxs btn-xs' title='Manchester United news and transfer rumours LIVE Jose Mourinho updates and Luke Shaw latest Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030409/Slowmoving-crisis--as-Beijing-bolsters-South-China-Sea-war-platform- new' title='Slow-moving crisis  as Beijing bolsters South China Sea war platform'><img alt='Slow-moving crisis  as Beijing bolsters South China Sea war platform' class='img-responsive' src='/images/200/1/1243259-2063.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030409/Slowmoving-crisis--as-Beijing-bolsters-South-China-Sea-war-platform- new' title='Slow-moving crisis  as Beijing bolsters South China Sea war platform'>Slow-moving crisis  as Beijing bolsters South China Sea war platform </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/1/The Guardian' title='Tüm The Guardian Haberleri'>The Guardian</a></span>
+                                                            <span>16 hr. 6 min. 39 sec.  before</span>
+                                                        </div>
+                                                        <a href='https://www.theguardian.com/world/2017/dec/15/militarisation-beijing-south-china-sea-islands' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Slow-moving crisis  as Beijing bolsters South China Sea war platform Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Slowmoving crisis  as Beijing bolsters South China Sea war platform' class='btn btn-outlined btn-danger-xxs btn-xs' title='Slow-moving crisis  as Beijing bolsters South China Sea war platform Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1029920/BREAKING-Two-dead-and-several-injured-after-two-knife-attacks-in-Maastricht- new' title='BREAKING: Two dead and several injured after two knife attacks in Maastricht'><img alt='BREAKING: Two dead and several injured after two knife attacks in Maastricht' class='img-responsive' src='/images/200/8/1242770-892520.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1029920/BREAKING-Two-dead-and-several-injured-after-two-knife-attacks-in-Maastricht- new' title='BREAKING: Two dead and several injured after two knife attacks in Maastricht'>BREAKING: Two dead and several injured after two knife attacks in Maastricht </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>22 hr. 36 min. 36 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/OB_K0NT49-Q/maastricht-stabbing-attack-netherlands-stabbings' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='BREAKING: Two dead and several injured after two knife attacks in Maastricht Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/BREAKING Two dead and several injured after two knife attacks in Maastricht' class='btn btn-outlined btn-danger-xxs btn-xs' title='BREAKING: Two dead and several injured after two knife attacks in Maastricht Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030595/Man-Utd-news-Sky-Sports--Phil-Neville-makes-shock-Man-City-claim-backs-Arsene-Wenger-too- new' title='Man Utd news: Sky Sports  Phil Neville makes shock Man City claim, backs Arsene Wenger too'><img alt='Man Utd news: Sky Sports  Phil Neville makes shock Man City claim, backs Arsene Wenger too' class='img-responsive' src='/images/200/8/1243445-892577.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030595/Man-Utd-news-Sky-Sports--Phil-Neville-makes-shock-Man-City-claim-backs-Arsene-Wenger-too- new' title='Man Utd news: Sky Sports  Phil Neville makes shock Man City claim, backs Arsene Wenger too'>Man Utd news: Sky Sports  Phil Neville makes shock Man City claim, backs Arsene Wenger too </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>13 hr. 6 min. 3 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-express-sport-news/~3/smBxAI6xFkI/Man-Utd-Phil-Neville-Man-City-Arsene-Wenger-sumo-wrestling' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Man Utd news: Sky Sports  Phil Neville makes shock Man City claim, backs Arsene Wenger too Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Man Utd news Sky Sports  Phil Neville makes shock Man City claim backs Arsene Wenger too' class='btn btn-outlined btn-danger-xxs btn-xs' title='Man Utd news: Sky Sports  Phil Neville makes shock Man City claim, backs Arsene Wenger too Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1031814/Stars-who-will-share-wedding-anniversary-with-Prince-Harry-and-Meghan-Markle- new' title='Stars who will share wedding anniversary with Prince Harry and Meghan Markle'><img alt='Stars who will share wedding anniversary with Prince Harry and Meghan Markle' class='img-responsive' src='/images/200/9/1244664-19-may-weddings-t.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1031814/Stars-who-will-share-wedding-anniversary-with-Prince-Harry-and-Meghan-Markle- new' title='Stars who will share wedding anniversary with Prince Harry and Meghan Markle'>Stars who will share wedding anniversary with Prince Harry and Meghan Markle </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/9/Hello Magazine' title='Tüm Hello Magazine Haberleri'>Hello Magazine</a></span>
+                                                            <span>6 hr. 6 min.  before</span>
+                                                        </div>
+                                                        <a href='https://www.hellomagazine.com/royalty/2017121544826/famous-celebs-share-wedding-date-prince-harry-meghan-markle/' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Stars who will share wedding anniversary with Prince Harry and Meghan Markle Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Stars who will share wedding anniversary with Prince Harry and Meghan Markle' class='btn btn-outlined btn-danger-xxs btn-xs' title='Stars who will share wedding anniversary with Prince Harry and Meghan Markle Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1032312/Litecoin-price-LTCUSD-recoups-Thursday-losses-as-it-leaps-above-300- new' title='Litecoin price (LTC/USD) recoups Thursday losses as it leaps above $300'><img alt='Litecoin price (LTC/USD) recoups Thursday losses as it leaps above $300' class='img-responsive' src='/images/200/20/1245162-litecoinpricestoryfull.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1032312/Litecoin-price-LTCUSD-recoups-Thursday-losses-as-it-leaps-above-300- new' title='Litecoin price (LTC/USD) recoups Thursday losses as it leaps above $300'>Litecoin price (LTC/USD) recoups Thursday losses as it leaps above $300 </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/20/INVEZZ' title='Tüm INVEZZ Haberleri'>INVEZZ</a></span>
+                                                            <span>3 hr. 6 min. 37 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://invezz.com/news/crypto/28693-Litecoin-price-LTCUSD-recoups-Thursday-losses-as-it-leaps-above-300?utm_source=rss' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Litecoin price (LTC/USD) recoups Thursday losses as it leaps above $300 Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Litecoin price LTCUSD recoups Thursday losses as it leaps above 300' class='btn btn-outlined btn-danger-xxs btn-xs' title='Litecoin price (LTC/USD) recoups Thursday losses as it leaps above $300 Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1032385/KKR-swallows-Flora-in-1636bn-Unilever-deal- new' title='KKR swallows Flora in &#163;6bn Unilever deal'><img alt='KKR swallows Flora in &#163;6bn Unilever deal' class='img-responsive' src='/images/200/6/1245235-4d3cd10df42722d269aa305f969825cc71c97fa2340d6619dbcd5fcb69ecaaf93878330.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1032385/KKR-swallows-Flora-in-1636bn-Unilever-deal- new' title='KKR swallows Flora in &#163;6bn Unilever deal'>KKR swallows Flora in &#163;6bn Unilever deal </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/6/SKY News' title='Tüm SKY News Haberleri'>SKY News</a></span>
+                                                            <span>2 hr. 36 min. 38 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://news.sky.com/story/kkr-swallows-flora-in-1636bn-unilever-deal-11172001' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='KKR swallows Flora in &#163;6bn Unilever deal Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/KKR swallows Flora in 1636bn Unilever deal' class='btn btn-outlined btn-danger-xxs btn-xs' title='KKR swallows Flora in &#163;6bn Unilever deal Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1032587/Warning-to-North-Korea-Donald-Trump-to-get-Russia-onside-in-FIGHT-against-Kim-Jongun- new' title='Warning to North Korea: Donald Trump to get Russia onside in FIGHT against Kim Jong-un'><img alt='Warning to North Korea: Donald Trump to get Russia onside in FIGHT against Kim Jong-un' class='img-responsive' src='/images/200/8/1245437-892969.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1032587/Warning-to-North-Korea-Donald-Trump-to-get-Russia-onside-in-FIGHT-against-Kim-Jongun- new' title='Warning to North Korea: Donald Trump to get Russia onside in FIGHT against Kim Jong-un'>Warning to North Korea: Donald Trump to get Russia onside in FIGHT against Kim Jong-un </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/8/Express' title='Tüm Express Haberleri'>Express</a></span>
+                                                            <span>1 hr. 5 min. 47 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-express-world-news/~3/p6TrTEGTxmI/North-Korea-news-World-War-3-Donald-Trump-Kim-Jong-un-Russia-Vladimir-Putin' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Warning to North Korea: Donald Trump to get Russia onside in FIGHT against Kim Jong-un Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Warning to North Korea Donald Trump to get Russia onside in FIGHT against Kim Jongun' class='btn btn-outlined btn-danger-xxs btn-xs' title='Warning to North Korea: Donald Trump to get Russia onside in FIGHT against Kim Jong-un Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1029859/Tottenham-star-Danny-Rose-will-join-Man-Utd-and-replace-Luke-Shaw--Shaka-Hislop- new' title='Tottenham star Danny Rose will join Man Utd and replace Luke Shaw - Shaka Hislop'><img alt='Tottenham star Danny Rose will join Man Utd and replace Luke Shaw - Shaka Hislop' class='img-responsive' src='/images/200/12/1242709-1171294.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1029859/Tottenham-star-Danny-Rose-will-join-Man-Utd-and-replace-Luke-Shaw--Shaka-Hislop- new' title='Tottenham star Danny Rose will join Man Utd and replace Luke Shaw - Shaka Hislop'>Tottenham star Danny Rose will join Man Utd and replace Luke Shaw - Shaka Hislop </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/12/Daily Star' title='Tüm Daily Star Haberleri'>Daily Star</a></span>
+                                                            <span>23 hr. 6 min. 39 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-star-football/~3/g5uNWncuWRc/Man-Utd-Danny-Rose-Tottenham-Luke-Shaw-Shaka-Hislop-Newcastle-rumours-gossip-news' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Tottenham star Danny Rose will join Man Utd and replace Luke Shaw - Shaka Hislop Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Tottenham star Danny Rose will join Man Utd and replace Luke Shaw  Shaka Hislop' class='btn btn-outlined btn-danger-xxs btn-xs' title='Tottenham star Danny Rose will join Man Utd and replace Luke Shaw - Shaka Hislop Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1030731/Sinitta-promises--juicy--autobiography- new' title='Sinitta promises  juicy  autobiography'><img alt='Sinitta promises  juicy  autobiography' class='img-responsive' src='/images/200/14/1243581-sinitta1496159.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1030731/Sinitta-promises--juicy--autobiography- new' title='Sinitta promises  juicy  autobiography'>Sinitta promises  juicy  autobiography </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/14/Contactmusic' title='Tüm Contactmusic Haberleri'>Contactmusic</a></span>
+                                                            <span>12 hr. 6 min. 4 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://www.contactmusic.com/sinitta/news/sinitta-promises-juicy-autobiography_5935328' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Sinitta promises  juicy  autobiography Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Sinitta promises  juicy  autobiography' class='btn btn-outlined btn-danger-xxs btn-xs' title='Sinitta promises  juicy  autobiography Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1031411/Chelsea-star-Eden-Hazard-and-Tottenham-ace-Harry-Kane-targets-for-Manchester-City- new' title='Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City'><img alt='Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City' class='img-responsive' src='/images/200/12/1244261-1171866.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1031411/Chelsea-star-Eden-Hazard-and-Tottenham-ace-Harry-Kane-targets-for-Manchester-City- new' title='Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City'>Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/12/Daily Star' title='Tüm Daily Star Haberleri'>Daily Star</a></span>
+                                                            <span>8 hr. 6 min. 36 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://feedproxy.google.com/~r/daily-star-football/~3/vw4doTN2Rc0/Chelsea-Eden-Hazard-Tottenham-Harry-Kane-Manchester-City-Transfer-News-gossip-Guardiola' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City' class='btn btn-outlined btn-danger-xxs btn-xs' title='Chelsea star Eden Hazard and Tottenham ace Harry Kane targets for Manchester City Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div><div class='row top-10'>
+                                                <article class='post-box clearfix'>
+                                                    <figure class='col-md-5 col-xs-5 sec-image padiing_yok' style='padding:0 5px 0 0 !important;'>
+                                                        <a href='/newsdetail/1031890/Man-City-boss-Pep-Guardiola-discusses-expected-returns-of-John-Stones-and-Vincent-Kompany- new' title='Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany'><img alt='Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany' class='img-responsive' src='/images/200/11/1244740-GettyImages-889426596.jpg'/></a>
+                                                    </figure>
+                                                    <header class='col-md-7 col-xs-7 sec-title padiing_yok_md'>
+                                                        <h6><a href='/newsdetail/1031890/Man-City-boss-Pep-Guardiola-discusses-expected-returns-of-John-Stones-and-Vincent-Kompany- new' title='Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany'>Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany </a></h6>
+                                                        <div class='meta-info'>
+                                                            <span><a href='/source/11/Manchester Evening News' title='Tüm Manchester Evening News Haberleri'>Manchester Evening News</a></span>
+                                                            <span>5 hr. 35 min. 56 sec.  before</span>
+                                                        </div>
+                                                        <a href='http://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-stones-kompany-injury-14043049' target='_blank' class='btn btn-outlined btn-primary-xxs btn-xs' title='Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany Haber Kaynagi'>Read From Source</a>
+                                                        <a  href='/similar-news/1/Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany' class='btn btn-outlined btn-danger-xxs btn-xs' title='Man City boss Pep Guardiola discusses expected returns of John Stones and Vincent Kompany Benzer Haberleri'>Similar News</a> 
+                                                    </header>
+                                                </article>
+                                            </div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+        <div class="col-md-12 no_padding sfbgg">
+            <div class="col-md-6 col-md-offset-1">
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="footerMid container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 alt1 no_padding">
+                        <h4 class="haberKaynak">CATEGORIES</h4>
+
+                        <a class='hswt-item2' href='/category/2/Actual'>Actual</a><a class='hswt-item2' href='/category/12/UK'>UK</a><a class='hswt-item2' href='/category/3/World'>World</a><a class='hswt-item2' href='/category/4/Economy'>Economy</a><a class='hswt-item2' href='/category/6/Sport'>Sport</a><a class='hswt-item2' href='/category/7/Health'>Health</a><a class='hswt-item2' href='/category/11/Technology'>Technology</a><a class='hswt-item2' href='/category/13/Art-and-Culture'>Art and Culture</a><a class='hswt-item2' href='/category/10/Life'>Life</a><a class='hswt-item2' href='/category/8/Education'>Education</a><a class='hswt-item2' href='/category/5/Magazine'>Magazine</a><a class='hswt-item2' href='/category/9/Politics'>Politics</a><a class='hswt-item2' href='/category/1/Other'>Other</a>
+			<div class="col-md-12" style="padding:0;">
+                                <div class="col-md-3" style="margin: 3px;padding:0px;">
+				   <a href="http://www.haberlerdenevar.com" title="Türkiye Haberleri" style="color: #fff;">
+                                    <img src="/images/tr.jpg" title="Türkiye Haberleri"  alt="Türkiye Haberleri"  />
+				   </a>
+                                </div>
+                                <div class="col-md-3" style="margin: 3px;padding:0px;">
+				   <a href="http://www.hnvnews.co.uk" title="UK News" style="color: #fff;">
+                                    <img src="/images/uk.jpg" title="UK News"  alt="UK News"/>
+				   </a>
+                                </div>
+                                
+                                <div class="col-md-3" style="margin: 3px;padding:0px;">
+				   <a href="http://www.hnvnews.com" title="US News" style="color: #fff;">
+                                    <img src="/images/us.jpg" title="US News" alt="US News" />
+				   </a>
+                                </div>
+
+			</div>
+                    </div>
+                    <div class="col-md-7 col-xs-12 kategoriPadding">
+                        <h4 class="haberKaynak">NEWS SOURCES</h4>
+                        <a class='altKategoriler hswt-item1' href='/source/5/BBC'>BBC</a><a class='altKategoriler hswt-item1' href='/source/15/City-A-M-'>City A.M.</a><a class='altKategoriler hswt-item1' href='/source/14/Contactmusic'>Contactmusic</a><a class='altKategoriler hswt-item1' href='/source/12/Daily-Star'>Daily Star</a><a class='altKategoriler hswt-item1' href='/source/7/Dailymail'>Dailymail</a><a class='altKategoriler hswt-item1' href='/source/8/Express'>Express</a><a class='altKategoriler hswt-item1' href='/source/9/Hello-Magazine'>Hello Magazine</a><a class='altKategoriler hswt-item1' href='/source/17/IBTimes'>IBTimes</a><a class='altKategoriler hswt-item1' href='/source/22/Independent'>Independent</a><a class='altKategoriler hswt-item1' href='/source/20/INVEZZ'>INVEZZ</a><a class='altKategoriler hswt-item1' href='/source/13/Macworld'>Macworld</a><a class='altKategoriler hswt-item1' href='/source/11/Manchester-Evening-News'>Manchester Evening News</a><a class='altKategoriler hswt-item1' href='/source/23/Metro'>Metro</a><a class='altKategoriler hswt-item1' href='/source/18/Money-Week'>Money Week</a><a class='altKategoriler hswt-item1' href='/source/19/PC-Advisor'>PC Advisor</a><a class='altKategoriler hswt-item1' href='/source/4/Reuters'>Reuters</a><a class='altKategoriler hswt-item1' href='/source/6/SKY-News'>SKY News</a><a class='altKategoriler hswt-item1' href='/source/21/The-Economist'>The Economist</a><a class='altKategoriler hswt-item1' href='/source/1/The-Guardian'>The Guardian</a><a class='altKategoriler hswt-item1' href='/source/10/Thomson-Reuters-Foundation'>Thomson Reuters Foundation</a><a class='altKategoriler hswt-item1' href='/source/16/Your-Local-Guardian'>Your Local Guardian</a>
+                    </div>
+                    <div class="footerMidRight clr col-md-3 kategoriPadding" style='display: inline-block;'>
+                        <h4 class="haberKaynak hidden-xs hidden-sm">SOCIAL MEDIA</h4>
+                        <div class="col-md-12 alt1 col-xs-6 no_padding" style="padding-bottom: 10px;">
+                            <a href="https://www.facebook.com/Hnvnews-584642965059856" target="_blank" rel="nofollow">
+                                <img class="img-responsive sag" src="/images/footer_facebook.png" alt="" /></a>
+                        </div>
+                        <div class="col-md-12 alt1 col-xs-6 no_padding">
+                            <a href="https://twitter.com/hnvcouk" target="_blank" rel="nofollow">
+                                <img class="img-responsive sag" src="/images/footer_twitter.png" alt="" /></a>
+                        </div>
+                        <div class="col-md-12 col-xs-12 no_padding">
+                            <ul class="socialMediaButtons">
+                                <li>
+                                    <a href="https://plus.google.com/110989538448837329418" rel="publisher" target="_blank">
+                                        <img src="/images/follow_googleplus.png" alt="" /></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/hnvnews/" rel="publisher" target="_blank">
+                                        <img src="/images/follow_instagram.png" alt="" /></a>
+                                </li>
+                                
+                                <li class="last">
+                                    <a href="mailto:bilgi@haberlerdenevar.com" target="_blank" rel="nofollow">
+                                        <img src="/images/footer_mail.png" alt="" /></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="appCss col-md-12 alt1 no_padding" style='display: inline-block;'>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footerBottom  container-fluid ">
+            <div class="container ">
+                <div class="row ">
+                    <div class="col-md-2">
+                        <img class="img-responsive" src="/images/altlogo-en.png" />
+                    </div>
+                    <div class="col-md-6">
+                        <p class="beyazYazi">© Copyright 2016 Hnvnews.co.uk ( Met-Ay Bilişim Ltd.Şti. ) - All Rights Reserved.</p>
+                    </div>
+                    <div class="col-md-2">
+                        <a class="beyazYazi" style="line-height: 45px;" href="/contact">Contact Us</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Yukarı Çık" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
+    </form>
+
+    <link href="/Avesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.min.css" />
+    <link href="/css/StyleSheet.css" rel="stylesheet" />
+    <link href="/css/menu.css" rel="stylesheet" />
+
+    <script src="/js/responisve.js"></script>
+    <script src="/js/yanmenu.min.js"></script>
+    <script type="text/javascript" src="/js/jssor.slider.min.js"></script>
+    <script src="/js/slide.js"></script>
+    <script src="/js/gistfile1.js"></script>
+    <script src="/js/custom.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1938339-50', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsnmbst5MbpehiR2KMXfWtrccXTYK-yJI&libraries=geometry"></script>
+</body>
+</html>

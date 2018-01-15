@@ -1,0 +1,13 @@
+Server: nginx/1.9.10
+Date: Fri, 15 Dec 2017 20:44:42 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+X-Varnish: 8622542 1922576
+Age: 904
+Via: 1.1 varnish-v4
+Expires: Fri, 15 Dec 2017 20:47:42 GMT
+Cache-Control: max-age=180
+Strict-Transport-Security: max-age=604800
+X-Clacks-Overhead: GNU Terry Pratchett | The Truth Shall Make Ye Fret.
+Content-Encoding: gzip

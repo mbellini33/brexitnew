@@ -1,0 +1,15 @@
+Server: nginx/1.10.2
+Date: Fri, 15 Dec 2017 20:11:57 GMT
+Content-Type: text/plain; charset=utf-8
+Last-Modified: Tue, 28 Mar 2017 09:30:48 GMT
+Etag: "144-54bc71d7c592d-gzip"
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Set-Cookie: StickySession=id.59366767008.185uk.investing.com; path=/;
+Set-Cookie: StickySession=id.59366767008.185uk.investing.com; path=/;
+X-Varnish: 460037848
+Age: 0
+Via: 1.1 varnish
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content

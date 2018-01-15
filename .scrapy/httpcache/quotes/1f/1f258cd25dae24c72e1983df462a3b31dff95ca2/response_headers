@@ -1,0 +1,17 @@
+X-Frame-Options: DENY
+X-Xss-Protection: 0
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.facebook.com
+Access-Control-Expose-Headers: X-FB-Debug, X-Loader-Length
+Pragma: no-cache
+Vary: Origin
+Vary: Accept-Encoding
+Access-Control-Allow-Methods: OPTIONS
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+X-Fb-Debug: F81Cfi4Qzld45onWtpzHXtH9b2MQUcqCYozlBvdUZsuIyUPzH0G1mPXG69CSgCY7Ug1nk1RNMGGfawTnshjwhQ==
+Date: Fri, 15 Dec 2017 20:44:43 GMT

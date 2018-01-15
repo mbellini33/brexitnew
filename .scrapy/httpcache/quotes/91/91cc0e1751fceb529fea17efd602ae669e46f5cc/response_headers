@@ -1,0 +1,16 @@
+Location: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F164264540717524%2Fpermalink%2F176921769451801%2F
+X-Frame-Options: DENY
+X-Xss-Protection: 0
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.facebook.com
+Access-Control-Expose-Headers: X-FB-Debug, X-Loader-Length
+Pragma: no-cache
+Vary: Origin
+Access-Control-Allow-Methods: OPTIONS
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate
+Content-Type: text/html; charset=UTF-8
+X-Fb-Debug: pV+N4sc0sMBTwoqdbLoi0OAXLQJIzPww3Bp683tvSAfxxc7OXLmKf3tbl/VIeniGLVKjR+ILpd+0aHYQKRRptg==
+Date: Fri, 15 Dec 2017 20:06:27 GMT

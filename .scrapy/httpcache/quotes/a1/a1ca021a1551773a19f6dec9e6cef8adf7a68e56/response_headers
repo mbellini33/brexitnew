@@ -1,0 +1,4 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:35:34 GMT
+Set-Cookie: sid=80372e4a-e1d7-11e7-842c-5aa430012a56; path=/; domain=jobhere.org; HttpOnly
+Cache-Control: max-age=0, private, must-revalidate

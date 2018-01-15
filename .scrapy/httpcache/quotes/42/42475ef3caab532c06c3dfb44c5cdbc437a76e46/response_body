@@ -1,0 +1,29 @@
+User-agent: Applebot
+Disallow:
+User-agent: Googlebot
+Disallow:
+User-Agent: Mediapartners-Google
+Disallow:
+User-Agent: Googlebot
+Disallow:
+User-Agent: ScoutJet
+Disallow:
+User-Agent: Adsbot-Google
+Disallow:
+User-Agent: Googlebot-Mobile
+Disallow:
+User-agent: Googlebot-Image
+Disallow:
+User-agent: MSNBot
+Disallow:
+User-agent: Slurp
+Disallow:
+User-agent: Teoma
+Disallow:
+User-agent: Exabot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,13 @@
+Server: nginx
+Date: Fri, 15 Dec 2017 20:03:08 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/5.4.37
+Location: https://store.law.com/Registration/Login.aspx?mode=silent&source=www.treasuryandrisk.com%2F2017%2F01%2F12%2Fdraghi-calls-for-ecb-oversight-of-uk-clearing-afte%3Fslreturn%3D1513368188&refDomain=store.treasuryandrisk.com
+Cache-Control: max-age=0, public, public
+Cache-Control: public
+Expires: Fri, 15 Dec 2017 20:03:08 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Ua-Compatible: IE=Edge,chrome=1
+Sbmcloud: Server = Web3
+Bypass: CACHE
